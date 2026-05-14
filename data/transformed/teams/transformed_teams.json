@@ -1,0 +1,182 @@
+[
+  {
+    "team_id": 33,
+    "team_name": "Manchester United",
+    "country": "England",
+    "founded": 1878,
+    "logo": "https://media.api-sports.io/football/teams/33.png",
+    "venue": "Old Trafford",
+    "venue_city": "Manchester"
+  },
+  {
+    "team_id": 34,
+    "team_name": "Newcastle",
+    "country": "England",
+    "founded": 1892,
+    "logo": "https://media.api-sports.io/football/teams/34.png",
+    "venue": "St. James' Park",
+    "venue_city": "Newcastle upon Tyne"
+  },
+  {
+    "team_id": 35,
+    "team_name": "Bournemouth",
+    "country": "England",
+    "founded": 1899,
+    "logo": "https://media.api-sports.io/football/teams/35.png",
+    "venue": "Vitality Stadium",
+    "venue_city": "Bournemouth, Dorset"
+  },
+  {
+    "team_id": 36,
+    "team_name": "Fulham",
+    "country": "England",
+    "founded": 1879,
+    "logo": "https://media.api-sports.io/football/teams/36.png",
+    "venue": "Craven Cottage",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 39,
+    "team_name": "Wolves",
+    "country": "England",
+    "founded": 1877,
+    "logo": "https://media.api-sports.io/football/teams/39.png",
+    "venue": "Molineux Stadium",
+    "venue_city": "Wolverhampton, West Midlands"
+  },
+  {
+    "team_id": 40,
+    "team_name": "Liverpool",
+    "country": "England",
+    "founded": 1892,
+    "logo": "https://media.api-sports.io/football/teams/40.png",
+    "venue": "Anfield",
+    "venue_city": "Liverpool"
+  },
+  {
+    "team_id": 41,
+    "team_name": "Southampton",
+    "country": "England",
+    "founded": 1885,
+    "logo": "https://media.api-sports.io/football/teams/41.png",
+    "venue": "St. Mary's Stadium",
+    "venue_city": "Southampton, Hampshire"
+  },
+  {
+    "team_id": 42,
+    "team_name": "Arsenal",
+    "country": "England",
+    "founded": 1886,
+    "logo": "https://media.api-sports.io/football/teams/42.png",
+    "venue": "Emirates Stadium",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 45,
+    "team_name": "Everton",
+    "country": "England",
+    "founded": 1878,
+    "logo": "https://media.api-sports.io/football/teams/45.png",
+    "venue": "Hill Dickinson Stadium",
+    "venue_city": "Liverpool, Merseyside"
+  },
+  {
+    "team_id": 46,
+    "team_name": "Leicester",
+    "country": "England",
+    "founded": 1884,
+    "logo": "https://media.api-sports.io/football/teams/46.png",
+    "venue": "King Power Stadium",
+    "venue_city": "Leicester, Leicestershire"
+  },
+  {
+    "team_id": 47,
+    "team_name": "Tottenham",
+    "country": "England",
+    "founded": 1882,
+    "logo": "https://media.api-sports.io/football/teams/47.png",
+    "venue": "Tottenham Hotspur Stadium",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 48,
+    "team_name": "West Ham",
+    "country": "England",
+    "founded": 1895,
+    "logo": "https://media.api-sports.io/football/teams/48.png",
+    "venue": "London Stadium",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 49,
+    "team_name": "Chelsea",
+    "country": "England",
+    "founded": 1905,
+    "logo": "https://media.api-sports.io/football/teams/49.png",
+    "venue": "Stamford Bridge",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 50,
+    "team_name": "Manchester City",
+    "country": "England",
+    "founded": 1880,
+    "logo": "https://media.api-sports.io/football/teams/50.png",
+    "venue": "Etihad Stadium",
+    "venue_city": "Manchester"
+  },
+  {
+    "team_id": 51,
+    "team_name": "Brighton",
+    "country": "England",
+    "founded": 1901,
+    "logo": "https://media.api-sports.io/football/teams/51.png",
+    "venue": "American Express Stadium",
+    "venue_city": "Falmer, East Sussex"
+  },
+  {
+    "team_id": 52,
+    "team_name": "Crystal Palace",
+    "country": "England",
+    "founded": 1861,
+    "logo": "https://media.api-sports.io/football/teams/52.png",
+    "venue": "Selhurst Park",
+    "venue_city": "London"
+  },
+  {
+    "team_id": 55,
+    "team_name": "Brentford",
+    "country": "England",
+    "founded": 1889,
+    "logo": "https://media.api-sports.io/football/teams/55.png",
+    "venue": "Gtech Community Stadium",
+    "venue_city": "Brentford, Middlesex"
+  },
+  {
+    "team_id": 57,
+    "team_name": "Ipswich",
+    "country": "England",
+    "founded": 1878,
+    "logo": "https://media.api-sports.io/football/teams/57.png",
+    "venue": "Portman Road",
+    "venue_city": "Ipswich, Suffolk"
+  },
+  {
+    "team_id": 65,
+    "team_name": "Nottingham Forest",
+    "country": "England",
+    "founded": 1865,
+    "logo": "https://media.api-sports.io/football/teams/65.png",
+    "venue": "The City Ground",
+    "venue_city": "Nottingham, Nottinghamshire"
+  },
+  {
+    "team_id": 66,
+    "team_name": "Aston Villa",
+    "country": "England",
+    "founded": 1874,
+    "logo": "https://media.api-sports.io/football/teams/66.png",
+    "venue": "Villa Park",
+    "venue_city": "Birmingham"
+  }
+]

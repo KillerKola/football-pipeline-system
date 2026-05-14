@@ -5,7 +5,6 @@ CREATE TABLE football.leagues (
     season INTEGER NOT NULL,
     league_name VARCHAR(100) NOT NULL,
     country VARCHAR(100),
-    has_standings BOOLEAN,
     PRIMARY KEY (league_id, season)
 );
 
@@ -24,7 +23,7 @@ CREATE TABLE football.fixtures (
     fixture_id INTEGER PRIMARY KEY,
     league_id INTEGER NOT NULL,
     season INTEGER NOT NULL,
-    round VARCHAR(100),
+    round INTEGER,
     fixture_date TIMESTAMPTZ,
 
     status_short VARCHAR(10),
@@ -36,9 +35,6 @@ CREATE TABLE football.fixtures (
 	
     home_goals INTEGER,
     away_goals INTEGER,
-
-    halftime_home INTEGER,
-    halftime_away INTEGER,
 
     created_at TIMESTAMPTZ DEFAULT NOW(),
 
@@ -112,7 +108,6 @@ CREATE TABLE football.player_statistics (
 
     player_position VARCHAR(50),
     rating NUMERIC(4,2),
-    captain BOOLEAN,
 
     appearances INTEGER,
     lineups INTEGER,
@@ -127,8 +122,8 @@ CREATE TABLE football.player_statistics (
 
     goals_total INTEGER,
     goals_conceded INTEGER,
-    goals_assists INTEGER,
-    goals_saves INTEGER,
+    assists INTEGER,
+    saves INTEGER,
 
     passes_total INTEGER,
     passes_key INTEGER,
