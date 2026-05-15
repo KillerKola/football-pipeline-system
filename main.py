@@ -8,6 +8,7 @@ scripts = [
     "src/transformation/transform_fixtures.py",
     "src/transformation/transform_standings.py",
     "src/transformation/transform_players.py",
+    "src/load/create_db.py",
     "src/load/load_data.py"
 ]
 
