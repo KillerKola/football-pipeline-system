@@ -100,11 +100,10 @@ def load_players(cur):
                 player_id, firstname, lastname, age, birth_date, birth_place,
                 birth_country, nationality, height_cm, weight_kg, injured, photo
             )
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (player_id) DO UPDATE SET
                 firstname = EXCLUDED.firstname,
                 lastname = EXCLUDED.lastname,
-                age = EXCLUDED.age,
                 birth_date = EXCLUDED.birth_date,
                 birth_place = EXCLUDED.birth_place,
                 birth_country = EXCLUDED.birth_country,
@@ -117,7 +116,6 @@ def load_players(cur):
             row.get("player_id"),
             row.get("firstname"),
             row.get("lastname"),
-            to_int(row.get("age")),
             row.get("birth_date"),
             row.get("birth_place"),
             row.get("birth_country"),

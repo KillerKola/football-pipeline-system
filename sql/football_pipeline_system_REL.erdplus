@@ -1,0 +1,842 @@
+{
+  "diagramType": 2,
+  "data": {
+    "nodes": [
+      {
+        "id": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+        "type": "Table",
+        "position": {
+          "x": 1442.1690018200127,
+          "y": 526.5324128639179
+        },
+        "data": {
+          "label": "LEAGUES",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "5516010e-a2a6-414d-b53b-f853354685f2",
+              "name": "league_id",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+              "name": "season",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isUnique": true,
+              "isOptional": false
+            },
+            {
+              "id": "7860994c-52c0-42dd-83e3-4d2b1e4e6e9e",
+              "name": "league_name",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "3faee29b-6ff5-4704-afe8-f74f124c2f5d",
+              "name": "country",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 240,
+          "height": 125
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+        "type": "Table",
+        "position": {
+          "x": -123.32120216740839,
+          "y": 528.0123562919566
+        },
+        "data": {
+          "label": "TEAMS",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+              "name": "team_id",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "d9319fcc-b8d5-428f-9513-4b426c4a840c",
+              "name": "team_name",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "f25972a3-1032-45e7-8b79-7a69b1df8b14",
+              "name": "country",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "afad06e9-2998-4fd1-8831-11cde4bc9089",
+              "name": "venue_name",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "ed9105d8-70ab-4372-8464-67dd2d8e5ec4",
+              "name": "venue_city",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "1d34d7c0-e8d1-4634-a526-56f4bfe3a039",
+              "name": "founded",
+              "type": "DATE",
+              "isPrimaryKey": false
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 240,
+          "height": 174
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "da723788-4661-4728-9467-40e9efe680ec",
+        "type": "Table",
+        "position": {
+          "x": 965.8051447931532,
+          "y": 714.9184374828537
+        },
+        "data": {
+          "label": "FIXTURES",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "5821d951-1101-4906-92a1-df7a117a4051",
+              "name": "fixture_id",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "e0d84e62-3a33-4bcc-b09e-be0de0837f59",
+              "name": "round",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "b08426ad-2d32-494b-9999-1c84a53af0cd",
+              "name": "fixture_date",
+              "type": "DATE",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "efd6f709-bd02-4e77-a003-af3c1a030641",
+              "name": "status_short",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "10"
+            },
+            {
+              "id": "e35f34b1-917f-4f6d-96fa-c7085b4cbceb",
+              "name": "home_goals",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "92bc3ba4-0e49-4e9d-a30c-8fe598f2370a",
+              "name": "away_goals",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "63300e49-def0-40e9-9a27-e7e6b1fda464",
+              "name": "ht_home_goals",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "03767125-1acf-4c4f-b038-0cd02a7c5a17",
+              "name": "ht_away_goals",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "ed7eadf5-ab52-46fd-bcd8-b26fb3276dfd",
+              "name": "fk_TEAMS",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "70eb0c98-1534-4e12-973f-f5eec82fbf6d",
+                "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+                "columns": [
+                  {
+                    "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                    "name": "home_team_id",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isOptional": false
+            },
+            {
+              "id": "ba09ead0-184e-46f6-85f6-ba03b2ae3f73",
+              "name": "fk_TEAMS",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "7f0c30cd-c1aa-4de8-bec5-35d79777984f",
+                "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+                "columns": [
+                  {
+                    "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                    "name": "away_team_id",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isOptional": false
+            },
+            {
+              "id": "fk_f6edd414-0684-4080-a888-263c330193b0",
+              "name": "fk_LEAGUES",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "842680b1-f346-4671-b9d8-142527f8ef9f",
+                "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+                "columns": [
+                  {
+                    "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                    "name": "league_id",
+                    "type": "INT"
+                  },
+                  {
+                    "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                    "name": "season",
+                    "type": "INT"
+                  }
+                ]
+              }
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 240,
+          "height": 315
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "ec318cb8-e24e-4ddb-9fed-cf2eaf906946",
+        "type": "Table",
+        "position": {
+          "x": 595.9529232996388,
+          "y": 377.0834701981365
+        },
+        "data": {
+          "label": "STANDINGS",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "c2c875ea-9d44-4dd5-acb3-564bf0986257",
+              "name": "standing_id",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isOptional": false,
+              "isUnique": false
+            },
+            {
+              "id": "0a13ac55-e48b-4137-aec4-73090a95113d",
+              "name": "team_rank",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "ed51b226-e043-45be-bf05-ac197674b850",
+              "name": "points",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "f5ac283a-8852-4428-b14f-95e3a195ce25",
+              "name": "played",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "cf49eb1e-f411-42c0-9b29-cb0b48c45d21",
+              "name": "win",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "29f104f2-1c51-4fd5-9d72-092557330b6e",
+              "name": "draw",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "3e94a82e-6852-4126-9498-3646e7ae08bf",
+              "name": "lose",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "f130a33f-3ae6-498e-a379-44b56ad3c450",
+              "name": "goals_for",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "cdd0c909-d0f0-4526-a38f-51b3fd21cf82",
+              "name": "goals_against",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isUnique": false
+            },
+            {
+              "id": "9256f83f-ac2e-477d-8017-5b3af4931f3f",
+              "name": "fk_TEAMS",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "4f78c00c-dec6-4d5c-b48e-471cd5327bbf",
+                "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+                "columns": [
+                  {
+                    "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                    "name": "team_id",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isPrimaryKey": false,
+              "isOptional": false,
+              "isUnique": true
+            },
+            {
+              "id": "fk_468bf570-ca21-4218-b744-1bc323cd7aa7",
+              "name": "fk_LEAGUES",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "2d7e3171-2bec-47e6-9c4c-24dd95ee2adc",
+                "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+                "columns": [
+                  {
+                    "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                    "name": "league_id",
+                    "type": "INT"
+                  },
+                  {
+                    "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                    "name": "season",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isPrimaryKey": false,
+              "isOptional": false,
+              "isUnique": true
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false,
+          "isWeak": true
+        },
+        "measured": {
+          "width": 240,
+          "height": 315
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "f3e9c165-b220-4e9a-8072-edeee169cbee",
+        "type": "Table",
+        "position": {
+          "x": 137.19742338597865,
+          "y": 108.42593850898803
+        },
+        "data": {
+          "label": "PLAYERS",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "7e5a2758-3bc8-442a-8b71-ec0c6e30a344",
+              "name": "player_id",
+              "type": "INT",
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "8cb70318-49ce-496d-8c6d-48c89fe4e6e6",
+              "name": "firstname",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "709f2cf5-f429-4794-be49-414b15412560",
+              "name": "lastname",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "ff685041-4b0d-4c5b-8814-e757eb4f3df4",
+              "name": "birth_date",
+              "type": "DATE",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "32cc5dc2-3b61-4652-a776-f2ac891fa1ad",
+              "name": "nationality",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "d5098c2b-e107-40a8-ae14-f6ce52821aee",
+              "name": "birth_place",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
+            },
+            {
+              "id": "4c56faee-adea-4560-a222-d3a5551b245e",
+              "name": "height",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "d0bd06ed-e177-4f61-9620-78c56e53979c",
+              "name": "weight",
+              "type": "INT",
+              "isPrimaryKey": false
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 240,
+          "height": 224
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "d4e3dc43-53d5-4efb-9b95-87d6ccf71525",
+        "type": "Table",
+        "position": {
+          "x": 1019.6522111607042,
+          "y": 77.68245047669541
+        },
+        "data": {
+          "label": "PLAYER_STATS",
+          "isConnectable": false,
+          "columns": [
+            {
+              "id": "3a5c7c7d-e93f-4e14-8fd0-1e361ceea7ba",
+              "name": "player_position",
+              "type": "INT",
+              "isPrimaryKey": false
+            },
+            {
+              "id": "1017894f-36b4-4e97-b288-3843c98e0887",
+              "name": "rating",
+              "type": "NUMERIC(p s)",
+              "isPrimaryKey": false,
+              "isOptional": true,
+              "size": "4, 2"
+            },
+            {
+              "id": "eac73deb-500f-4076-a517-35ab71c08d6c",
+              "name": "appearances",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "728bed41-0cc3-45a3-8bd5-c953b68c21cd",
+              "name": "minutes",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "138d38d0-2f64-47e2-a4ab-dffce782680e",
+              "name": "goals",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "212c80f0-a0d9-4e2a-839f-33eee371c60d",
+              "name": "assists",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "fe93224a-0eee-489b-b1b5-37918f3fc604",
+              "name": "shots",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "db5ce7d0-ba5b-411a-ab7f-f3ca0d6d29a7",
+              "name": "saves",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "92604571-68c9-4d01-8e94-b05e3ea9057a",
+              "name": "passes",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "5fff44b8-1e8c-4195-96d1-396a386acd87",
+              "name": "dribbles",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "4e051d17-5c77-4788-a41b-6140f03ef0aa",
+              "name": "cards_yellow",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "50cb25fe-2830-41ae-89b8-d16cd966b6ab",
+              "name": "fouls",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "isOptional": true
+            },
+            {
+              "id": "474d61c3-492a-4a34-a025-76d839c4e218",
+              "name": "fk_PLAYERS",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "e1af6b6a-4e96-4ee0-953e-4c8cc600553a",
+                "sourceTableId": "f3e9c165-b220-4e9a-8072-edeee169cbee",
+                "columns": [
+                  {
+                    "id": "fk_7e5a2758-3bc8-442a-8b71-ec0c6e30a344",
+                    "name": "player_id",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "bdc83f76-e306-47d6-aa4b-94c0e542b29a",
+              "name": "fk_TEAMS",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "4e235efe-6e17-4821-b717-166de4fa8265",
+                "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+                "columns": [
+                  {
+                    "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                    "name": "team_id",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isPrimaryKey": true,
+              "isOptional": false
+            },
+            {
+              "id": "fk_8f28950e-4574-42c0-992f-e95dd1ae503b",
+              "name": "fk_LEAGUES",
+              "type": "None",
+              "isForeignKey": true,
+              "foreignKeyProps": {
+                "foreignKeyGroupId": "4bb85905-e9cc-4769-ab8a-0cfa6be57841",
+                "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+                "columns": [
+                  {
+                    "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                    "name": "league_id",
+                    "type": "INT"
+                  },
+                  {
+                    "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                    "name": "season",
+                    "type": "INT"
+                  }
+                ]
+              },
+              "isPrimaryKey": true,
+              "isOptional": false
+            }
+          ],
+          "numberOfGroups": 0,
+          "isSelected": false,
+          "isWeak": true
+        },
+        "measured": {
+          "width": 240,
+          "height": 414
+        },
+        "selected": false,
+        "dragging": false
+      }
+    ],
+    "edges": [
+      {
+        "id": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464->da723788-4661-4728-9467-40e9efe680ec_70eb0c98-1534-4e12-973f-f5eec82fbf6d",
+        "type": "Relational",
+        "source": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+        "targetHandle": "foreign-key-handle-70eb0c98-1534-4e12-973f-f5eec82fbf6d",
+        "target": "da723788-4661-4728-9467-40e9efe680ec",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "70eb0c98-1534-4e12-973f-f5eec82fbf6d",
+            "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+            "columns": [
+              {
+                "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                "name": "team_id",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464->da723788-4661-4728-9467-40e9efe680ec_7f0c30cd-c1aa-4de8-bec5-35d79777984f",
+        "type": "Relational",
+        "source": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+        "targetHandle": "foreign-key-handle-7f0c30cd-c1aa-4de8-bec5-35d79777984f",
+        "target": "da723788-4661-4728-9467-40e9efe680ec",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "7f0c30cd-c1aa-4de8-bec5-35d79777984f",
+            "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+            "columns": [
+              {
+                "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                "name": "team_id",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464->ec318cb8-e24e-4ddb-9fed-cf2eaf906946_4f78c00c-dec6-4d5c-b48e-471cd5327bbf",
+        "type": "Relational",
+        "source": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+        "targetHandle": "foreign-key-handle-4f78c00c-dec6-4d5c-b48e-471cd5327bbf",
+        "target": "ec318cb8-e24e-4ddb-9fed-cf2eaf906946",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "4f78c00c-dec6-4d5c-b48e-471cd5327bbf",
+            "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+            "columns": [
+              {
+                "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                "name": "team_id",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f3e9c165-b220-4e9a-8072-edeee169cbee->d4e3dc43-53d5-4efb-9b95-87d6ccf71525_e1af6b6a-4e96-4ee0-953e-4c8cc600553a",
+        "type": "Relational",
+        "source": "f3e9c165-b220-4e9a-8072-edeee169cbee",
+        "targetHandle": "foreign-key-handle-e1af6b6a-4e96-4ee0-953e-4c8cc600553a",
+        "target": "d4e3dc43-53d5-4efb-9b95-87d6ccf71525",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "e1af6b6a-4e96-4ee0-953e-4c8cc600553a",
+            "sourceTableId": "f3e9c165-b220-4e9a-8072-edeee169cbee",
+            "columns": [
+              {
+                "id": "fk_7e5a2758-3bc8-442a-8b71-ec0c6e30a344",
+                "name": "player_id",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464->d4e3dc43-53d5-4efb-9b95-87d6ccf71525_4e235efe-6e17-4821-b717-166de4fa8265",
+        "type": "Relational",
+        "source": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+        "targetHandle": "foreign-key-handle-4e235efe-6e17-4821-b717-166de4fa8265",
+        "target": "d4e3dc43-53d5-4efb-9b95-87d6ccf71525",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "4e235efe-6e17-4821-b717-166de4fa8265",
+            "sourceTableId": "647f66ff-8ce5-4e1d-b0dd-2ebee1481464",
+            "columns": [
+              {
+                "id": "fk_aa7f7bac-1d1b-45d4-8bbe-e2663bedac95",
+                "name": "team_id",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ae1830bb-2d48-4d08-8a7c-3494d257f03a->d4e3dc43-53d5-4efb-9b95-87d6ccf71525_4bb85905-e9cc-4769-ab8a-0cfa6be57841",
+        "type": "Relational",
+        "source": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+        "targetHandle": "foreign-key-handle-4bb85905-e9cc-4769-ab8a-0cfa6be57841",
+        "target": "d4e3dc43-53d5-4efb-9b95-87d6ccf71525",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "4bb85905-e9cc-4769-ab8a-0cfa6be57841",
+            "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+            "columns": [
+              {
+                "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                "name": "league_id",
+                "type": "INT"
+              },
+              {
+                "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                "name": "season",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ae1830bb-2d48-4d08-8a7c-3494d257f03a->da723788-4661-4728-9467-40e9efe680ec_842680b1-f346-4671-b9d8-142527f8ef9f",
+        "type": "Relational",
+        "source": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+        "targetHandle": "foreign-key-handle-842680b1-f346-4671-b9d8-142527f8ef9f",
+        "target": "da723788-4661-4728-9467-40e9efe680ec",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "842680b1-f346-4671-b9d8-142527f8ef9f",
+            "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+            "columns": [
+              {
+                "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                "name": "league_id",
+                "type": "INT"
+              },
+              {
+                "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                "name": "season",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ae1830bb-2d48-4d08-8a7c-3494d257f03a->ec318cb8-e24e-4ddb-9fed-cf2eaf906946_2d7e3171-2bec-47e6-9c4c-24dd95ee2adc",
+        "type": "Relational",
+        "source": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+        "targetHandle": "foreign-key-handle-2d7e3171-2bec-47e6-9c4c-24dd95ee2adc",
+        "target": "ec318cb8-e24e-4ddb-9fed-cf2eaf906946",
+        "markerStart": {
+          "type": "arrow"
+        },
+        "data": {
+          "foreignKeyProps": {
+            "foreignKeyGroupId": "2d7e3171-2bec-47e6-9c4c-24dd95ee2adc",
+            "sourceTableId": "ae1830bb-2d48-4d08-8a7c-3494d257f03a",
+            "columns": [
+              {
+                "id": "fk_5516010e-a2a6-414d-b53b-f853354685f2",
+                "name": "league_id",
+                "type": "INT"
+              },
+              {
+                "id": "fk_782012bb-1a6f-4af9-b36b-7cdcef64ad66",
+                "name": "season",
+                "type": "INT"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "viewport": {
+      "x": 284.271138251283,
+      "y": 29.65926845883456,
+      "zoom": 0.5
+    }
+  },
+  "name": "football_pipeline_system_ER-Relational Schema",
+  "folder": {
+    "name": "Diagrams",
+    "folderType": 1,
+    "depth": 0,
+    "id": 319370
+  },
+  "id": 458076,
+  "updatedAtTimestamp": 1778944691
+}

@@ -90,7 +90,6 @@ CREATE TABLE football.players (
     player_id INTEGER PRIMARY KEY,
     firstname VARCHAR(100),
     lastname VARCHAR(100),
-    age INTEGER CHECK (age > 0),
     birth_date DATE,
     birth_place VARCHAR(100),
     birth_country VARCHAR(100),

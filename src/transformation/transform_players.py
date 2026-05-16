@@ -17,7 +17,6 @@ def transform_players_file(file_path: Path):
             "player_id": player.get("id"),
             "firstname": player.get("firstname"),
             "lastname": player.get("lastname"),
-            "age": player.get("age"),
             "birth_date": birth.get("date"),
             "birth_place": birth.get("place"),
             "birth_country": birth.get("country"),

@@ -18,5 +18,3 @@ for script in scripts:
     if result.returncode != 0:
         print(f"Greška pri izvođenju skripte: {script}")
         sys.exit(result.returncode)
-
-print("Sve skripte su uspješno izvršene.")
