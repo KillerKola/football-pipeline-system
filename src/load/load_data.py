@@ -60,7 +60,7 @@ def load_leagues(cur):
             row.get("league_id"),
             row.get("season"),
             row.get("league_name"),
-            row.get("country"),
+            row.get("country_name"),
         ))
 
 
@@ -137,9 +137,9 @@ def load_fixtures(cur):
         cur.execute("""
             INSERT INTO football.fixtures (
                 fixture_id, league_id, season, round, fixture_date, status_short,
-                venue_name, home_team_id, away_team_id, home_goals, away_goals
+                venue_name, home_team_id, away_team_id, home_goals, away_goals, ht_home_goals, ht_away_goals
             )
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (fixture_id) DO UPDATE SET
                 league_id = EXCLUDED.league_id,
                 season = EXCLUDED.season,
@@ -150,7 +150,9 @@ def load_fixtures(cur):
                 home_team_id = EXCLUDED.home_team_id,
                 away_team_id = EXCLUDED.away_team_id,
                 home_goals = EXCLUDED.home_goals,
-                away_goals = EXCLUDED.away_goals
+                away_goals = EXCLUDED.away_goals,
+                ht_home_goals = EXCLUDED.ht_home_goals,
+                ht_away_goals = EXCLUDED.ht_away_goals
         """, (
             row["fixture_id"],
             row["league_id"],
@@ -158,11 +160,13 @@ def load_fixtures(cur):
             to_int(row.get("round")),
             row.get("fixture_date"),
             row.get("status_short"),
-            row.get("venue_name"),
+            row.get("venue"),
             row["home_team_id"],
             row["away_team_id"],
             to_int(row.get("home_goals")),
             to_int(row.get("away_goals")),
+            to_int(row.get("ht_home_goals")),
+            to_int(row.get("ht_away_goals")),
         ))
 
 

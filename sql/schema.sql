@@ -36,6 +36,9 @@ CREATE TABLE football.fixtures (
     home_goals INTEGER,
     away_goals INTEGER,
 
+    ht_home_goals INTEGER,
+    ht_away_goals INTEGER,
+
     created_at TIMESTAMPTZ DEFAULT NOW(),
 
     CONSTRAINT fk_fixtures_league

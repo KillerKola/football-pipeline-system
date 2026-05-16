@@ -17,6 +17,7 @@ def transform_fixtures_file(file_path: Path):
         league = item.get("league", {})
         teams = item.get("teams", {})
         goals = item.get("goals", {})
+        score = item.get("score", {})
 
         transformed_rows.append({
             "fixture_id": fixture.get("id"),
@@ -29,7 +30,9 @@ def transform_fixtures_file(file_path: Path):
             "home_team_id": teams.get("home").get("id"),
             "away_team_id": teams.get("away").get("id"),
             "home_goals": goals.get("home"),
-            "away_goals": goals.get("away")
+            "away_goals": goals.get("away"),
+            "ht_home_goals": score.get("halftime").get("home"),
+            "ht_away_goals": score.get("halftime").get("away")
         })
 
     return transformed_rows
