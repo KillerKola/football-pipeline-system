@@ -38,9 +38,8 @@ The following technologies are planned for use in the project:
 
 - **Python** – data extraction, processing, and transformation
 - **PostgreSQL** – data storage
-- **SQLAlchemy** – database interaction
+- **psycopg2** - database creation and data loading
 - **Prefect** or **Airflow** – pipeline orchestration
-- **FastAPI** – application/API layer
 - **Metabase** – visualization and dashboards
 - **Docker** – local deployment and service isolation
 - **Git / GitHub** – version control and development documentation
