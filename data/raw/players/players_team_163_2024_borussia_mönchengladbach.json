@@ -1,0 +1,6109 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "163",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 40,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2801,
+        "name": "J. Omlin",
+        "firstname": "Jonas",
+        "lastname": "Omlin",
+        "age": 31,
+        "birth": {
+          "date": "1994-01-10",
+          "place": "Sarnen",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "190",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2801.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 17,
+            "minutes": 979,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.941666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 26,
+            "assists": 0,
+            "saves": 47
+          },
+          "passes": {
+            "total": 464,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 1,
+            "assists": 0,
+            "saves": 2
+          },
+          "passes": {
+            "total": 40,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2803,
+        "name": "N. Elvedi",
+        "firstname": "Nico",
+        "lastname": "Elvedi",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-30",
+          "place": "Zürich",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "189",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 26,
+            "minutes": 2136,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.088000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1516,
+            "key": 5,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 27,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 159,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20784,
+        "name": "F. Honorat",
+        "firstname": "Franck",
+        "lastname": "Honorat",
+        "age": 29,
+        "birth": {
+          "date": "1996-08-11",
+          "place": "Toulon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20784.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1453,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.436842",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 20,
+            "on": 9
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 457,
+            "key": 51,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 98,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 164,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 54,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24839,
+        "name": "M. Friedrich",
+        "firstname": "Marvin",
+        "lastname": "Friedrich",
+        "age": 30,
+        "birth": {
+          "date": "1995-12-13",
+          "place": "Kassel",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24839.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 22,
+            "minutes": 991,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.752631",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 704,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 12,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 89,
+            "won": 55
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 116,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 87,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24969,
+        "name": "P. Sander",
+        "firstname": "Philipp",
+        "lastname": "Sander",
+        "age": 27,
+        "birth": {
+          "date": "1998-02-21",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24969.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 21,
+            "minutes": 1407,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.780769",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 13,
+            "on": 8
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 723,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 7,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 144,
+            "won": 83
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 96,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25461,
+        "name": "K. Stöger",
+        "firstname": "Kevin",
+        "lastname": "Stöger",
+        "age": 32,
+        "birth": {
+          "date": "1993-08-27",
+          "place": "Steyr",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "175",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25461.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 26,
+            "minutes": 1553,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.038709",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 21,
+            "on": 12
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 973,
+            "key": 53,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 3,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 198,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 176,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 119,
+            "key": 6,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 16,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25626,
+        "name": "M. Nicolas",
+        "firstname": "Moritz",
+        "lastname": "Nicolas",
+        "age": 28,
+        "birth": {
+          "date": "1997-10-21",
+          "place": "Gladbeck",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "87",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25626.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 19,
+            "minutes": 1640,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.405263",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 25,
+            "assists": 0,
+            "saves": 68
+          },
+          "passes": {
+            "total": 706,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": 0,
+            "saves": 4
+          },
+          "passes": {
+            "total": 17,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25627,
+        "name": "T. Sippel",
+        "firstname": "Tobias",
+        "lastname": "Sippel",
+        "age": 37,
+        "birth": {
+          "date": "1988-03-22",
+          "place": "Bad Dürkheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25627.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 7,
+            "minutes": 58,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 3,
+            "assists": 0,
+            "saves": 1
+          },
+          "passes": {
+            "total": 32,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25638,
+        "name": "F. Neuhaus",
+        "firstname": "Florian Christian",
+        "lastname": "Neuhaus",
+        "age": 28,
+        "birth": {
+          "date": "1997-03-16",
+          "place": "Landsberg am Lech",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 2,
+            "minutes": 366,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.668750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 1,
+            "bench": 28
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 220,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 2,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 42,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": null,
+            "accuracy": 52
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 50852,
+        "name": "J. Scally",
+        "firstname": "Joseph Michael",
+        "lastname": "Scally",
+        "age": 23,
+        "birth": {
+          "date": "2002-12-31",
+          "place": "Lake Grove",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "184",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/50852.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2586,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.653125",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1267,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 45,
+            "blocks": 11,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 265,
+            "won": 147
+          },
+          "dribbles": {
+            "attempts": 56,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 48,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 175,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 103,
+            "key": 1,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 163069,
+        "name": "L. Netz",
+        "firstname": "Luca",
+        "lastname": "Netz",
+        "age": 22,
+        "birth": {
+          "date": "2003-05-15",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/163069.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 18,
+            "minutes": 962,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.683333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 441,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 4,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 100,
+            "won": 48
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "8.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 16,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180298,
+        "name": "O. Fraulo",
+        "firstname": "Oscar Luigi",
+        "lastname": "Fraulo",
+        "age": 22,
+        "birth": {
+          "date": "2003-12-06",
+          "place": "Odense",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "180",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180298.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 203007,
+        "name": "R. Reitz",
+        "firstname": "Rocco",
+        "lastname": "Reitz",
+        "age": 23,
+        "birth": {
+          "date": "2002-05-29",
+          "place": "Duisburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/203007.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 21,
+            "minutes": 1841,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.073076",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 16,
+            "bench": 6
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 850,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 16,
+            "interceptions": 53
+          },
+          "duels": {
+            "total": 216,
+            "won": 123
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 72,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280358,
+        "name": "J. Castrop",
+        "firstname": "Jens",
+        "lastname": "Castrop",
+        "age": 22,
+        "birth": {
+          "date": "2003-07-29",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280358.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 85,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 322627,
+        "name": "F. Chiarodia",
+        "firstname": "Fabio Christian",
+        "lastname": "Chiarodia",
+        "age": 20,
+        "birth": {
+          "date": "2005-06-05",
+          "place": "Oldenburg",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/322627.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 17,
+            "minutes": 385,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.709090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 199,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 28,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 64,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327646,
+        "name": "L. Ullrich",
+        "firstname": "Lukas",
+        "lastname": "Ullrich",
+        "age": 21,
+        "birth": {
+          "date": "2004-03-16",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 27,
+            "minutes": 1916,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.565384",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 669,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 9,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 151,
+            "won": 64
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 340155,
+        "name": "T. Pereira Cardoso",
+        "firstname": "Tiago",
+        "lastname": "Pereira Cardoso",
+        "age": 19,
+        "birth": {
+          "date": "2006-04-07",
+          "place": null,
+          "country": "Luxembourg"
+        },
+        "nationality": "Luxembourg",
+        "height": "191",
+        "weight": "87",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/340155.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 8,
+            "minutes": 379,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.560000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 3,
+            "assists": 0,
+            "saves": 20
+          },
+          "passes": {
+            "total": 157,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 394668,
+        "name": "Yannik David Dasbach",
+        "firstname": "Yannik David",
+        "lastname": "Dasbach",
+        "age": 19,
+        "birth": {
+          "date": "2006-01-21",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/394668.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 412705,
+        "name": "Charles Herrmann",
+        "firstname": "Charles",
+        "lastname": "Herrmann",
+        "age": 19,
+        "birth": {
+          "date": "2006-01-21",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/412705.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 442151,
+        "name": "Niklas Swider",
+        "firstname": "Niklas",
+        "lastname": "Swider",
+        "age": 18,
+        "birth": {
+          "date": "2007-01-05",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/442151.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19,
+        "name": "J. Weigl",
+        "firstname": "Julian",
+        "lastname": "Weigl",
+        "age": 30,
+        "birth": {
+          "date": "1995-09-08",
+          "place": "Bad Aibling",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2888,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.009090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 16,
+            "on": 6
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1742,
+            "key": 12,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 27,
+            "interceptions": 47
+          },
+          "duels": {
+            "total": 189,
+            "won": 123
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 135,
+            "key": 2,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 19,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 725,
+        "name": "R. Hack",
+        "firstname": "Robin",
+        "lastname": "Hack",
+        "age": 27,
+        "birth": {
+          "date": "1998-08-27",
+          "place": "Pforzheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/725.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 30,
+            "minutes": 2189,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 46,
+            "on": 24
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 810,
+            "key": 32,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 2,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 219,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 21,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1082,
+        "name": "S. Lainer",
+        "firstname": "Stefan",
+        "lastname": "Lainer",
+        "age": 33,
+        "birth": {
+          "date": "1992-08-27",
+          "place": "Salzburg",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "175",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1082.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 6,
+            "minutes": 744,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.640000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 1,
+            "bench": 27
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 358,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 6,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 72,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 21,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22147,
+        "name": "M. Koné",
+        "firstname": "Kouadio Emmanuel",
+        "lastname": "Koné",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-17",
+          "place": "Colombes",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22148,
+        "name": "N. Ngoumou",
+        "firstname": "Nathan",
+        "lastname": "Ngoumou Minpole",
+        "age": 25,
+        "birth": {
+          "date": "2000-03-14",
+          "place": "Toulouse",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22148.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 13,
+            "minutes": 848,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.826315",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 18,
+            "on": 13
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 234,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 97,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 30,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25637,
+        "name": "C. Kramer",
+        "firstname": "Christoph",
+        "lastname": "Kramer",
+        "age": 33,
+        "birth": {
+          "date": "1991-02-19",
+          "place": "Solingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25637.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25646,
+        "name": "A. Pléa",
+        "firstname": "Alassane Alexandre",
+        "lastname": "Pléa",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-10",
+          "place": "Lille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 24,
+            "minutes": 1914,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.106896",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 18,
+            "bench": 8
+          },
+          "shots": {
+            "total": 26,
+            "on": 14
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 729,
+            "key": 26,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 170,
+            "won": 70
+          },
+          "dribbles": {
+            "attempts": 40,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 84,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26256,
+        "name": "T. Kleindienst",
+        "firstname": "Tim",
+        "lastname": "Kleindienst",
+        "age": 30,
+        "birth": {
+          "date": "1995-08-31",
+          "place": "Jüterbog",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "194",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26256.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2743,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.312903",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 58,
+            "on": 39
+          },
+          "goals": {
+            "total": 16,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 722,
+            "key": 29,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 9,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 505,
+            "won": 218
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 75
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 39,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 21,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38114,
+        "name": "K. Itakura",
+        "firstname": "Ko",
+        "lastname": "Itakura",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-27",
+          "place": "Yokohama",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "188",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38114.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2790,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.864516",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1797,
+            "key": 7,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 22,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 221,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 138,
+            "key": null,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 80434,
+        "name": "T. Čvančara",
+        "firstname": "Tomáš",
+        "lastname": "Čvančara",
+        "age": 25,
+        "birth": {
+          "date": "2000-08-13",
+          "place": null,
+          "country": "Czechia"
+        },
+        "nationality": "Czechia",
+        "height": "190",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/80434.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 17,
+            "minutes": 822,
+            "number": null,
+            "position": "Forward",
+            "rating": "6.444444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 19,
+            "on": 9
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 217,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 75,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 22,
+            "number": null,
+            "position": "Forward",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 106851,
+        "name": "S. Machino",
+        "firstname": "Shuto",
+        "lastname": "Machino",
+        "age": 26,
+        "birth": {
+          "date": "1999-09-30",
+          "place": "Iga",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "185",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/106851.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 30,
+            "minutes": 1960,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.043750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 41,
+            "on": 23
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 555,
+            "key": 29,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 3,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 166,
+            "won": 70
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 70,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 161921,
+        "name": "G. Reyna",
+        "firstname": "Giovanni Alejandro",
+        "lastname": "Reyna",
+        "age": 23,
+        "birth": {
+          "date": "2002-11-13",
+          "place": "Durham",
+          "country": "England"
+        },
+        "nationality": "USA",
+        "height": "185",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/161921.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 15,
+            "minutes": 362,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.685714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 190,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 46,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178405,
+        "name": "J. Olschowsky",
+        "firstname": "Jan Jakob",
+        "lastname": "Olschowsky",
+        "age": 24,
+        "birth": {
+          "date": "2001-11-18",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178405.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178407,
+        "name": "M. Brüll",
+        "firstname": "Maximilian",
+        "lastname": "Brüll",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-26",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178407.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280427,
+        "name": "G. Ranos",
+        "firstname": "Grant-Leon",
+        "lastname": "Ranos",
+        "age": 22,
+        "birth": {
+          "date": "2003-07-20",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Armenia",
+        "height": "180",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280427.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 18,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 318531,
+        "name": "Y. Borges Sanches",
+        "firstname": "Yvandro",
+        "lastname": "Borges Sanches",
+        "age": 21,
+        "birth": {
+          "date": "2004-05-24",
+          "place": null,
+          "country": "Luxembourg"
+        },
+        "nationality": "Luxembourg",
+        "height": "175",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/318531.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327664,
+        "name": "V. Stange",
+        "firstname": "Veit",
+        "lastname": "Stange",
+        "age": 21,
+        "birth": {
+          "date": "2004-02-08",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327664.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 334092,
+        "name": "Noah Pesch",
+        "firstname": "Noah",
+        "lastname": "Pesch",
+        "age": 20,
+        "birth": {
+          "date": "2005-02-18",
+          "place": "Eschweiler",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/334092.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 9,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 342173,
+        "name": "S. Walde",
+        "firstname": "Simon",
+        "lastname": "Walde",
+        "age": 20,
+        "birth": {
+          "date": "2005-01-04",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/342173.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 405112,
+        "name": "S. Fukuda",
+        "firstname": "Shio",
+        "lastname": "Fukuda",
+        "age": 21,
+        "birth": {
+          "date": "2004-04-08",
+          "place": "Kanoya",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "178",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/405112.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 11,
+            "minutes": 61,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.675000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 13,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -19,11 +19,12 @@ def transform_fixtures_file(file_path: Path):
         goals = item.get("goals", {})
         score = item.get("score", {})
 
+        r = league.get("round").split("-")[-1].strip()
         transformed_rows.append({
             "fixture_id": fixture.get("id"),
             "league_id": league.get("id"),
             "season": league.get("season"),
-            "round": int(league.get("round").split("-")[-1].strip()),
+            "round": int(r) if r.isdigit() else 35,
             "fixture_date": fixture.get("date"),
             "status_short": fixture.get("status").get("short"),
             "venue": fixture.get("venue").get("name"),

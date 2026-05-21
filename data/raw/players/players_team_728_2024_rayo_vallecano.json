@@ -1,0 +1,6584 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "728",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 45,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 52,
+        "name": "Sergio Camello",
+        "firstname": "Sergio",
+        "lastname": "Camello Pérez",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-10",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/52.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 14,
+            "minutes": 1138,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.830434",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 14,
+            "bench": 11
+          },
+          "shots": {
+            "total": 23,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 254,
+            "key": 19,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 114,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 97,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 119,
+        "name": "R. Falcao",
+        "firstname": "Radamel Falcao",
+        "lastname": "García Zárate",
+        "age": 39,
+        "birth": {
+          "date": "1986-02-10",
+          "place": "Santa Marta",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "177",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/119.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41973,
+        "name": "Miguel Crespo",
+        "firstname": "Miguel",
+        "lastname": "Crespo da Silva",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-11",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "Portugal",
+        "height": "186",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41973.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46654,
+        "name": "Aridane",
+        "firstname": "Aridane",
+        "lastname": "Hernández Umpiérrez",
+        "age": 36,
+        "birth": {
+          "date": "1989-03-23",
+          "place": "Tuineje",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "186 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46654.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 11,
+            "minutes": 1024,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.942857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 26
+          },
+          "shots": {
+            "total": 8,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 527,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 8,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 94,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 333,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 78,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 14,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46803,
+        "name": "Joni Montiel",
+        "firstname": "Jonathan",
+        "lastname": "Montiel Caballero",
+        "age": 27,
+        "birth": {
+          "date": "1998-09-03",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 27,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47209,
+        "name": "Andrés Martín",
+        "firstname": "Andrés",
+        "lastname": "Martín García",
+        "age": 26,
+        "birth": {
+          "date": "1999-07-11",
+          "place": "Aguadulce",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47209.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47495,
+        "name": "Sergi Guardiola",
+        "firstname": "Sergio",
+        "lastname": "Guardiola Navarro",
+        "age": 34,
+        "birth": {
+          "date": "1991-05-29",
+          "place": "Manacor",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47495.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 1,
+            "minutes": 348,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 1,
+            "bench": 33
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 80,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 47,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 157,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47527,
+        "name": "S. Dimitrievski",
+        "firstname": "Stole",
+        "lastname": "Dimitrievski",
+        "age": 32,
+        "birth": {
+          "date": "1993-12-25",
+          "place": "Kumanovo",
+          "country": "North Macedonia"
+        },
+        "nationality": "North Macedonia",
+        "height": "188",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47527.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47529,
+        "name": "Miguel Ángel Morro",
+        "firstname": "Miguel Ángel",
+        "lastname": "Morro Muñoz",
+        "age": 25,
+        "birth": {
+          "date": "2000-09-11",
+          "place": "Alcalá de Henares",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "193 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47529.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47536,
+        "name": "Martín Pascual",
+        "firstname": "Martín",
+        "lastname": "Pascual Castillo",
+        "age": 26,
+        "birth": {
+          "date": "1999-08-04",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47536.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47551,
+        "name": "Raúl de Tomás",
+        "firstname": "Raúl",
+        "lastname": "de Tomás Gómez",
+        "age": 31,
+        "birth": {
+          "date": "1994-10-17",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47551.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 20,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 20
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47554,
+        "name": "Adri Embarba",
+        "firstname": "Adrián",
+        "lastname": "Embarba Blázquez",
+        "age": 33,
+        "birth": {
+          "date": "1992-05-07",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47554.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 18,
+            "minutes": 1607,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.680000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 17,
+            "out": 17,
+            "bench": 20
+          },
+          "shots": {
+            "total": 27,
+            "on": 12
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 468,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 1,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 235,
+            "won": 98
+          },
+          "dribbles": {
+            "attempts": 52,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 182,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 14,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47557,
+        "name": "Ó. Trejo",
+        "firstname": "Óscar Guido",
+        "lastname": "Trejo",
+        "age": 37,
+        "birth": {
+          "date": "1988-04-26",
+          "place": "Santiago del Estero",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47557.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 6,
+            "minutes": 489,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.568421",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 6,
+            "bench": 32
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 295,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 101,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 305,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 68,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 25,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 107153,
+        "name": "Kike Pérez",
+        "firstname": "Enrique",
+        "lastname": "Pérez Muñoz",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-14",
+          "place": "Gálvez",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/107153.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 128582,
+        "name": "Jorge de Frutos",
+        "firstname": "Jorge",
+        "lastname": "de Frutos Sebastián",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-20",
+          "place": "Navares de Enmedio",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/128582.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 30,
+            "minutes": 2512,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.736111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 23,
+            "bench": 6
+          },
+          "shots": {
+            "total": 41,
+            "on": 19
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 579,
+            "key": 32,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": null,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 314,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 94,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 151,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288144,
+        "name": "Mario Ramos Fernández",
+        "firstname": "Mario",
+        "lastname": "Ramos Fernández",
+        "age": 21,
+        "birth": {
+          "date": "2004-01-01",
+          "place": "Badajoz",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288144.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 303115,
+        "name": "E. Eto&apos;o Pineda",
+        "firstname": "Etienne",
+        "lastname": "Eto'o Pineda",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-18",
+          "place": "Palma",
+          "country": "Spain"
+        },
+        "nationality": "Cameroon",
+        "height": "191",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/303115.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 5,
+            "minutes": 44,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": null,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 333378,
+        "name": "Diego Méndez",
+        "firstname": "Diego",
+        "lastname": "Méndez Molero",
+        "age": 22,
+        "birth": {
+          "date": "2003-08-29",
+          "place": "Móstoles",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/333378.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 409186,
+        "name": "Miguel Benedi",
+        "firstname": "Miguel",
+        "lastname": "Benedi Fabián",
+        "age": 22,
+        "birth": {
+          "date": "2003-05-13",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/409186.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 469405,
+        "name": "Sergio Lozano",
+        "firstname": "Sergio José",
+        "lastname": "Lozano Martínez",
+        "age": 19,
+        "birth": {
+          "date": "2006-03-30",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/469405.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1703,
+        "name": "A. Rațiu",
+        "firstname": "Andrei Florin",
+        "lastname": "Rațiu",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-20",
+          "place": "Aiud",
+          "country": "Romania"
+        },
+        "nationality": "Romania",
+        "height": "183",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1703.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 35,
+            "minutes": 3067,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.960000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 20,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1380,
+            "key": 36,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 73,
+            "blocks": 5,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 386,
+            "won": 191
+          },
+          "dribbles": {
+            "attempts": 142,
+            "success": 77,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 18,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15900,
+        "name": "A. Mumin",
+        "firstname": "Khalid Abdul",
+        "lastname": "Mumin Suleman",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-06",
+          "place": "Accra",
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "188",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15900.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 24,
+            "minutes": 2020,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1077,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 29,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 150,
+            "won": 84
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 1,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 3,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20520,
+        "name": "I. Balliu",
+        "firstname": "Iván",
+        "lastname": "Balliu Campeny",
+        "age": 33,
+        "birth": {
+          "date": "1992-01-01",
+          "place": "Caldas de Malavella",
+          "country": "Spain"
+        },
+        "nationality": "Albania",
+        "height": "172",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20520.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 24,
+            "minutes": 1225,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.668000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 466,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 4,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 109,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 70,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41552,
+        "name": "P. Ciss",
+        "firstname": "Pathé Ismaël",
+        "lastname": "Ciss",
+        "age": 31,
+        "birth": {
+          "date": "1994-03-16",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "186",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41552.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 32,
+            "minutes": 2159,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.863636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 16,
+            "on": 6
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1163,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 10,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 255,
+            "won": 134
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 45
+          },
+          "cards": {
+            "yellow": 12,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46759,
+        "name": "A. Espino",
+        "firstname": "Luis Alfonso",
+        "lastname": "Espino García",
+        "age": 33,
+        "birth": {
+          "date": "1992-01-05",
+          "place": "San Jacinto",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "172",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46759.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 16,
+            "minutes": 841,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.756250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 8,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 388,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 41,
+            "blocks": 6,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 139,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 155,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 79,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 16,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46887,
+        "name": "Pedro Díaz",
+        "firstname": "Pedro",
+        "lastname": "Díaz Fanjul",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-05",
+          "place": "Siero",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46887.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 25,
+            "minutes": 1220,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.788461",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 22,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 517,
+            "key": 26,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 113,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 65,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47109,
+        "name": "Óscar Valentín",
+        "firstname": "Óscar Valentín",
+        "lastname": "Martín Luengo",
+        "age": 31,
+        "birth": {
+          "date": "1994-08-20",
+          "place": "Navalmoral de la Mata",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47109.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 25,
+            "minutes": 1844,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.658823",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 826,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 8,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 268,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 57
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 116,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 24,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47285,
+        "name": "Unai López",
+        "firstname": "Unai",
+        "lastname": "López Cabrera",
+        "age": 30,
+        "birth": {
+          "date": "1995-10-30",
+          "place": "Errenteria",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "170",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47285.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 23,
+            "minutes": 1720,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.878125",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 20,
+            "bench": 10
+          },
+          "shots": {
+            "total": 19,
+            "on": 11
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1186,
+            "key": 19,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 6,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 155,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 51,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47414,
+        "name": "Gumbau",
+        "firstname": "Gerard",
+        "lastname": "Gumbau Garriga",
+        "age": 31,
+        "birth": {
+          "date": "1994-12-18",
+          "place": "Campllong",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "187",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47414.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 7,
+            "minutes": 841,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.681818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 7,
+            "bench": 30
+          },
+          "shots": {
+            "total": 11,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 376,
+            "key": 17,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 4,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 101,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 200,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 30,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47543,
+        "name": "Álvaro García",
+        "firstname": "Álvaro",
+        "lastname": "García Rivera",
+        "age": 33,
+        "birth": {
+          "date": "1992-10-27",
+          "place": "Utrera",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "167",
+        "weight": "61",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47543.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 33,
+            "minutes": 2565,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.047222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 55,
+            "on": 26
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 721,
+            "key": 49,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": null,
+            "interceptions": 33
+          },
+          "duels": {
+            "total": 158,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 82,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 122657,
+        "name": "R. Nteka",
+        "firstname": "Randy",
+        "lastname": "Nteka",
+        "age": 28,
+        "birth": {
+          "date": "1997-12-06",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "189",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/122657.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 16,
+            "minutes": 1137,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.683333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 16,
+            "bench": 17
+          },
+          "shots": {
+            "total": 14,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 217,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 196,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 220,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 20,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 16,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 131546,
+        "name": "Isi Palazón",
+        "firstname": "Isaac",
+        "lastname": "Palazón Camacho",
+        "age": 31,
+        "birth": {
+          "date": "1994-12-27",
+          "place": "Cieza",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "169",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/131546.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 31,
+            "minutes": 2189,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.945714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 40,
+            "on": 18
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 889,
+            "key": 48,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 3,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 297,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 53,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 50,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 156488,
+        "name": "Dani Cárdenas",
+        "firstname": "Daniel",
+        "lastname": "Cárdenas Lindez",
+        "age": 28,
+        "birth": {
+          "date": "1997-03-28",
+          "place": "Terrassa",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "186",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/156488.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 22,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 6,
+            "assists": 0,
+            "saves": 14
+          },
+          "passes": {
+            "total": 157,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 4,
+            "assists": 0,
+            "saves": 4
+          },
+          "passes": {
+            "total": 56,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162931,
+        "name": "Fran Pérez",
+        "firstname": "Francisco",
+        "lastname": "Pérez Martínez",
+        "age": 23,
+        "birth": {
+          "date": "2002-09-09",
+          "place": "Valencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162931.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 16,
+            "minutes": 604,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.572000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 196,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 89,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 181734,
+        "name": "Pep Chavarría",
+        "firstname": "Josep María",
+        "lastname": "Chavarría Pérez",
+        "age": 27,
+        "birth": {
+          "date": "1998-04-10",
+          "place": "Figueres",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "174",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/181734.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 35,
+            "minutes": 2589,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.897058",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1214,
+            "key": 24,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 9,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 204,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 20,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 285505,
+        "name": "Juanpe",
+        "firstname": "Juan Pedro",
+        "lastname": "Gil Bueno",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-05",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/285505.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 314006,
+        "name": "J. Vertrouwd",
+        "firstname": "Jozhua",
+        "lastname": "Vertrouwd",
+        "age": 21,
+        "birth": {
+          "date": "2004-08-21",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "188",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/314006.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 15,
+            "minutes": 492,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.525000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 156,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 70,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 333292,
+        "name": "Pelayo Fernández",
+        "firstname": "Pelayo",
+        "lastname": "Fernández Balboa",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-29",
+          "place": "Avilés",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/333292.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 12,
+            "minutes": 104,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 12,
+            "minutes": 104,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 478243,
+        "name": "Marco de las Sías",
+        "firstname": "Marco",
+        "lastname": "de las Sías López",
+        "age": 20,
+        "birth": {
+          "date": "2005-12-29",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/478243.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 18
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 478244,
+        "name": "Adrián Molina",
+        "firstname": "Adrián",
+        "lastname": "Molina Colorado",
+        "age": 20,
+        "birth": {
+          "date": "2005-07-22",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/478244.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 517,
+        "name": "J. Rodríguez",
+        "firstname": "James David",
+        "lastname": "Rodríguez Rubio",
+        "age": 34,
+        "birth": {
+          "date": "1991-07-12",
+          "place": "Cúcuta",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/517.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 6,
+            "minutes": 143,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.816666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 13,
+            "minutes": 906,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.392307",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 20,
+            "on": 12
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 708,
+            "key": 23,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 51,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11379,
+        "name": "A. Batalla",
+        "firstname": "Augusto Martín",
+        "lastname": "Batalla Barga",
+        "age": 29,
+        "birth": {
+          "date": "1996-04-30",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "186",
+        "weight": "87",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11379.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2880,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.093750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 39,
+            "assists": 0,
+            "saves": 95
+          },
+          "passes": {
+            "total": 1044,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 31,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18895,
+        "name": "F. Lejeune",
+        "firstname": "Florian Grégoire",
+        "lastname": "Claude Lejeune",
+        "age": 34,
+        "birth": {
+          "date": "1991-05-20",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "189",
+        "weight": "89",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18895.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 37,
+            "minutes": 3326,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.113513",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 44,
+            "on": 17
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 2046,
+            "key": 15,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 32,
+            "interceptions": 41
+          },
+          "duels": {
+            "total": 292,
+            "won": 160
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 50
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 62,
+            "key": null,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47549,
+        "name": "José Ángel Pozo",
+        "firstname": "José Ángel",
+        "lastname": "Pozo la Rosa",
+        "age": 29,
+        "birth": {
+          "date": "1996-03-15",
+          "place": "Málaga",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "171",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47549.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47553,
+        "name": "Bebé",
+        "firstname": "Tiago Manuel",
+        "lastname": "Dias Correia",
+        "age": 35,
+        "birth": {
+          "date": "1990-07-12",
+          "place": "Agualva-Cacém",
+          "country": "Portugal"
+        },
+        "nationality": "Cape Verde",
+        "height": "190",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47553.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

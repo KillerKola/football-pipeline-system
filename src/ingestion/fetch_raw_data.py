@@ -29,7 +29,7 @@ PLAYERS_DIR = RAW_DIR / "players"
 for d in [LEAGUES_DIR, TEAMS_DIR, FIXTURES_DIR, STANDINGS_DIR, PLAYERS_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
-def parse_league_seasons():
+def get_league_seasons():
     raw_value = os.getenv("LEAGUE_SEASONS", "")
     pairs = []
 
@@ -146,12 +146,13 @@ def main():
     if not API_KEY:
         raise ValueError("Missing API_FOOTBALL_KEY in .env")
 
-    league_seasons = parse_league_seasons()
+    league_seasons = get_league_seasons()
     if not league_seasons:
         raise ValueError("Missing LEAGUE_SEASONS in .env")
 
     fetched_team_seasons = set()
 
+    print("Approximately 8 minutes per league:season if on free plan.")
     for league_id, season in league_seasons:
         print(f"Fetching league {league_id}, season {season}...")
 

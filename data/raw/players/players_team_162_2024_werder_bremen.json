@@ -1,0 +1,6204 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "162",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 41,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 716,
+        "name": "L. Bittencourt",
+        "firstname": "Leonardo Jesus",
+        "lastname": "Loureiro Bittencourt",
+        "age": 32,
+        "birth": {
+          "date": "1993-12-19",
+          "place": "Leipzig",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "171",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/716.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 10,
+            "minutes": 973,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.785185",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 17,
+            "out": 8,
+            "bench": 21
+          },
+          "shots": {
+            "total": 23,
+            "on": 9
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 654,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": null,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 94,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 173,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 98,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 24,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1124,
+        "name": "O. Burke",
+        "firstname": "Oliver Jasen",
+        "lastname": "Burke",
+        "age": 28,
+        "birth": {
+          "date": "1997-04-07",
+          "place": "Kirkcaldy",
+          "country": "Scotland"
+        },
+        "nationality": "Scotland",
+        "height": "188",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1124.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 9,
+            "minutes": 898,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 6,
+            "bench": 20
+          },
+          "shots": {
+            "total": 25,
+            "on": 13
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 273,
+            "key": 14,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 112,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 45,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2916,
+        "name": "N. Stark",
+        "firstname": "Niklas",
+        "lastname": "Stark",
+        "age": 30,
+        "birth": {
+          "date": "1995-04-14",
+          "place": "Neustadt an der Aisch",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2916.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 26,
+            "minutes": 2110,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.973076",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 12,
+            "on": 3
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1270,
+            "key": 1,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 27,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 174,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 241,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 207,
+            "key": null,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 19,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3013,
+        "name": "D. Kownacki",
+        "firstname": "Dawid Igor",
+        "lastname": "Kownacki",
+        "age": 28,
+        "birth": {
+          "date": "1997-03-14",
+          "place": "Gorzów Wielkopolski",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "186",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3013.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7073,
+        "name": "M. Grüll",
+        "firstname": "Marco",
+        "lastname": "Grüll",
+        "age": 27,
+        "birth": {
+          "date": "1998-07-06",
+          "place": "Schwarzach im Pongau",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "182",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7073.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 22,
+            "minutes": 1198,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 15,
+            "on": 10
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 297,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 3,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 172,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 162,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 48,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7288,
+        "name": "M. Zetterer",
+        "firstname": "Michael",
+        "lastname": "Zetterer",
+        "age": 30,
+        "birth": {
+          "date": "1995-07-12",
+          "place": "München",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7288.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.011764",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 57,
+            "assists": 0,
+            "saves": 104
+          },
+          "passes": {
+            "total": 1122,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": 0,
+            "saves": 11
+          },
+          "passes": {
+            "total": 120,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7562,
+        "name": "R. Schmid",
+        "firstname": "Romano Christian",
+        "lastname": "Schmid",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-27",
+          "place": "Graz",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "168",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7562.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2846,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.281250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 12,
+            "bench": 0
+          },
+          "shots": {
+            "total": 27,
+            "on": 15
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1486,
+            "key": 68,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 332,
+            "won": 151
+          },
+          "dribbles": {
+            "attempts": 92,
+            "success": 45,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 145,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 25,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15874,
+        "name": "A. Jung",
+        "firstname": "Anthony",
+        "lastname": "Jung",
+        "age": 34,
+        "birth": {
+          "date": "1991-11-03",
+          "place": "Villajoyosa",
+          "country": "Spain"
+        },
+        "nationality": "Germany",
+        "height": "186",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15874.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 284,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 240,
+            "key": null,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 27,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 26,
+            "minutes": 1905,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.761538",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1492,
+            "key": 2,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 14,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 131,
+            "won": 89
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25314,
+        "name": "M. Friedl",
+        "firstname": "Marco",
+        "lastname": "Friedl",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-16",
+          "place": "Kirchbichl",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "187",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25314.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 25,
+            "minutes": 2165,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.026923",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1458,
+            "key": 3,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 62,
+            "blocks": 24,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 233,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 1,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.466666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 277,
+            "key": null,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 33,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25464,
+        "name": "M. Ducksch",
+        "firstname": "Marvin",
+        "lastname": "Ducksch",
+        "age": 31,
+        "birth": {
+          "date": "1994-03-07",
+          "place": "Dortmund",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25464.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2438,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.265625",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 21,
+            "bench": 2
+          },
+          "shots": {
+            "total": 53,
+            "on": 30
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 721,
+            "key": 61,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 123,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 297,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 71,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26319,
+        "name": "F. Agu",
+        "firstname": "Felix",
+        "lastname": "Agu",
+        "age": 26,
+        "birth": {
+          "date": "1999-09-27",
+          "place": "Osnabrück",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26319.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 23,
+            "minutes": 1761,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.913636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 621,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 8,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 187,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 43,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 91,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 15,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38798,
+        "name": "S. Lynen",
+        "firstname": "Senne Maaike",
+        "lastname": "Lynen",
+        "age": 26,
+        "birth": {
+          "date": "1999-02-19",
+          "place": "Antwerpen",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "185",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38798.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2744,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 12,
+            "on": 3
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1316,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 13,
+            "interceptions": 64
+          },
+          "duels": {
+            "total": 259,
+            "won": 133
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.375000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 207,
+            "key": 4,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 37,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 177807,
+        "name": "J. Njinmah",
+        "firstname": "Justin Gideon",
+        "lastname": "Njinmah",
+        "age": 25,
+        "birth": {
+          "date": "2000-11-15",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/177807.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 19,
+            "minutes": 958,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.783333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 24,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 217,
+            "key": 12,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 98,
+            "won": 48
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 154,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.275000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 29,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 19,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 279866,
+        "name": "J. Löpping",
+        "firstname": "Jakob",
+        "lastname": "Löpping",
+        "age": 21,
+        "birth": {
+          "date": "2003-06-20",
+          "place": null,
+          "country": "Switzerland"
+        },
+        "nationality": "Germany",
+        "height": "178 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/279866.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327837,
+        "name": "Joel Victor Imasuen",
+        "firstname": "Joel Victor",
+        "lastname": "Imasuen",
+        "age": 21,
+        "birth": {
+          "date": "2004-10-27",
+          "place": "Atlanta",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "193",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327837.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 334334,
+        "name": "K. Topp",
+        "firstname": "Keke Maximilian",
+        "lastname": "Topp",
+        "age": 21,
+        "birth": {
+          "date": "2004-03-25",
+          "place": "Bremervörde",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/334334.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 11,
+            "minutes": 270,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.720000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 10,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 62,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 61,
+            "number": null,
+            "position": "Attacker",
+            "rating": "10.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 342981,
+        "name": "S. Angelidis",
+        "firstname": "Spyridon",
+        "lastname": "Angelidis",
+        "age": 20,
+        "birth": {
+          "date": "2005-01-28",
+          "place": null,
+          "country": "Greece"
+        },
+        "nationality": "Greece",
+        "height": "188",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/342981.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 363638,
+        "name": "L. Opitz",
+        "firstname": "Leon",
+        "lastname": "Opitz",
+        "age": 20,
+        "birth": {
+          "date": "2005-04-11",
+          "place": "Bad Oldesloe",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/363638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 369768,
+        "name": "K. Sato",
+        "firstname": "Kein",
+        "lastname": "López Sato",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-11",
+          "place": "Tokyo",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/369768.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 448468,
+        "name": "P. Čović",
+        "firstname": "Patrice",
+        "lastname": "Čović",
+        "age": 18,
+        "birth": {
+          "date": "2007-06-25",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "Croatia",
+        "height": "176",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/448468.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 294,
+        "name": "N. Keïta",
+        "firstname": "Naby Laye",
+        "lastname": "Keïta",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-10",
+          "place": "Conakry",
+          "country": "Guinea"
+        },
+        "nationality": "Guinea",
+        "height": "172",
+        "weight": "64",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/294.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 973,
+        "name": "M. Weiser",
+        "firstname": "Mitchell-Elijah",
+        "lastname": "Weiser",
+        "age": 31,
+        "birth": {
+          "date": "1994-04-21",
+          "place": "Troisdorf",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "177",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/973.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2870,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.068750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 34,
+            "on": 15
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1212,
+            "key": 42,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 62,
+            "blocks": 3,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 351,
+            "won": 168
+          },
+          "dribbles": {
+            "attempts": 76,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 45,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.025000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 190,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 43,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2063,
+        "name": "André Silva",
+        "firstname": "André Miguel",
+        "lastname": "Valente da Silva",
+        "age": 30,
+        "birth": {
+          "date": "1995-11-06",
+          "place": "Gondomar",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2063.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 4,
+            "minutes": 376,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.787500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 10
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 27,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2821,
+        "name": "M. Veljković",
+        "firstname": "Miloš",
+        "lastname": "Veljković",
+        "age": 30,
+        "birth": {
+          "date": "1995-09-26",
+          "place": "Basel",
+          "country": "Switzerland"
+        },
+        "nationality": "Serbia",
+        "height": "188",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2821.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 14,
+            "minutes": 1038,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.685714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 635,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 9,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 69,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 105,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 82,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8673,
+        "name": "O. Deman",
+        "firstname": "Olivier",
+        "lastname": "Deman",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-06",
+          "place": "Antwerpen",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "181",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8673.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 0,
+            "minutes": 58,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 0,
+            "bench": 15
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 19,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 19,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15592,
+        "name": "J. Stage",
+        "firstname": "Jens",
+        "lastname": "Dalsgaard Stage",
+        "age": 29,
+        "birth": {
+          "date": "1996-11-08",
+          "place": "Aarhus",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "187",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15592.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 28,
+            "minutes": 2211,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.196428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 33,
+            "on": 15
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 964,
+            "key": 23,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 10,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 224,
+            "won": 120
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 231,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 110,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 29,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25011,
+        "name": "A. Pieper",
+        "firstname": "Amos",
+        "lastname": "Pieper",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-17",
+          "place": "Lüdinghausen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192",
+        "weight": "86",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25011.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 24,
+            "minutes": 1517,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.909090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 916,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 17,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 152,
+            "won": 88
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 12,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25519,
+        "name": "M. Kolke",
+        "firstname": "Markus",
+        "lastname": "Kolke",
+        "age": 35,
+        "birth": {
+          "date": "1990-08-18",
+          "place": "Erlenbach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187",
+        "weight": "90",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25519.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 88008,
+        "name": "C. Röcker",
+        "firstname": "Cimo Patric",
+        "lastname": "Röcker",
+        "age": 31,
+        "birth": {
+          "date": "1994-01-21",
+          "place": "Schneverdingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/88008.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 140947,
+        "name": "I. Kaboré",
+        "firstname": "Issa",
+        "lastname": "Kaboré",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-12",
+          "place": "Bobo-Dioulasso",
+          "country": "Burkina Faso"
+        },
+        "nationality": "Burkina Faso",
+        "height": "180",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/140947.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 3,
+            "minutes": 305,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.677777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 3,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 120,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 53,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 177748,
+        "name": "M. Łukowicz",
+        "firstname": "Michał",
+        "lastname": "Łukowicz",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-01",
+          "place": "Bremen",
+          "country": "Germany"
+        },
+        "nationality": "Poland",
+        "height": "188",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/177748.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 193720,
+        "name": "S. Alvero",
+        "firstname": "Skelly",
+        "lastname": "Alvero",
+        "age": 23,
+        "birth": {
+          "date": "2002-05-02",
+          "place": "Stains",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "202",
+        "weight": "93",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/193720.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 1,
+            "minutes": 226,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.685714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 1,
+            "bench": 21
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 90,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 39,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202522,
+        "name": "A. Nankishi",
+        "firstname": "Abdenego",
+        "lastname": "N'Lola Nankishi",
+        "age": 23,
+        "birth": {
+          "date": "2002-07-06",
+          "place": "Bremerhaven",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202522.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 216770,
+        "name": "I. Hansen-Aarøen",
+        "firstname": "Isak",
+        "lastname": "Hansen-Aarøen",
+        "age": 21,
+        "birth": {
+          "date": "2004-08-22",
+          "place": "Tromsø",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "173",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/216770.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 279924,
+        "name": "D. Salifou",
+        "firstname": "Dikeni-Rafid",
+        "lastname": "Salifou",
+        "age": 22,
+        "birth": {
+          "date": "2003-06-08",
+          "place": "München",
+          "country": "Togo"
+        },
+        "nationality": "Togo",
+        "height": "188",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/279924.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 289460,
+        "name": "J. Malatini",
+        "firstname": "Julián",
+        "lastname": "Malatini",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-31",
+          "place": "General Cabrera",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "191",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/289460.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 17,
+            "minutes": 452,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.862500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 296,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 3,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 49,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 178,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 107,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 329578,
+        "name": "M. Backhaus",
+        "firstname": "Mio",
+        "lastname": "Backhaus",
+        "age": 21,
+        "birth": {
+          "date": "2004-04-16",
+          "place": "Mönchengladbach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "194",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/329578.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 33
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 440147,
+        "name": "Abdoul Karim Coulibaly",
+        "firstname": "Abdoul Karim",
+        "lastname": "Coulibaly",
+        "age": 18,
+        "birth": {
+          "date": "2007-05-23",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/440147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 444984,
+        "name": "Mick Schmetgens",
+        "firstname": "Mick",
+        "lastname": "Schmetgens",
+        "age": 18,
+        "birth": {
+          "date": "2007-09-09",
+          "place": "Buxtehude",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/444984.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 455290,
+        "name": "Wesley Adeh",
+        "firstname": "Wesley",
+        "lastname": "Adeh",
+        "age": 18,
+        "birth": {
+          "date": "2007-01-08",
+          "place": "Bremen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/455290.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 128853,
+        "name": "D. Köhn",
+        "firstname": "Derrick Arthur",
+        "lastname": "Köhn",
+        "age": 27,
+        "birth": {
+          "date": "1999-02-04",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/128853.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 20,
+            "minutes": 1360,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.680769",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 560,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 123,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 249,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 120,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 30,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

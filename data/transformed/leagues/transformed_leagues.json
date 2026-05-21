@@ -4,5 +4,17 @@
     "league_name": "Premier League",
     "country_name": "England",
     "season": 2024
+  },
+  {
+    "league_id": 78,
+    "league_name": "Bundesliga",
+    "country_name": "Germany",
+    "season": 2024
+  },
+  {
+    "league_id": 140,
+    "league_name": "La Liga",
+    "country_name": "Spain",
+    "season": 2024
   }
 ]

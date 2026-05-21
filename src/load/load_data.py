@@ -97,7 +97,7 @@ def load_players(cur):
     for row in players:
         cur.execute("""
             INSERT INTO football.players (
-                player_id, firstname, lastname, age, birth_date, birth_place,
+                player_id, firstname, lastname, birth_date, birth_place,
                 birth_country, nationality, height_cm, weight_kg, injured, photo
             )
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
