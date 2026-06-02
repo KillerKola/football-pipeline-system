@@ -26,12 +26,15 @@ FROM football.standings s JOIN football.teams t ON s.team_id = t.team_id
 CREATE OR REPLACE VIEW football.vw_match_results AS
 SELECT
     f.fixture_id,
+    l.league_id,
     l.league_name,
     l.country,
     f.season,
     f.round,
     f.fixture_date,
     f.status_short,
+    ht.team_id AS home_id,
+    awt.team_id AS away_id,
     ht.team_name AS home_team,
     awt.team_name AS away_team,
     f.home_goals,
@@ -50,6 +53,7 @@ FROM football.fixtures f JOIN football.teams ht ON f.home_team_id = ht.team_id
 
 CREATE OR REPLACE VIEW football.vw_top_players AS
 SELECT
+    p.player_id,
     l.league_name,
     l.country,
     ps.season,
@@ -74,7 +78,8 @@ SELECT
     ps.dribbles_success,
     ps.cards_yellow,
     ps.cards_red,
-    ps.rating
+    ps.rating,
+    ps.saves
 FROM football.player_statistics ps JOIN football.players p ON ps.player_id = p.player_id
                                    JOIN football.teams t ON ps.team_id = t.team_id
                                    JOIN football.leagues l ON ps.league_id = l.league_id AND ps.season = l.season;

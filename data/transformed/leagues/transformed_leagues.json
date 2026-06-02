@@ -3,6 +3,18 @@
     "league_id": 39,
     "league_name": "Premier League",
     "country_name": "England",
+    "season": 2022
+  },
+  {
+    "league_id": 39,
+    "league_name": "Premier League",
+    "country_name": "England",
+    "season": 2023
+  },
+  {
+    "league_id": 39,
+    "league_name": "Premier League",
+    "country_name": "England",
     "season": 2024
   },
   {
@@ -10,6 +22,30 @@
     "league_name": "Bundesliga",
     "country_name": "Germany",
     "season": 2024
+  },
+  {
+    "league_id": 135,
+    "league_name": "Serie A",
+    "country_name": "Italy",
+    "season": 2023
+  },
+  {
+    "league_id": 135,
+    "league_name": "Serie A",
+    "country_name": "Italy",
+    "season": 2024
+  },
+  {
+    "league_id": 140,
+    "league_name": "La Liga",
+    "country_name": "Spain",
+    "season": 2022
+  },
+  {
+    "league_id": 140,
+    "league_name": "La Liga",
+    "country_name": "Spain",
+    "season": 2023
   },
   {
     "league_id": 140,

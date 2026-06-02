@@ -72,6 +72,15 @@
     "venue_city": "London"
   },
   {
+    "team_id": 44,
+    "team_name": "Burnley",
+    "country": "England",
+    "founded": 1882,
+    "logo": "https://media.api-sports.io/football/teams/44.png",
+    "venue": "Turf Moor",
+    "venue_city": "Burnley"
+  },
+  {
     "team_id": 45,
     "team_name": "Everton",
     "country": "England",
@@ -160,6 +169,24 @@
     "logo": "https://media.api-sports.io/football/teams/57.png",
     "venue": "Portman Road",
     "venue_city": "Ipswich, Suffolk"
+  },
+  {
+    "team_id": 62,
+    "team_name": "Sheffield Utd",
+    "country": "England",
+    "founded": 1889,
+    "logo": "https://media.api-sports.io/football/teams/62.png",
+    "venue": "Bramall Lane",
+    "venue_city": "Sheffield"
+  },
+  {
+    "team_id": 63,
+    "team_name": "Leeds",
+    "country": "England",
+    "founded": 1919,
+    "logo": "https://media.api-sports.io/football/teams/63.png",
+    "venue": "Elland Road",
+    "venue_city": "Leeds, West Yorkshire"
   },
   {
     "team_id": 65,
@@ -342,6 +369,186 @@
     "venue_city": "Kiel"
   },
   {
+    "team_id": 487,
+    "team_name": "Lazio",
+    "country": "Italy",
+    "founded": 1900,
+    "logo": "https://media.api-sports.io/football/teams/487.png",
+    "venue": "Stadio Olimpico",
+    "venue_city": "Roma"
+  },
+  {
+    "team_id": 488,
+    "team_name": "Sassuolo",
+    "country": "Italy",
+    "founded": 1922,
+    "logo": "https://media.api-sports.io/football/teams/488.png",
+    "venue": "MAPEI Stadium - Città del Tricolore",
+    "venue_city": "Reggio Emilia"
+  },
+  {
+    "team_id": 489,
+    "team_name": "AC Milan",
+    "country": "Italy",
+    "founded": 1899,
+    "logo": "https://media.api-sports.io/football/teams/489.png",
+    "venue": "Stadio Giuseppe Meazza",
+    "venue_city": "Milano"
+  },
+  {
+    "team_id": 490,
+    "team_name": "Cagliari",
+    "country": "Italy",
+    "founded": 1920,
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "venue": "Unipol Domus",
+    "venue_city": "Cagliari"
+  },
+  {
+    "team_id": 492,
+    "team_name": "Napoli",
+    "country": "Italy",
+    "founded": 1904,
+    "logo": "https://media.api-sports.io/football/teams/492.png",
+    "venue": "Stadio Diego Armando Maradona",
+    "venue_city": "Napoli"
+  },
+  {
+    "team_id": 494,
+    "team_name": "Udinese",
+    "country": "Italy",
+    "founded": 1896,
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "venue": "Bluenergy Stadium",
+    "venue_city": "Udine"
+  },
+  {
+    "team_id": 495,
+    "team_name": "Genoa",
+    "country": "Italy",
+    "founded": 1893,
+    "logo": "https://media.api-sports.io/football/teams/495.png",
+    "venue": "Stadio Comunale Luigi Ferraris",
+    "venue_city": "Genova"
+  },
+  {
+    "team_id": 496,
+    "team_name": "Juventus",
+    "country": "Italy",
+    "founded": 1897,
+    "logo": "https://media.api-sports.io/football/teams/496.png",
+    "venue": "Allianz Stadium",
+    "venue_city": "Torino"
+  },
+  {
+    "team_id": 497,
+    "team_name": "AS Roma",
+    "country": "Italy",
+    "founded": 1927,
+    "logo": "https://media.api-sports.io/football/teams/497.png",
+    "venue": "Stadio Olimpico",
+    "venue_city": "Roma"
+  },
+  {
+    "team_id": 499,
+    "team_name": "Atalanta",
+    "country": "Italy",
+    "founded": 1907,
+    "logo": "https://media.api-sports.io/football/teams/499.png",
+    "venue": "Gewiss Stadium",
+    "venue_city": "Bergamo"
+  },
+  {
+    "team_id": 500,
+    "team_name": "Bologna",
+    "country": "Italy",
+    "founded": 1909,
+    "logo": "https://media.api-sports.io/football/teams/500.png",
+    "venue": "Stadio Renato Dall'Ara",
+    "venue_city": "Bologna"
+  },
+  {
+    "team_id": 502,
+    "team_name": "Fiorentina",
+    "country": "Italy",
+    "founded": 1926,
+    "logo": "https://media.api-sports.io/football/teams/502.png",
+    "venue": "Stadio Artemio Franchi",
+    "venue_city": "Firenze"
+  },
+  {
+    "team_id": 503,
+    "team_name": "Torino",
+    "country": "Italy",
+    "founded": 1906,
+    "logo": "https://media.api-sports.io/football/teams/503.png",
+    "venue": "Stadio Olimpico Grande Torino",
+    "venue_city": "Torino"
+  },
+  {
+    "team_id": 504,
+    "team_name": "Hellas Verona",
+    "country": "Italy",
+    "founded": 1903,
+    "logo": "https://media.api-sports.io/football/teams/504.png",
+    "venue": "Stadio Marc'Antonio Bentegodi",
+    "venue_city": "Verona"
+  },
+  {
+    "team_id": 505,
+    "team_name": "Inter",
+    "country": "Italy",
+    "founded": 1908,
+    "logo": "https://media.api-sports.io/football/teams/505.png",
+    "venue": "Stadio Giuseppe Meazza",
+    "venue_city": "Milano"
+  },
+  {
+    "team_id": 511,
+    "team_name": "Empoli",
+    "country": "Italy",
+    "founded": 1920,
+    "logo": "https://media.api-sports.io/football/teams/511.png",
+    "venue": "Stadio Carlo Castellani – Computer Gross Arena",
+    "venue_city": "Empoli"
+  },
+  {
+    "team_id": 512,
+    "team_name": "Frosinone",
+    "country": "Italy",
+    "founded": 1928,
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "venue": "Stadio Benito Stirpe",
+    "venue_city": "Frosinone"
+  },
+  {
+    "team_id": 514,
+    "team_name": "Salernitana",
+    "country": "Italy",
+    "founded": 2011,
+    "logo": "https://media.api-sports.io/football/teams/514.png",
+    "venue": "Stadio Arechi",
+    "venue_city": "Salerno"
+  },
+  {
+    "team_id": 517,
+    "team_name": "Venezia",
+    "country": "Italy",
+    "founded": 1907,
+    "logo": "https://media.api-sports.io/football/teams/517.png",
+    "venue": "Stadio Pierluigi Penzo",
+    "venue_city": "Venezia"
+  },
+  {
+    "team_id": 523,
+    "team_name": "Parma",
+    "country": "Italy",
+    "founded": 1913,
+    "logo": "https://media.api-sports.io/football/teams/523.png",
+    "venue": "Stadio Ennio Tardini",
+    "venue_city": "Parma"
+  },
+  {
     "team_id": 529,
     "team_name": "Barcelona",
     "country": "Spain",
@@ -486,6 +693,15 @@
     "venue_city": "Donostia-San Sebastián"
   },
   {
+    "team_id": 715,
+    "team_name": "Granada CF",
+    "country": "Spain",
+    "founded": 1931,
+    "logo": "https://media.api-sports.io/football/teams/715.png",
+    "venue": "Estadio Nuevo Los Cármenes",
+    "venue_city": "Granada"
+  },
+  {
     "team_id": 720,
     "team_name": "Valladolid",
     "country": "Spain",
@@ -493,6 +709,24 @@
     "logo": "https://media.api-sports.io/football/teams/720.png",
     "venue": "Estadio Municipal José Zorrilla",
     "venue_city": "Valladolid"
+  },
+  {
+    "team_id": 723,
+    "team_name": "Almeria",
+    "country": "Spain",
+    "founded": 1989,
+    "logo": "https://media.api-sports.io/football/teams/723.png",
+    "venue": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+    "venue_city": "Almería"
+  },
+  {
+    "team_id": 724,
+    "team_name": "Cadiz",
+    "country": "Spain",
+    "founded": 1910,
+    "logo": "https://media.api-sports.io/football/teams/724.png",
+    "venue": "Estadio Nuevo Mirandilla",
+    "venue_city": "Cádiz"
   },
   {
     "team_id": 727,
@@ -513,6 +747,15 @@
     "venue_city": "Madrid"
   },
   {
+    "team_id": 797,
+    "team_name": "Elche",
+    "country": "Spain",
+    "founded": 1923,
+    "logo": "https://media.api-sports.io/football/teams/797.png",
+    "venue": "Estadio Manuel Martínez Valero",
+    "venue_city": "Elche"
+  },
+  {
     "team_id": 798,
     "team_name": "Mallorca",
     "country": "Spain",
@@ -520,6 +763,42 @@
     "logo": "https://media.api-sports.io/football/teams/798.png",
     "venue": "Estadi Mallorca Son Moix",
     "venue_city": "Palma de Mallorca"
+  },
+  {
+    "team_id": 867,
+    "team_name": "Lecce",
+    "country": "Italy",
+    "founded": 1908,
+    "logo": "https://media.api-sports.io/football/teams/867.png",
+    "venue": "Stadio Comunale Via del Mare",
+    "venue_city": "Lecce"
+  },
+  {
+    "team_id": 895,
+    "team_name": "Como",
+    "country": "Italy",
+    "founded": 1907,
+    "logo": "https://media.api-sports.io/football/teams/895.png",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "venue_city": "Como"
+  },
+  {
+    "team_id": 1359,
+    "team_name": "Luton",
+    "country": "England",
+    "founded": 1885,
+    "logo": "https://media.api-sports.io/football/teams/1359.png",
+    "venue": "Kenilworth Road",
+    "venue_city": "Luton, Bedfordshire"
+  },
+  {
+    "team_id": 1579,
+    "team_name": "Monza",
+    "country": "Italy",
+    "founded": 1912,
+    "logo": "https://media.api-sports.io/football/teams/1579.png",
+    "venue": "U-Power Stadium",
+    "venue_city": "Monza"
   },
   {
     "team_id": 1660,

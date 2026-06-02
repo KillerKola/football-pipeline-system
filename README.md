@@ -55,6 +55,16 @@ Planned system architecture:
 5. API layer for data access
 6. BI / dashboard layer for visualization
 
+
+Setup guide:
+1) clone the repository
+2) Create the .env file by copying the .env.example
+3) (Necessary only if you want to add more data) Make an API-football account and copy the API key into the .env file
+4) Start PostgreSQL and Metabase in docker (install docker first and run the following command) 'docker compose -f docker/docker-compose.yml up -d'
+5) Run the docker containers if they aren't already running and then run the pipeline: 'python main.py'
+6) Open metabase via docker or just go to http://localhost:3001
+7) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection's Host to "postgres" and the password to "postgres"
+
 ## Final Thesis
 
 Final thesis title:

@@ -24,7 +24,7 @@ CREATE TABLE football.fixtures (
     league_id INTEGER NOT NULL,
     season INTEGER NOT NULL,
     round INTEGER,
-    fixture_date TIMESTAMPTZ,
+    fixture_date TIMESTAMP,
 
     status_short VARCHAR(10),
 

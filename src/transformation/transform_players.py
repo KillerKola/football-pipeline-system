@@ -126,6 +126,8 @@ def transform_all_players():
 
     unique_stats = {}
     for row in all_stats:
+        if None in (row["player_id"], row["team_id"], row["league_id"], row["season"]):
+            continue
         key = (row["player_id"], row["team_id"], row["league_id"], row["season"])
         unique_stats[key] = row
 
