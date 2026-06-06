@@ -21,6 +21,12 @@
     "league_id": 78,
     "league_name": "Bundesliga",
     "country_name": "Germany",
+    "season": 2023
+  },
+  {
+    "league_id": 78,
+    "league_name": "Bundesliga",
+    "country_name": "Germany",
     "season": 2024
   },
   {

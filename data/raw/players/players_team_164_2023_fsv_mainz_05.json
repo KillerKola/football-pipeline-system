@@ -1,0 +1,6267 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "164",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 44,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 99,
+        "name": "R. Pierre-Gabriel",
+        "firstname": "Ronaël Julien",
+        "lastname": "Pierre-Gabriel",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-13",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/99.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22244,
+        "name": "A. Caci",
+        "firstname": "Anthony",
+        "lastname": "Caci",
+        "age": 28,
+        "birth": {
+          "date": "1997-07-01",
+          "place": "Forbach",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22244.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 29,
+            "minutes": 2493,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.935483",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 9,
+            "bench": 2
+          },
+          "shots": {
+            "total": 19,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1272,
+            "key": 26,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 7,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 222,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 170,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25010,
+        "name": "Anderson Lucoqui",
+        "firstname": "Anderson-Lenda",
+        "lastname": "Lucoqui",
+        "age": 28,
+        "birth": {
+          "date": "1997-07-06",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Angola",
+        "height": "181",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25010.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25906,
+        "name": "R. Zentner",
+        "firstname": "Robin",
+        "lastname": "Zentner",
+        "age": 31,
+        "birth": {
+          "date": "1994-10-28",
+          "place": "Rüdesheim am Rhein",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "194",
+        "weight": "96",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25906.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2700,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.996666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 48,
+            "assists": 0,
+            "saves": 82
+          },
+          "passes": {
+            "total": 891,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 22,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 4
+          },
+          "passes": {
+            "total": 62,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25907,
+        "name": "S. Bell",
+        "firstname": "Stefan",
+        "lastname": "Bell",
+        "age": 34,
+        "birth": {
+          "date": "1991-08-24",
+          "place": "Andernach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25907.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 8,
+            "minutes": 668,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.540000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 370,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 5,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 80,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 92,
+            "key": null,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 10,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25913,
+        "name": "A. Hack",
+        "firstname": "Alexander",
+        "lastname": "Hack",
+        "age": 32,
+        "birth": {
+          "date": "1993-09-08",
+          "place": "Memmingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25913.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25926,
+        "name": "J. Burkardt",
+        "firstname": "Jonathan Michael",
+        "lastname": "Burkardt",
+        "age": 25,
+        "birth": {
+          "date": "2000-07-11",
+          "place": "Darmstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25926.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 18,
+            "minutes": 1542,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.909523",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 3
+          },
+          "shots": {
+            "total": 32,
+            "on": 17
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 358,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 3,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 254,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 53,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 36,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37242,
+        "name": "D. Burgzorg",
+        "firstname": "Delano",
+        "lastname": "Burgzorg",
+        "age": 27,
+        "birth": {
+          "date": "1998-11-07",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "186",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37242.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 90829,
+        "name": "D. Batz",
+        "firstname": "Daniel",
+        "lastname": "Batz",
+        "age": 34,
+        "birth": {
+          "date": "1991-01-12",
+          "place": "Erlangen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191",
+        "weight": "87",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/90829.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.075000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 16
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 14
+          },
+          "passes": {
+            "total": 139,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162771,
+        "name": "J. Ngankam",
+        "firstname": "Ngankam Jessic Gaïtan",
+        "lastname": "Ngankam",
+        "age": 25,
+        "birth": {
+          "date": "2000-07-20",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162771.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 2,
+            "minutes": 182,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.364285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 9
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 55,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180553,
+        "name": "L. Rieß",
+        "firstname": "Lasse Finn",
+        "lastname": "Rieß",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-27",
+          "place": "Münster",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180553.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 21
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202728,
+        "name": "L. Laux",
+        "firstname": "Lucas",
+        "lastname": "Laux",
+        "age": 23,
+        "birth": {
+          "date": "2002-10-14",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202728.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202731,
+        "name": "N. Tauer",
+        "firstname": "Niklas",
+        "lastname": "Tauer",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-17",
+          "place": "Mainz",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202736,
+        "name": "P. Nebel",
+        "firstname": "Paul",
+        "lastname": "Nebel",
+        "age": 23,
+        "birth": {
+          "date": "2002-10-10",
+          "place": "Bad Nauheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "169",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202736.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202804,
+        "name": "M. Müller",
+        "firstname": "Marcus",
+        "lastname": "Müller",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-20",
+          "place": "Augsburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202804.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 17,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280320,
+        "name": "E. Shabani",
+        "firstname": "Eniss",
+        "lastname": "Shabani",
+        "age": 22,
+        "birth": {
+          "date": "2003-05-29",
+          "place": "Gießen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280320.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 283753,
+        "name": "N. Veratschnig",
+        "firstname": "Nikolas Konrad",
+        "lastname": "Veratschnig",
+        "age": 22,
+        "birth": {
+          "date": "2003-01-24",
+          "place": "Villach",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/283753.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 287932,
+        "name": "B. Bobzien",
+        "firstname": "Ben",
+        "lastname": "Bobzien",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-29",
+          "place": "Gießen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/287932.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 328227,
+        "name": "T. Müller",
+        "firstname": "Tim",
+        "lastname": "Müller",
+        "age": 21,
+        "birth": {
+          "date": "2004-09-23",
+          "place": "Wernigerode",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/328227.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 394735,
+        "name": "Maxim Bora Dal",
+        "firstname": "Maxim Bora",
+        "lastname": "Dal",
+        "age": 19,
+        "birth": {
+          "date": "2006-01-26",
+          "place": "Nagold",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/394735.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 714,
+        "name": "N. Amiri",
+        "firstname": "Nadiem",
+        "lastname": "Amiri",
+        "age": 29,
+        "birth": {
+          "date": "1996-10-27",
+          "place": "Ludwigshafen am Rhein",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/714.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 15,
+            "minutes": 1319,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.725000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 99,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 16,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 979,
+        "name": "D. Kohr",
+        "firstname": "Dominik",
+        "lastname": "Kohr",
+        "age": 31,
+        "birth": {
+          "date": "1994-01-31",
+          "place": "Trier",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/979.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 27,
+            "minutes": 2190,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.809677",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 10,
+            "bench": 4
+          },
+          "shots": {
+            "total": 19,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1128,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 64,
+            "blocks": 6,
+            "interceptions": 46
+          },
+          "duels": {
+            "total": 254,
+            "won": 136
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 48
+          },
+          "cards": {
+            "yellow": 14,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 110,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 84,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 16,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1156,
+        "name": "T. Krauß",
+        "firstname": "Tom",
+        "lastname": "Krauß",
+        "age": 24,
+        "birth": {
+          "date": "2001-06-22",
+          "place": "Leipzig",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "182",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1156.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 13,
+            "minutes": 1339,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.681481",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 10,
+            "bench": 19
+          },
+          "shots": {
+            "total": 11,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 634,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 56,
+            "blocks": 4,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 188,
+            "won": 89
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 100,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 49,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1812,
+        "name": "D. da Costa",
+        "firstname": "Danny",
+        "lastname": "Vieira da Costa",
+        "age": 32,
+        "birth": {
+          "date": "1993-07-13",
+          "place": "Neuss",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187",
+        "weight": "87",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1812.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 9,
+            "minutes": 825,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.718750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 5,
+            "bench": 20
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 319,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 4,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 88,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 110,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 88,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2906,
+        "name": "Lee Jae-Sung",
+        "firstname": "Jae-Sung",
+        "lastname": "Lee",
+        "age": 33,
+        "birth": {
+          "date": "1992-08-10",
+          "place": "Ulsan",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "180",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2906.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 24,
+            "minutes": 2126,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.031034",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 18,
+            "bench": 5
+          },
+          "shots": {
+            "total": 29,
+            "on": 13
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 745,
+            "key": 32,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 2,
+            "interceptions": 27
+          },
+          "duels": {
+            "total": 255,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 139,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22264,
+        "name": "L. Ajorque",
+        "firstname": "Ludovic",
+        "lastname": "Ajorque",
+        "age": 31,
+        "birth": {
+          "date": "1994-02-25",
+          "place": "Saint-Denis",
+          "country": "Réunion"
+        },
+        "nationality": "France",
+        "height": "197",
+        "weight": "92",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22264.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 15,
+            "minutes": 1355,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.625000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 6,
+            "bench": 17
+          },
+          "shots": {
+            "total": 24,
+            "on": 11
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 444,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 240,
+            "won": 97
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 2,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 122,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 14,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25066,
+        "name": "M. Leitsch",
+        "firstname": "Maxim",
+        "lastname": "Leitsch",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-18",
+          "place": "Essen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25066.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 4,
+            "minutes": 377,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.816666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 171,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 31,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 58,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25307,
+        "name": "M. Richter",
+        "firstname": "Marco",
+        "lastname": "Richter",
+        "age": 28,
+        "birth": {
+          "date": "1997-11-24",
+          "place": "Friedberg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25307.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 7,
+            "minutes": 711,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.711111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 6,
+            "bench": 22
+          },
+          "shots": {
+            "total": 25,
+            "on": 9
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 243,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 109,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 31,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "9.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25410,
+        "name": "J. Guilavogui",
+        "firstname": "Josuha Jérémy",
+        "lastname": "Akoi Fara Guilavogui",
+        "age": 35,
+        "birth": {
+          "date": "1990-09-19",
+          "place": "Toulon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25410.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 5,
+            "minutes": 406,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.840000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 3,
+            "bench": 18
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 179,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 7,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 36,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": null,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25455,
+        "name": "A. Barkok",
+        "firstname": "Aymen",
+        "lastname": "Barkok",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-21",
+          "place": "Frankfurt am Main",
+          "country": "Germany"
+        },
+        "nationality": "Morocco",
+        "height": "188 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25455.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 1,
+            "minutes": 310,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 1,
+            "bench": 12
+          },
+          "shots": {
+            "total": 10,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 66,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 58,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 60,
+            "key": 3,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 14,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25915,
+        "name": "P. Mwene",
+        "firstname": "Phillipp",
+        "lastname": "Mwene",
+        "age": 31,
+        "birth": {
+          "date": "1994-01-29",
+          "place": "Wien",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "170",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25915.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 2004,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.834782",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 2
+          },
+          "shots": {
+            "total": 14,
+            "on": 9
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 660,
+            "key": 22,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 3,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 174,
+            "won": 79
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25918,
+        "name": "L. Barreiro",
+        "firstname": "Leandro",
+        "lastname": "Barreiro Martins",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-03",
+          "place": "Erpeldange",
+          "country": "Luxembourg"
+        },
+        "nationality": "Luxembourg",
+        "height": "174",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25918.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 29,
+            "minutes": 2606,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.977419",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 25,
+            "on": 15
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 915,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 66,
+            "blocks": 16,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 342,
+            "won": 175
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 52,
+            "committed": 57
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 160,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 75,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 26,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25928,
+        "name": "K. Onisiwo",
+        "firstname": "Karim",
+        "lastname": "Onisiwo",
+        "age": 33,
+        "birth": {
+          "date": "1992-03-17",
+          "place": "Wien",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "188",
+        "weight": "88",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25928.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 17,
+            "minutes": 1498,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 11,
+            "bench": 9
+          },
+          "shots": {
+            "total": 24,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 310,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 248,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 44,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 29,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 39279,
+        "name": "A. Hanche-Olsen",
+        "firstname": "Andreas",
+        "lastname": "Schjølberg Hanche-Olsen",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-17",
+          "place": "Bodø",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "185",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/39279.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 995,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.714285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 437,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 93,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 48378,
+        "name": "S. Widmer",
+        "firstname": "Silvan Dominic",
+        "lastname": "Widmer",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-05",
+          "place": "Aarau",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "183",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/48378.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 13,
+            "minutes": 1244,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.830000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 9,
+            "bench": 12
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 492,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 5,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 122,
+            "won": 48
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178288,
+        "name": "D. Mamutovic",
+        "firstname": "David",
+        "lastname": "Mamutovic",
+        "age": 25,
+        "birth": {
+          "date": "2000-12-05",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178288.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 18
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202727,
+        "name": "M. Papela",
+        "firstname": "Matondo-Merveille",
+        "lastname": "Papela",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-18",
+          "place": "Mainz",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202727.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 3,
+            "minutes": 252,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.533333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 27
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 40,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 281926,
+        "name": "L. Wilhelm",
+        "firstname": "Lasse",
+        "lastname": "Wilhelm",
+        "age": 22,
+        "birth": {
+          "date": "2003-03-20",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/281926.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 328225,
+        "name": "B. Gruda",
+        "firstname": "Brajan",
+        "lastname": "Gruda",
+        "age": 21,
+        "birth": {
+          "date": "2004-05-31",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/328225.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 19,
+            "minutes": 1650,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.992592",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 17,
+            "bench": 10
+          },
+          "shots": {
+            "total": 22,
+            "on": 12
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 529,
+            "key": 43,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 328,
+            "won": 149
+          },
+          "dribbles": {
+            "attempts": 126,
+            "success": 65,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 16,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 342177,
+        "name": "N. Weiper",
+        "firstname": "Nelson Felix Patrick",
+        "lastname": "Weiper",
+        "age": 20,
+        "birth": {
+          "date": "2005-03-17",
+          "place": "Mainz",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/342177.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 121,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.325000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 25,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19195,
+        "name": "A. El Ghazi",
+        "firstname": "Anwar",
+        "lastname": "El Ghazi",
+        "age": 30,
+        "birth": {
+          "date": "1995-05-03",
+          "place": "Barendrecht",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "189 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19195.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 51,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30405,
+        "name": "E. Fernandes",
+        "firstname": "Edimilson",
+        "lastname": "Fernandes Ribeiro",
+        "age": 29,
+        "birth": {
+          "date": "1996-04-15",
+          "place": "Sion",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "187",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30405.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 13,
+            "minutes": 1284,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.730000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 13
+          },
+          "shots": {
+            "total": 7,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 725,
+            "key": 18,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 6,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 100,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 160,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 104,
+            "key": 3,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 13,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 36922,
+        "name": "S. van den Berg",
+        "firstname": "Sepp",
+        "lastname": "van den Berg",
+        "age": 24,
+        "birth": {
+          "date": "2001-12-20",
+          "place": "Zwolle",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "189",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/36922.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2838,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.145454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 19,
+            "on": 11
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1462,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 36,
+            "interceptions": 41
+          },
+          "duels": {
+            "total": 353,
+            "won": 229
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 42,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 47,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 177665,
+        "name": "A. Stach",
+        "firstname": "Anton Levi",
+        "lastname": "Stach",
+        "age": 27,
+        "birth": {
+          "date": "1998-11-15",
+          "place": "Buchholz in der Nordheide",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "86",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/177665.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 171,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.145161",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 25,
+            "on": 9
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1250,
+            "key": 19,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 73,
+            "blocks": 12,
+            "interceptions": 72
+          },
+          "duels": {
+            "total": 321,
+            "won": 190
+          },
+          "dribbles": {
+            "attempts": 54,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 54,
+            "key": 1,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
