@@ -39,7 +39,7 @@ The following technologies are planned for use in the project:
 - **Python** – data extraction, processing, and transformation
 - **PostgreSQL** – data storage
 - **psycopg2** - database creation and data loading
-- **Prefect** or **Airflow** – pipeline orchestration
+- **Prefect** – pipeline orchestration
 - **Metabase** – visualization and dashboards
 - **Docker** – local deployment and service isolation
 - **Git / GitHub** – version control and development documentation
@@ -52,23 +52,24 @@ Planned system architecture:
 2. Ingestion layer for data collection
 3. Transformation layer for data cleaning and preparation
 4. Relational database for storage
-5. API layer for data access
-6. BI / dashboard layer for visualization
+5. BI / dashboard layer for visualization
 
 
 Setup guide:
 1) clone the repository
 2) Create the .env file by copying the .env.example
 3) (Necessary only if you want to add more data) Make an API-football account and copy your API key into the .env file
-4) Start PostgreSQL and Metabase in docker (install docker first and run the following command in the project root) 'docker compose -f docker/docker-compose.yml up -d'
+4) Start PostgreSQL, Metabase and Prefect in docker (install docker first and run the following command in the project root) 'docker compose -f docker/docker-compose.yml up -d'
 5) Run the docker containers if they aren't already running and then run the pipeline:
-   - if you want to fetch your own data, fill out the .env file and run: 'python main.py fetch createdb load'
-   - you can also run 'python main.py createdb load' if you want to use the data already in the files
+   - if you want to fetch your own data, fill out the .env file and run 'python main.py fetch createdb load' in the project root
+   - you can also run 'python main.py createdb load' if you want to use only the data already in the files
 7) Open metabase via docker or go to http://localhost:3001
 8) Login with
    -email: improjektr@gmail.com
    -password: xQt6UMU)2#90)j
 10) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection: Host: "postgres", password: "postgres"
+note: prefect automatically refreshes the seasons listed in your .env file every day at 3 AM which requires your system to be running. You can also open the prefect container and run it manually or change the running time in the .yml file
+
 
 ## Final Thesis
 
