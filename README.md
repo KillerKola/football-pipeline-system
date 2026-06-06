@@ -62,12 +62,13 @@ Setup guide:
 4) Start PostgreSQL, Metabase and Prefect in docker (install docker first and run the following command in the project root)
    'docker compose -f docker/docker-compose.yml up -d'
 6) Run the docker containers if they aren't already running and then run the pipeline:
+   - 'pip install -r requirements.txt'
    - if you want to fetch your own data, fill out the .env file and run this in the project root
      'python main.py fetch createdb load'
    - you can also run this if you want to use only the data already in the files
      'python main.py createdb load'
-7) Open metabase via docker or go to http://localhost:3001
-8) Login with
+8) Open metabase via docker or go to http://localhost:3001
+9) Login with
    -email: improjektr@gmail.com
    -password: xQt6UMU)2#90)j
 10) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection: Host: "postgres", password: "postgres"
