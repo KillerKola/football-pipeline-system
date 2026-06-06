@@ -59,13 +59,16 @@ Planned system architecture:
 Setup guide:
 1) clone the repository
 2) Create the .env file by copying the .env.example
-3) (Necessary only if you want to add more data) Make an API-football account and copy the API key into the .env file
+3) (Necessary only if you want to add more data) Make an API-football account and copy your API key into the .env file
 4) Start PostgreSQL and Metabase in docker (install docker first and run the following command in the project root) 'docker compose -f docker/docker-compose.yml up -d'
 5) Run the docker containers if they aren't already running and then run the pipeline:
    - if you want to fetch your own data, fill out the .env file and run: 'python main.py fetch createdb load'
    - you can also run 'python main.py createdb load' if you want to use the data already in the files
 7) Open metabase via docker or go to http://localhost:3001
-8) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection: Host: "postgres", password: "postgres"
+8) Login with
+   -email: improjektr@gmail.com
+   -password: xQt6UMU)2#90)j
+10) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection: Host: "postgres", password: "postgres"
 
 ## Final Thesis
 
