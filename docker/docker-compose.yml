@@ -20,7 +20,7 @@ services:
 
   metabase:
     image: metabase/metabase:latest
-    container_name: metabase2
+    container_name: metabase-football-stats
     depends_on:
       postgres:
         condition: service_healthy

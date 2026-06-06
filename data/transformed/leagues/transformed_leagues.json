@@ -27,6 +27,12 @@
     "league_id": 135,
     "league_name": "Serie A",
     "country_name": "Italy",
+    "season": 2022
+  },
+  {
+    "league_id": 135,
+    "league_name": "Serie A",
+    "country_name": "Italy",
     "season": 2023
   },
   {

@@ -793,6 +793,19 @@
     "photo": "https://media.api-sports.io/football/players/134.png"
   },
   {
+    "player_id": 135,
+    "firstname": "Jeison Fabián",
+    "lastname": "Murillo Cerón",
+    "birth_date": "1992-05-27",
+    "birth_place": "Cali",
+    "birth_country": "Colombia",
+    "nationality": "Colombia",
+    "height_cm": "182 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/135.png"
+  },
+  {
     "player_id": 136,
     "firstname": "Gerard",
     "lastname": "Piqué Bernabéu",
@@ -1261,6 +1274,19 @@
     "photo": "https://media.api-sports.io/football/players/194.png"
   },
   {
+    "player_id": 197,
+    "firstname": "Andrea",
+    "lastname": "Ranocchia",
+    "birth_date": "1988-02-16",
+    "birth_place": "Assisi",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "195 cm",
+    "weight_kg": "81 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/197.png"
+  },
+  {
     "player_id": 198,
     "firstname": "Milan",
     "lastname": "Škriniar",
@@ -1441,6 +1467,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/220.png"
+  },
+  {
+    "player_id": 224,
+    "firstname": "Jeroen",
+    "lastname": "Zoet",
+    "birth_date": "1991-01-06",
+    "birth_place": "Veendam",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "189",
+    "weight_kg": "88",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/224.png"
   },
   {
     "player_id": 226,
@@ -2015,6 +2054,19 @@
     "photo": "https://media.api-sports.io/football/players/314.png"
   },
   {
+    "player_id": 315,
+    "firstname": "Vlad Iulian",
+    "lastname": "Chiricheș",
+    "birth_date": "1989-11-14",
+    "birth_place": "Bacău",
+    "birth_country": "Romania",
+    "nationality": "Romania",
+    "height_cm": "184",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/315.png"
+  },
+  {
     "player_id": 317,
     "firstname": "Elseid",
     "lastname": "Hysaj",
@@ -2067,6 +2119,19 @@
     "photo": "https://media.api-sports.io/football/players/323.png"
   },
   {
+    "player_id": 324,
+    "firstname": "Amadou",
+    "lastname": "Diawara",
+    "birth_date": "1997-07-17",
+    "birth_place": "Conakry",
+    "birth_country": "Guinea",
+    "nationality": "Guinea",
+    "height_cm": "183",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/324.png"
+  },
+  {
     "player_id": 325,
     "firstname": "Gianluca",
     "lastname": "Gaetano",
@@ -2091,6 +2156,32 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/326.png"
+  },
+  {
+    "player_id": 327,
+    "firstname": "Adam Mohamed",
+    "lastname": "Ounas",
+    "birth_date": "1996-11-11",
+    "birth_place": "Chambray-lès-Tours",
+    "birth_country": "France",
+    "nationality": "Algeria",
+    "height_cm": "172 cm",
+    "weight_kg": "65 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/327.png"
+  },
+  {
+    "player_id": 328,
+    "firstname": "Fabián",
+    "lastname": "Ruiz Peña",
+    "birth_date": "1996-04-03",
+    "birth_place": "Los Palacios y Villafranca",
+    "birth_country": "Spain",
+    "nationality": "Spain",
+    "height_cm": "189",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/328.png"
   },
   {
     "player_id": 329,
@@ -2795,6 +2886,19 @@
     "photo": "https://media.api-sports.io/football/players/542.png"
   },
   {
+    "player_id": 544,
+    "firstname": "Noa Noëll",
+    "lastname": "Lang",
+    "birth_date": "1999-06-17",
+    "birth_place": "Capelle aan den IJssel",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "173",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/544.png"
+  },
+  {
     "player_id": 545,
     "firstname": "Noussair",
     "lastname": "Mazraoui",
@@ -2962,6 +3066,19 @@
     "weight_kg": "70",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/583.png"
+  },
+  {
+    "player_id": 595,
+    "firstname": "Marios",
+    "lastname": "Oikonomou",
+    "birth_date": "1992-10-06",
+    "birth_place": "Ioannina",
+    "birth_country": "Greece",
+    "nationality": "Greece",
+    "height_cm": "189 cm",
+    "weight_kg": "85 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/595.png"
   },
   {
     "player_id": 608,
@@ -4173,6 +4290,32 @@
     "photo": "https://media.api-sports.io/football/players/774.png"
   },
   {
+    "player_id": 775,
+    "firstname": "Davide",
+    "lastname": "Santon",
+    "birth_date": "1991-01-02",
+    "birth_place": "Porto Maggiore",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187 cm",
+    "weight_kg": "77 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/775.png"
+  },
+  {
+    "player_id": 777,
+    "firstname": "Ante",
+    "lastname": "Ćorić",
+    "birth_date": "1997-04-14",
+    "birth_place": "Zagreb",
+    "birth_country": "Croatia",
+    "nationality": "Croatia",
+    "height_cm": "172 cm",
+    "weight_kg": "68 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/777.png"
+  },
+  {
     "player_id": 778,
     "firstname": "Bryan",
     "lastname": "Cristante",
@@ -4303,6 +4446,19 @@
     "photo": "https://media.api-sports.io/football/players/833.png"
   },
   {
+    "player_id": 834,
+    "firstname": "Kristijan",
+    "lastname": "Bistrović",
+    "birth_date": "1998-04-09",
+    "birth_place": "Koprivnica",
+    "birth_country": "Croatia",
+    "nationality": "Croatia",
+    "height_cm": "183",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/834.png"
+  },
+  {
     "player_id": 842,
     "firstname": "Nikola",
     "lastname": "Vlašić",
@@ -4366,6 +4522,19 @@
     "weight_kg": "74",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/855.png"
+  },
+  {
+    "player_id": 856,
+    "firstname": "Giorgio",
+    "lastname": "Chiellini",
+    "birth_date": "1984-08-14",
+    "birth_place": "Pisa",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187 cm",
+    "weight_kg": "85 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/856.png"
   },
   {
     "player_id": 858,
@@ -4483,6 +4652,32 @@
     "weight_kg": "71",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/867.png"
+  },
+  {
+    "player_id": 870,
+    "firstname": "Simone",
+    "lastname": "Muratore",
+    "birth_date": "1998-05-30",
+    "birth_place": "Cuneo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/870.png"
+  },
+  {
+    "player_id": 873,
+    "firstname": "Federico",
+    "lastname": "Bernardeschi",
+    "birth_date": "1994-02-16",
+    "birth_place": "Carrara",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/873.png"
   },
   {
     "player_id": 875,
@@ -5512,6 +5707,19 @@
     "photo": "https://media.api-sports.io/football/players/1109.png"
   },
   {
+    "player_id": 1111,
+    "firstname": "Jack William",
+    "lastname": "Hendry",
+    "birth_date": "1995-05-07",
+    "birth_place": "Glasgow",
+    "birth_country": "Scotland",
+    "nationality": "Scotland",
+    "height_cm": "195",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1111.png"
+  },
+  {
     "player_id": 1117,
     "firstname": "Kieran",
     "lastname": "Tierney",
@@ -6058,6 +6266,19 @@
     "photo": "https://media.api-sports.io/football/players/1282.png"
   },
   {
+    "player_id": 1291,
+    "firstname": "Denis",
+    "lastname": "Vavro",
+    "birth_date": "1996-04-10",
+    "birth_place": "Partizánske",
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "189",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1291.png"
+  },
+  {
     "player_id": 1298,
     "firstname": "Robert",
     "lastname": "Faxe Skov",
@@ -6147,6 +6368,19 @@
     "weight_kg": "69",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1330.png"
+  },
+  {
+    "player_id": 1353,
+    "firstname": "Tolgay Ali",
+    "lastname": "Arslan",
+    "birth_date": "1990-08-16",
+    "birth_place": "Paderborn",
+    "birth_country": "Germany",
+    "nationality": "Germany",
+    "height_cm": "180",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1353.png"
   },
   {
     "player_id": 1358,
@@ -6446,6 +6680,19 @@
     "weight_kg": "69",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1461.png"
+  },
+  {
+    "player_id": 1462,
+    "firstname": "Lucas Sebastián",
+    "lastname": "Torreira di Pascua",
+    "birth_date": "1996-02-11",
+    "birth_place": "Fray Bentos",
+    "birth_country": "Uruguay",
+    "nationality": "Uruguay",
+    "height_cm": "166",
+    "weight_kg": "65",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1462.png"
   },
   {
     "player_id": 1463,
@@ -6851,6 +7098,19 @@
     "photo": "https://media.api-sports.io/football/players/1584.png"
   },
   {
+    "player_id": 1585,
+    "firstname": "Jesé",
+    "lastname": "Rodríguez Ruiz",
+    "birth_date": "1993-02-26",
+    "birth_place": "Las Palmas de Gran Canaria",
+    "birth_country": "Spain",
+    "nationality": "Spain",
+    "height_cm": "178",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1585.png"
+  },
+  {
     "player_id": 1586,
     "firstname": "Cristian",
     "lastname": "Tello Herrera",
@@ -6942,6 +7202,19 @@
     "photo": "https://media.api-sports.io/football/players/1621.png"
   },
   {
+    "player_id": 1623,
+    "firstname": "Alessandro",
+    "lastname": "Plizzari",
+    "birth_date": "2000-03-12",
+    "birth_place": "Crema",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1623.png"
+  },
+  {
     "player_id": 1624,
     "firstname": "José Manuel",
     "lastname": "Reina Páez",
@@ -6979,6 +7252,19 @@
     "weight_kg": "80 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1628.png"
+  },
+  {
+    "player_id": 1629,
+    "firstname": "Andrea",
+    "lastname": "Conti",
+    "birth_date": "1994-03-02",
+    "birth_place": "Lecco",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1629.png"
   },
   {
     "player_id": 1631,
@@ -7109,6 +7395,19 @@
     "weight_kg": "70 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1650.png"
+  },
+  {
+    "player_id": 1652,
+    "firstname": "Frank Cédric",
+    "lastname": "Tsadjout",
+    "birth_date": "1999-07-28",
+    "birth_place": "Perugia",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1652.png"
   },
   {
     "player_id": 1672,
@@ -7605,6 +7904,19 @@
     "photo": "https://media.api-sports.io/football/players/1842.png"
   },
   {
+    "player_id": 1843,
+    "firstname": "Jordan Zacharie",
+    "lastname": "Lukaku Menama Mokelenge",
+    "birth_date": "1994-07-25",
+    "birth_place": "Antwerpen",
+    "birth_country": "Belgium",
+    "nationality": "Belgium",
+    "height_cm": "177 cm",
+    "weight_kg": "86 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1843.png"
+  },
+  {
     "player_id": 1844,
     "firstname": "Adam",
     "lastname": "Marušić",
@@ -7696,6 +8008,32 @@
     "photo": "https://media.api-sports.io/football/players/1854.png"
   },
   {
+    "player_id": 1856,
+    "firstname": "Sergej",
+    "lastname": "Milinković-Savić",
+    "birth_date": "1995-02-27",
+    "birth_place": "Lleida",
+    "birth_country": "Spain",
+    "nationality": "Serbia",
+    "height_cm": "192",
+    "weight_kg": "83",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1856.png"
+  },
+  {
+    "player_id": 1858,
+    "firstname": "Lucas",
+    "lastname": "Pezzini Leiva",
+    "birth_date": "1987-01-09",
+    "birth_place": "Dourados",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "179 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1858.png"
+  },
+  {
     "player_id": 1859,
     "firstname": "Luis Alberto",
     "lastname": "Romero Alconchel",
@@ -7707,6 +8045,19 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1859.png"
+  },
+  {
+    "player_id": 1862,
+    "firstname": "Luan David",
+    "lastname": "Capanni Dias",
+    "birth_date": "2000-05-29",
+    "birth_place": "São Paulo",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "190 cm",
+    "weight_kg": "81 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1862.png"
   },
   {
     "player_id": 1863,
@@ -7904,6 +8255,19 @@
     "photo": "https://media.api-sports.io/football/players/1929.png"
   },
   {
+    "player_id": 1930,
+    "firstname": "Joakim",
+    "lastname": "Mæhle Pedersen",
+    "birth_date": "1997-05-20",
+    "birth_place": "Østervrå",
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": "185",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1930.png"
+  },
+  {
     "player_id": 1934,
     "firstname": "Sander Gard",
     "lastname": "Bolin Berge",
@@ -7967,6 +8331,19 @@
     "weight_kg": "87",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/1972.png"
+  },
+  {
+    "player_id": 1982,
+    "firstname": "Gary Alexis",
+    "lastname": "Medel Soto",
+    "birth_date": "1987-08-03",
+    "birth_place": "Santiago",
+    "birth_country": "Chile",
+    "nationality": "Chile",
+    "height_cm": "171",
+    "weight_kg": "65",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/1982.png"
   },
   {
     "player_id": 1983,
@@ -8684,6 +9061,19 @@
     "photo": "https://media.api-sports.io/football/players/2360.png"
   },
   {
+    "player_id": 2375,
+    "firstname": "Sérgio Miguel",
+    "lastname": "Relvas de Oliveira",
+    "birth_date": "1992-06-02",
+    "birth_place": "Paços de Brandão",
+    "birth_country": "Portugal",
+    "nationality": "Portugal",
+    "height_cm": "181",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2375.png"
+  },
+  {
     "player_id": 2385,
     "firstname": "Karol Grzegorz",
     "lastname": "Świderski",
@@ -8773,6 +9163,19 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/2449.png"
+  },
+  {
+    "player_id": 2452,
+    "firstname": "Tomás Eduardo",
+    "lastname": "Rincón Hernández",
+    "birth_date": "1988-01-13",
+    "birth_place": "San Cristóbal",
+    "birth_country": "Venezuela",
+    "nationality": "Venezuela",
+    "height_cm": "177",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2452.png"
   },
   {
     "player_id": 2459,
@@ -8983,6 +9386,19 @@
     "photo": "https://media.api-sports.io/football/players/2490.png"
   },
   {
+    "player_id": 2493,
+    "firstname": "Luis Fernando",
+    "lastname": "Muriel Fruto",
+    "birth_date": "1991-04-16",
+    "birth_place": "Santo Tomás",
+    "birth_country": "Colombia",
+    "nationality": "Colombia",
+    "height_cm": "179",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2493.png"
+  },
+  {
     "player_id": 2495,
     "firstname": "Duván Esteban",
     "lastname": "Zapata Banguero",
@@ -9059,6 +9475,19 @@
     "weight_kg": "84",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/2553.png"
+  },
+  {
+    "player_id": 2560,
+    "firstname": "Erick Antonio",
+    "lastname": "Pulgar Farfán",
+    "birth_date": "1994-01-15",
+    "birth_place": "Antofagasta",
+    "birth_country": "Chile",
+    "nationality": "Chile",
+    "height_cm": "187",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2560.png"
   },
   {
     "player_id": 2575,
@@ -9436,6 +9865,19 @@
     "weight_kg": "79",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/2731.png"
+  },
+  {
+    "player_id": 2733,
+    "firstname": "Jens",
+    "lastname": "Stryger Larsen",
+    "birth_date": "1991-02-21",
+    "birth_place": "Sakskøbing",
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": "182",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2733.png"
   },
   {
     "player_id": 2734,
@@ -9880,6 +10322,19 @@
     "photo": "https://media.api-sports.io/football/players/2855.png"
   },
   {
+    "player_id": 2858,
+    "firstname": "Albin",
+    "lastname": "Ekdal",
+    "birth_date": "1989-07-28",
+    "birth_place": "Stockholm",
+    "birth_country": "Sweden",
+    "nationality": "Sweden",
+    "height_cm": "186",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2858.png"
+  },
+  {
     "player_id": 2864,
     "firstname": "Alexander",
     "lastname": "Isak",
@@ -10283,6 +10738,19 @@
     "photo": "https://media.api-sports.io/football/players/2952.png"
   },
   {
+    "player_id": 2954,
+    "firstname": "Wajdi",
+    "lastname": "Kechrida",
+    "birth_date": "1995-11-05",
+    "birth_place": "Nice",
+    "birth_country": "France",
+    "nationality": "Tunisia",
+    "height_cm": "177",
+    "weight_kg": "67",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/2954.png"
+  },
+  {
     "player_id": 2990,
     "firstname": "Idrissa Gana",
     "lastname": "Gueye",
@@ -10398,6 +10866,19 @@
     "weight_kg": "73",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/3009.png"
+  },
+  {
+    "player_id": 3010,
+    "firstname": "Arkadiusz",
+    "lastname": "Reca",
+    "birth_date": "1995-06-17",
+    "birth_place": "Chojnicach",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": "187",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/3010.png"
   },
   {
     "player_id": 3013,
@@ -10907,6 +11388,19 @@
     "photo": "https://media.api-sports.io/football/players/6610.png"
   },
   {
+    "player_id": 6629,
+    "firstname": "Adolfo Julián",
+    "lastname": "Gaich",
+    "birth_date": "1999-02-26",
+    "birth_place": "Córdoba",
+    "birth_country": "Argentina",
+    "nationality": "Argentina",
+    "height_cm": "190",
+    "weight_kg": "94",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/6629.png"
+  },
+  {
     "player_id": 6638,
     "firstname": "Facundo Tomás",
     "lastname": "Garcés",
@@ -11191,6 +11685,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/7712.png"
+  },
+  {
+    "player_id": 7719,
+    "firstname": "Emanuel",
+    "lastname": "Aiwu",
+    "birth_date": "2000-12-25",
+    "birth_place": "Innsbruck",
+    "birth_country": "Austria",
+    "nationality": "Austria",
+    "height_cm": "185",
+    "weight_kg": "82",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/7719.png"
   },
   {
     "player_id": 7722,
@@ -11544,6 +12051,19 @@
     "photo": "https://media.api-sports.io/football/players/8794.png"
   },
   {
+    "player_id": 8864,
+    "firstname": "Sanasi Mahamadou",
+    "lastname": "Sy",
+    "birth_date": "1999-04-04",
+    "birth_place": "Paris",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "174 cm",
+    "weight_kg": "72 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/8864.png"
+  },
+  {
     "player_id": 8959,
     "firstname": "Adrian",
     "lastname": "Beck",
@@ -11594,6 +12114,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/9072.png"
+  },
+  {
+    "player_id": 9084,
+    "firstname": "Riad",
+    "lastname": "Bajić",
+    "birth_date": "1994-05-06",
+    "birth_place": "Sarajevo",
+    "birth_country": "Bosnia and Herzegovina",
+    "nationality": "Bosnia and Herzegovina",
+    "height_cm": "189 cm",
+    "weight_kg": "80 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/9084.png"
   },
   {
     "player_id": 9308,
@@ -11674,6 +12207,19 @@
     "photo": "https://media.api-sports.io/football/players/9975.png"
   },
   {
+    "player_id": 9990,
+    "firstname": "Kaique",
+    "lastname": "Rocha Lima",
+    "birth_date": "2001-02-28",
+    "birth_place": "Taboão da Serra",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "197",
+    "weight_kg": "89",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/9990.png"
+  },
+  {
     "player_id": 10008,
     "firstname": "Kaio Jorge",
     "lastname": "Pinto Ramos",
@@ -11750,6 +12296,19 @@
     "weight_kg": "90 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/10151.png"
+  },
+  {
+    "player_id": 10160,
+    "firstname": "Leonardo",
+    "lastname": "Campos Duarte da Silva",
+    "birth_date": "1996-07-17",
+    "birth_place": "Mococa",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "183",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/10160.png"
   },
   {
     "player_id": 10166,
@@ -11856,6 +12415,19 @@
     "photo": "https://media.api-sports.io/football/players/10494.png"
   },
   {
+    "player_id": 10503,
+    "firstname": "Felipe",
+    "lastname": "dos Reis Pereira Vizeu do Carm",
+    "birth_date": "1997-03-12",
+    "birth_place": "Três Rios",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "185",
+    "weight_kg": "83",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/10503.png"
+  },
+  {
     "player_id": 10561,
     "firstname": "Henrique",
     "lastname": "Silva Milagres",
@@ -11947,6 +12519,19 @@
     "photo": "https://media.api-sports.io/football/players/12667.png"
   },
   {
+    "player_id": 12774,
+    "firstname": "Gabriel Alejandro",
+    "lastname": "Paletta",
+    "birth_date": "1986-02-15",
+    "birth_place": "Longchamps",
+    "birth_country": "Argentina",
+    "nationality": "Italy",
+    "height_cm": "190 cm",
+    "weight_kg": "88 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/12774.png"
+  },
+  {
     "player_id": 13062,
     "firstname": "Leonardo Micali",
     "lastname": "Carrilho Baptistão",
@@ -11971,6 +12556,19 @@
     "weight_kg": "72 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/13109.png"
+  },
+  {
+    "player_id": 13246,
+    "firstname": "Kevin Andrés",
+    "lastname": "Agudelo Ardila",
+    "birth_date": "1998-11-14",
+    "birth_place": "Puerto Caicedo",
+    "birth_country": "Colombia",
+    "nationality": "Colombia",
+    "height_cm": "178 cm",
+    "weight_kg": "70 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/13246.png"
   },
   {
     "player_id": 13489,
@@ -12764,6 +13362,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/18033.png"
+  },
+  {
+    "player_id": 18128,
+    "firstname": "Dennis-Dorian",
+    "lastname": "Politic",
+    "birth_date": "2000-03-05",
+    "birth_place": "Braşov",
+    "birth_country": "Romania",
+    "nationality": "Romania",
+    "height_cm": "185",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/18128.png"
   },
   {
     "player_id": 18146,
@@ -17056,6 +17667,19 @@
     "photo": "https://media.api-sports.io/football/players/20844.png"
   },
   {
+    "player_id": 20927,
+    "firstname": "Aurélien",
+    "lastname": "Nguiamba",
+    "birth_date": "1999-01-18",
+    "birth_place": "Colmar",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "179",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/20927.png"
+  },
+  {
     "player_id": 20995,
     "firstname": "Maxence Guy",
     "lastname": "Lacroix",
@@ -17472,6 +18096,19 @@
     "photo": "https://media.api-sports.io/football/players/22097.png"
   },
   {
+    "player_id": 22134,
+    "firstname": "Kelvin",
+    "lastname": "Amian Adou",
+    "birth_date": "1998-02-08",
+    "birth_place": "Toulouse",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "180",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/22134.png"
+  },
+  {
     "player_id": 22147,
     "firstname": "Kouadio Emmanuel",
     "lastname": "Koné",
@@ -17548,6 +18185,19 @@
     "weight_kg": "79",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/22169.png"
+  },
+  {
+    "player_id": 22171,
+    "firstname": "Jean-Victor",
+    "lastname": "Makengo",
+    "birth_date": "1998-06-12",
+    "birth_place": "Etampes",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "177",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/22171.png"
   },
   {
     "player_id": 22173,
@@ -19006,6 +19656,19 @@
     "photo": "https://media.api-sports.io/football/players/25416.png"
   },
   {
+    "player_id": 25448,
+    "firstname": "Kaan",
+    "lastname": "Ayhan",
+    "birth_date": "1994-11-10",
+    "birth_place": "Gelsenkirchen",
+    "birth_country": "Germany",
+    "nationality": "Türkiye",
+    "height_cm": "185",
+    "weight_kg": "84",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/25448.png"
+  },
+  {
     "player_id": 25455,
     "firstname": "Aymen",
     "lastname": "Barkok",
@@ -19147,6 +19810,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/25628.png"
+  },
+  {
+    "player_id": 25634,
+    "firstname": "Michaël Bruno",
+    "lastname": "Dominique Cuisance",
+    "birth_date": "1999-08-16",
+    "birth_place": "Strasbourg",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "181",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/25634.png"
   },
   {
     "player_id": 25635,
@@ -19810,6 +20486,19 @@
     "weight_kg": "79",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/26303.png"
+  },
+  {
+    "player_id": 26305,
+    "firstname": "Santiago Lionel",
+    "lastname": "Ascacíbar",
+    "birth_date": "1997-02-25",
+    "birth_place": "La Plata",
+    "birth_country": "Argentina",
+    "nationality": "Argentina",
+    "height_cm": "168",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/26305.png"
   },
   {
     "player_id": 26315,
@@ -20488,6 +21177,19 @@
     "photo": "https://media.api-sports.io/football/players/30431.png"
   },
   {
+    "player_id": 30432,
+    "firstname": "Marten Elco",
+    "lastname": "de Roon",
+    "birth_date": "1991-03-29",
+    "birth_place": "Zwijndrecht",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "186",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30432.png"
+  },
+  {
     "player_id": 30433,
     "firstname": "Alejandro Darío",
     "lastname": "Gómez Villaverde",
@@ -20499,6 +21201,19 @@
     "weight_kg": "68",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30433.png"
+  },
+  {
+    "player_id": 30434,
+    "firstname": "Josip",
+    "lastname": "Iličić",
+    "birth_date": "1988-01-29",
+    "birth_place": "Prijedor",
+    "birth_country": "Bosnia and Herzegovina",
+    "nationality": "Slovenia",
+    "height_cm": "190",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30434.png"
   },
   {
     "player_id": 30435,
@@ -20592,6 +21307,71 @@
     "photo": "https://media.api-sports.io/football/players/30441.png"
   },
   {
+    "player_id": 30442,
+    "firstname": "Vid",
+    "lastname": "Belec",
+    "birth_date": "1990-06-06",
+    "birth_place": "Maribor",
+    "birth_country": "Slovenia",
+    "nationality": "Slovenia",
+    "height_cm": "192",
+    "weight_kg": "84",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30442.png"
+  },
+  {
+    "player_id": 30444,
+    "firstname": "Omar",
+    "lastname": "Colley Daniel",
+    "birth_date": "1992-10-24",
+    "birth_place": "Banjul",
+    "birth_country": "Gambia",
+    "nationality": "Gambia",
+    "height_cm": "191",
+    "weight_kg": "90",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30444.png"
+  },
+  {
+    "player_id": 30446,
+    "firstname": "Alex",
+    "lastname": "Ferrari",
+    "birth_date": "1994-07-01",
+    "birth_place": "Modena",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "191",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30446.png"
+  },
+  {
+    "player_id": 30447,
+    "firstname": "Nicola",
+    "lastname": "Murru",
+    "birth_date": "1994-12-16",
+    "birth_place": "Cagliari",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30447.png"
+  },
+  {
+    "player_id": 30448,
+    "firstname": "Jacopo",
+    "lastname": "Sala",
+    "birth_date": "1991-12-05",
+    "birth_place": "Bergamo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "181 cm",
+    "weight_kg": "75 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30448.png"
+  },
+  {
     "player_id": 30450,
     "firstname": "Lorenzo",
     "lastname": "Tonelli",
@@ -20616,6 +21396,58 @@
     "weight_kg": "74 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30453.png"
+  },
+  {
+    "player_id": 30456,
+    "firstname": "Riccardo",
+    "lastname": "Saponara",
+    "birth_date": "1991-12-21",
+    "birth_place": "Forlì",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184 cm",
+    "weight_kg": "73 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30456.png"
+  },
+  {
+    "player_id": 30457,
+    "firstname": "Ognjen",
+    "lastname": "Stijepović",
+    "birth_date": "1999-10-22",
+    "birth_place": null,
+    "birth_country": "Montenegro",
+    "nationality": "Montenegro",
+    "height_cm": "185",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30457.png"
+  },
+  {
+    "player_id": 30458,
+    "firstname": "Simone",
+    "lastname": "Trimboli",
+    "birth_date": "2002-04-19",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "176",
+    "weight_kg": "69",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30458.png"
+  },
+  {
+    "player_id": 30459,
+    "firstname": "Ronaldo Augusto",
+    "lastname": "Vieira Nan",
+    "birth_date": "1998-07-19",
+    "birth_place": "Bissau",
+    "birth_country": "Guinea-Bissau",
+    "nationality": "England",
+    "height_cm": "178",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30459.png"
   },
   {
     "player_id": 30460,
@@ -20644,6 +21476,84 @@
     "photo": "https://media.api-sports.io/football/players/30461.png"
   },
   {
+    "player_id": 30462,
+    "firstname": "Manolo",
+    "lastname": "Gabbiadini",
+    "birth_date": "1991-11-26",
+    "birth_place": "Calcinate",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30462.png"
+  },
+  {
+    "player_id": 30463,
+    "firstname": "Fabio",
+    "lastname": "Quagliarella",
+    "birth_date": "1983-01-31",
+    "birth_place": "Castellammare di Stabia",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": "79 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30463.png"
+  },
+  {
+    "player_id": 30469,
+    "firstname": "Arturo",
+    "lastname": "Calabresi",
+    "birth_date": "1996-03-17",
+    "birth_place": "Roma",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30469.png"
+  },
+  {
+    "player_id": 30470,
+    "firstname": "Gabriele",
+    "lastname": "Corbo",
+    "birth_date": "2000-01-11",
+    "birth_place": "Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30470.png"
+  },
+  {
+    "player_id": 30471,
+    "firstname": "Mitchell Clement",
+    "lastname": "Dijks",
+    "birth_date": "1993-02-09",
+    "birth_place": "Purmerend",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "194 cm",
+    "weight_kg": "93 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30471.png"
+  },
+  {
+    "player_id": 30473,
+    "firstname": "Ibrahima",
+    "lastname": "Mbaye",
+    "birth_date": "1994-11-19",
+    "birth_place": "Guédiawaye",
+    "birth_country": "Senegal",
+    "nationality": "Senegal",
+    "height_cm": "187 cm",
+    "weight_kg": "70 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30473.png"
+  },
+  {
     "player_id": 30476,
     "firstname": "Lyanco Evangelista",
     "lastname": "Silveira Neves Vojnović",
@@ -20655,6 +21565,19 @@
     "weight_kg": "85",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30476.png"
+  },
+  {
+    "player_id": 30479,
+    "firstname": "Simone",
+    "lastname": "Edera",
+    "birth_date": "1997-01-09",
+    "birth_place": "Latisana",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "174 cm",
+    "weight_kg": "70 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30479.png"
   },
   {
     "player_id": 30483,
@@ -20720,6 +21643,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30492.png"
+  },
+  {
+    "player_id": 30494,
+    "firstname": "Antonio",
+    "lastname": "Rosati",
+    "birth_date": "1983-06-26",
+    "birth_place": "Tivoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "195 cm",
+    "weight_kg": "88 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30494.png"
   },
   {
     "player_id": 30495,
@@ -20839,6 +21775,19 @@
     "photo": "https://media.api-sports.io/football/players/30506.png"
   },
   {
+    "player_id": 30507,
+    "firstname": "Soualiho",
+    "lastname": "Meïté",
+    "birth_date": "1994-03-17",
+    "birth_place": "Paris",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "187",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30507.png"
+  },
+  {
     "player_id": 30508,
     "firstname": "Vittorio",
     "lastname": "Parigini",
@@ -20956,6 +21905,32 @@
     "photo": "https://media.api-sports.io/football/players/30519.png"
   },
   {
+    "player_id": 30520,
+    "firstname": "Claud",
+    "lastname": "Adjapong",
+    "birth_date": "1998-05-06",
+    "birth_place": "Modena",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30520.png"
+  },
+  {
+    "player_id": 30521,
+    "firstname": "Merih",
+    "lastname": "Demiral",
+    "birth_date": "1998-03-05",
+    "birth_place": "Kocaeli",
+    "birth_country": "Türkiye",
+    "nationality": "Türkiye",
+    "height_cm": "190",
+    "weight_kg": "86",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30521.png"
+  },
+  {
     "player_id": 30523,
     "firstname": "Gian Marco",
     "lastname": "Ferrari",
@@ -21008,6 +21983,45 @@
     "photo": "https://media.api-sports.io/football/players/30527.png"
   },
   {
+    "player_id": 30528,
+    "firstname": "Federico",
+    "lastname": "Peluso",
+    "birth_date": "1984-01-20",
+    "birth_place": "Roma",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187 cm",
+    "weight_kg": "82 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30528.png"
+  },
+  {
+    "player_id": 30529,
+    "firstname": "Marlon",
+    "lastname": "Santos da Silva Barbosa",
+    "birth_date": "1995-09-07",
+    "birth_place": "Duque de Caxias",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "182",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30529.png"
+  },
+  {
+    "player_id": 30530,
+    "firstname": "Leonardo",
+    "lastname": "Sernicola",
+    "birth_date": "1997-07-30",
+    "birth_place": "Civita Castellana",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30530.png"
+  },
+  {
     "player_id": 30531,
     "firstname": "Jérémie",
     "lastname": "Boga",
@@ -21047,6 +22061,19 @@
     "photo": "https://media.api-sports.io/football/players/30533.png"
   },
   {
+    "player_id": 30534,
+    "firstname": "Francesco",
+    "lastname": "Magnanelli",
+    "birth_date": "1984-11-12",
+    "birth_place": "Umbertide",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "181 cm",
+    "weight_kg": "79 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30534.png"
+  },
+  {
     "player_id": 30535,
     "firstname": "Stefano",
     "lastname": "Sensi",
@@ -21058,6 +22085,19 @@
     "weight_kg": "62 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30535.png"
+  },
+  {
+    "player_id": 30536,
+    "firstname": "Filip",
+    "lastname": "Đuričić",
+    "birth_date": "1992-01-30",
+    "birth_place": "Obrenovac",
+    "birth_country": "Serbia",
+    "nationality": "Serbia",
+    "height_cm": "181",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30536.png"
   },
   {
     "player_id": 30537,
@@ -21084,6 +22124,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30539.png"
+  },
+  {
+    "player_id": 30540,
+    "firstname": "Khouma",
+    "lastname": "El Hadji Babacar",
+    "birth_date": "1993-03-17",
+    "birth_place": "Thiès",
+    "birth_country": "Senegal",
+    "nationality": "Senegal",
+    "height_cm": "185 cm",
+    "weight_kg": "85 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30540.png"
   },
   {
     "player_id": 30542,
@@ -21162,6 +22215,19 @@
     "weight_kg": "76",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30551.png"
+  },
+  {
+    "player_id": 30552,
+    "firstname": "Maxime Jean Roberto",
+    "lastname": "Leverbe",
+    "birth_date": "1997-02-15",
+    "birth_place": "Villepinte",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "188 cm",
+    "weight_kg": "82 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30552.png"
   },
   {
     "player_id": 30553,
@@ -21346,6 +22412,19 @@
     "photo": "https://media.api-sports.io/football/players/30629.png"
   },
   {
+    "player_id": 30634,
+    "firstname": "Cristian",
+    "lastname": "Buonaiuto",
+    "birth_date": "1992-12-29",
+    "birth_place": "Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "179",
+    "weight_kg": "68",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30634.png"
+  },
+  {
     "player_id": 30635,
     "firstname": "Massimo",
     "lastname": "Coda",
@@ -21437,6 +22516,19 @@
     "photo": "https://media.api-sports.io/football/players/30691.png"
   },
   {
+    "player_id": 30692,
+    "firstname": "Filippo",
+    "lastname": "Nardi",
+    "birth_date": "1998-03-03",
+    "birth_place": "Treviso",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "175 cm",
+    "weight_kg": "69 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30692.png"
+  },
+  {
     "player_id": 30704,
     "firstname": "Stefano",
     "lastname": "Gori",
@@ -21461,6 +22553,19 @@
     "weight_kg": "68",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30708.png"
+  },
+  {
+    "player_id": 30715,
+    "firstname": "Andrea",
+    "lastname": "Meroni",
+    "birth_date": "1997-01-09",
+    "birth_place": "Empoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188",
+    "weight_kg": "85",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30715.png"
   },
   {
     "player_id": 30731,
@@ -21528,6 +22633,58 @@
     "photo": "https://media.api-sports.io/football/players/30740.png"
   },
   {
+    "player_id": 30747,
+    "firstname": "Fabio",
+    "lastname": "Depaoli",
+    "birth_date": "1997-04-24",
+    "birth_place": "Riva del Garda",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "182",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30747.png"
+  },
+  {
+    "player_id": 30752,
+    "firstname": "Sofian",
+    "lastname": "Kiyine",
+    "birth_date": "1997-10-02",
+    "birth_place": "Verviers",
+    "birth_country": "Belgium",
+    "nationality": "Morocco",
+    "height_cm": "182 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30752.png"
+  },
+  {
+    "player_id": 30753,
+    "firstname": "Mehdi Pascal",
+    "lastname": "Marcel Léris",
+    "birth_date": "1998-05-23",
+    "birth_place": "Mont de Marsan",
+    "birth_country": "France",
+    "nationality": "Algeria",
+    "height_cm": "186",
+    "weight_kg": "83",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30753.png"
+  },
+  {
+    "player_id": 30754,
+    "firstname": "Nicola",
+    "lastname": "Rigoni",
+    "birth_date": "1990-11-12",
+    "birth_place": "Schio",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185 cm",
+    "weight_kg": "84 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30754.png"
+  },
+  {
     "player_id": 30755,
     "firstname": "Emanuel",
     "lastname": "Vignato",
@@ -21539,6 +22696,32 @@
     "weight_kg": "70",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30755.png"
+  },
+  {
+    "player_id": 30761,
+    "firstname": "Mariusz Paweł",
+    "lastname": "Stępiński",
+    "birth_date": "1995-05-12",
+    "birth_place": "Sieradz",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": "183",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30761.png"
+  },
+  {
+    "player_id": 30764,
+    "firstname": "Federico",
+    "lastname": "Marchetti",
+    "birth_date": "1983-02-07",
+    "birth_place": "Bassano del Grappa",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30764.png"
   },
   {
     "player_id": 30765,
@@ -21658,6 +22841,19 @@
     "photo": "https://media.api-sports.io/football/players/30781.png"
   },
   {
+    "player_id": 30782,
+    "firstname": "Ivan",
+    "lastname": "Radovanović",
+    "birth_date": "1988-08-29",
+    "birth_place": "Beograd",
+    "birth_country": "Serbia",
+    "nationality": "Serbia",
+    "height_cm": "186 cm",
+    "weight_kg": "80 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30782.png"
+  },
+  {
     "player_id": 30784,
     "firstname": "Nicolò",
     "lastname": "Rovella",
@@ -21736,6 +22932,19 @@
     "photo": "https://media.api-sports.io/football/players/30790.png"
   },
   {
+    "player_id": 30793,
+    "firstname": "Manuel",
+    "lastname": "Gasparini",
+    "birth_date": "2002-05-19",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30793.png"
+  },
+  {
     "player_id": 30794,
     "firstname": "Samuele",
     "lastname": "Perisan",
@@ -21747,6 +22956,45 @@
     "weight_kg": "84",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30794.png"
+  },
+  {
+    "player_id": 30795,
+    "firstname": "Samir",
+    "lastname": "Caetano de Souza Santos",
+    "birth_date": "1994-12-05",
+    "birth_place": "Rio de Janeiro",
+    "birth_country": "Brazil",
+    "nationality": "Brazil",
+    "height_cm": "189",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30795.png"
+  },
+  {
+    "player_id": 30796,
+    "firstname": "Sebastien",
+    "lastname": "De Maio",
+    "birth_date": "1987-03-05",
+    "birth_place": "Saint-Denis",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "190 cm",
+    "weight_kg": "90 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30796.png"
+  },
+  {
+    "player_id": 30797,
+    "firstname": "Bram",
+    "lastname": "Nuytinck",
+    "birth_date": "1990-05-04",
+    "birth_place": "Malden",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "191",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30797.png"
   },
   {
     "player_id": 30801,
@@ -21775,6 +23023,19 @@
     "photo": "https://media.api-sports.io/football/players/30803.png"
   },
   {
+    "player_id": 30804,
+    "firstname": "Thomas",
+    "lastname": "Battistella",
+    "birth_date": "2001-07-29",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30804.png"
+  },
+  {
     "player_id": 30806,
     "firstname": "Marco",
     "lastname": "D'Alessandro",
@@ -21799,6 +23060,32 @@
     "weight_kg": "76",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30810.png"
+  },
+  {
+    "player_id": 30811,
+    "firstname": "Petar",
+    "lastname": "Mićin",
+    "birth_date": "1998-09-29",
+    "birth_place": "Novi Sad",
+    "birth_country": "Serbia",
+    "nationality": "Serbia",
+    "height_cm": "189 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30811.png"
+  },
+  {
+    "player_id": 30812,
+    "firstname": "Ignacio",
+    "lastname": "Pussetto",
+    "birth_date": "1995-12-21",
+    "birth_place": "Cañada Rosquín",
+    "birth_country": "Argentina",
+    "nationality": "Argentina",
+    "height_cm": "180",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30812.png"
   },
   {
     "player_id": 30815,
@@ -21866,6 +23153,19 @@
     "photo": "https://media.api-sports.io/football/players/30827.png"
   },
   {
+    "player_id": 30831,
+    "firstname": "Paolo",
+    "lastname": "Bartolomei",
+    "birth_date": "1989-08-22",
+    "birth_place": "Lucca",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "183 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30831.png"
+  },
+  {
     "player_id": 30836,
     "firstname": "Giulio",
     "lastname": "Maggiore",
@@ -21877,6 +23177,19 @@
     "weight_kg": "69",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30836.png"
+  },
+  {
+    "player_id": 30840,
+    "firstname": "Luca",
+    "lastname": "Vignali",
+    "birth_date": "1996-01-11",
+    "birth_place": "La Spezia",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30840.png"
   },
   {
     "player_id": 30842,
@@ -22009,6 +23322,19 @@
     "photo": "https://media.api-sports.io/football/players/30879.png"
   },
   {
+    "player_id": 30884,
+    "firstname": "Ramzi",
+    "lastname": "Aya",
+    "birth_date": "1990-02-08",
+    "birth_place": "Rome",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184 cm",
+    "weight_kg": "71 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30884.png"
+  },
+  {
     "player_id": 30912,
     "firstname": "Alessandro",
     "lastname": "Berardi",
@@ -22046,6 +23372,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30915.png"
+  },
+  {
+    "player_id": 30919,
+    "firstname": "Matteo",
+    "lastname": "Bianchetti",
+    "birth_date": "1993-03-17",
+    "birth_place": "Como",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "189",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30919.png"
   },
   {
     "player_id": 30921,
@@ -22124,6 +23463,32 @@
     "weight_kg": "63",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30937.png"
+  },
+  {
+    "player_id": 30939,
+    "firstname": "Samuel",
+    "lastname": "Di Carmine",
+    "birth_date": "1988-09-29",
+    "birth_place": "Firenze",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186 cm",
+    "weight_kg": "84 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30939.png"
+  },
+  {
+    "player_id": 30943,
+    "firstname": "Ľubomír",
+    "lastname": "Tupta",
+    "birth_date": "1998-03-27",
+    "birth_place": "Prešov",
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "182",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30943.png"
   },
   {
     "player_id": 30947,
@@ -22230,6 +23595,19 @@
     "photo": "https://media.api-sports.io/football/players/30989.png"
   },
   {
+    "player_id": 30994,
+    "firstname": "Salvatore Andrea",
+    "lastname": "Molina",
+    "birth_date": "1992-01-01",
+    "birth_place": "Garbagnate Milanese",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "177",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30994.png"
+  },
+  {
     "player_id": 30996,
     "firstname": "Marcus Christer",
     "lastname": "Rohdén",
@@ -22241,6 +23619,19 @@
     "weight_kg": "76",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/30996.png"
+  },
+  {
+    "player_id": 30999,
+    "firstname": "Samuel",
+    "lastname": "Mráz",
+    "birth_date": "1997-05-13",
+    "birth_place": "Malacky",
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "185",
+    "weight_kg": "83",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/30999.png"
   },
   {
     "player_id": 31003,
@@ -22321,6 +23712,19 @@
     "photo": "https://media.api-sports.io/football/players/31010.png"
   },
   {
+    "player_id": 31011,
+    "firstname": "Riccardo",
+    "lastname": "Gagliolo",
+    "birth_date": "1990-04-28",
+    "birth_place": "Imperia",
+    "birth_country": "Italy",
+    "nationality": "Sweden",
+    "height_cm": "180 cm",
+    "weight_kg": "75 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31011.png"
+  },
+  {
     "player_id": 31021,
     "firstname": "Alberto",
     "lastname": "Grassi",
@@ -22347,6 +23751,19 @@
     "photo": "https://media.api-sports.io/football/players/31024.png"
   },
   {
+    "player_id": 31026,
+    "firstname": "Matteo",
+    "lastname": "Scozzarella",
+    "birth_date": "1988-06-05",
+    "birth_place": "Trieste",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "170 cm",
+    "weight_kg": "65 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31026.png"
+  },
+  {
     "player_id": 31031,
     "firstname": "Roberto",
     "lastname": "Inglese",
@@ -22360,6 +23777,19 @@
     "photo": "https://media.api-sports.io/football/players/31031.png"
   },
   {
+    "player_id": 31035,
+    "firstname": "Bartłomiej",
+    "lastname": "Drągowski",
+    "birth_date": "1997-08-19",
+    "birth_place": "Białystok",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": "191",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31035.png"
+  },
+  {
     "player_id": 31037,
     "firstname": "Ivan",
     "lastname": "Provedel",
@@ -22371,6 +23801,19 @@
     "weight_kg": "82",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31037.png"
+  },
+  {
+    "player_id": 31038,
+    "firstname": "Gianluca",
+    "lastname": "Saro",
+    "birth_date": "2000-06-25",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31038.png"
   },
   {
     "player_id": 31040,
@@ -22399,6 +23842,32 @@
     "photo": "https://media.api-sports.io/football/players/31042.png"
   },
   {
+    "player_id": 31045,
+    "firstname": "Dimitrios",
+    "lastname": "Nikolaou",
+    "birth_date": "1998-08-13",
+    "birth_place": "Chalkida",
+    "birth_country": "Greece",
+    "nationality": "Greece",
+    "height_cm": "188",
+    "weight_kg": "82",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31045.png"
+  },
+  {
+    "player_id": 31047,
+    "firstname": "Jacob",
+    "lastname": "Vandsø Ryfeldt Rasmussen",
+    "birth_date": "1997-05-28",
+    "birth_place": "Odense",
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": "193",
+    "weight_kg": "81",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31047.png"
+  },
+  {
     "player_id": 31051,
     "firstname": "Luca",
     "lastname": "Belardinelli",
@@ -22410,6 +23879,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31051.png"
+  },
+  {
+    "player_id": 31053,
+    "firstname": "Leonardo",
+    "lastname": "Capezzi",
+    "birth_date": "1995-03-28",
+    "birth_place": "Sangiovanni",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31053.png"
   },
   {
     "player_id": 31054,
@@ -22477,6 +23959,19 @@
     "photo": "https://media.api-sports.io/football/players/31060.png"
   },
   {
+    "player_id": 31065,
+    "firstname": "Francesco",
+    "lastname": "Bardi",
+    "birth_date": "1992-01-18",
+    "birth_place": "Livorno",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31065.png"
+  },
+  {
     "player_id": 31067,
     "firstname": "Giuseppe",
     "lastname": "Marcianò",
@@ -22540,6 +24035,45 @@
     "weight_kg": "76",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31081.png"
+  },
+  {
+    "player_id": 31084,
+    "firstname": "Paolo",
+    "lastname": "Ghiglione",
+    "birth_date": "1997-02-02",
+    "birth_place": "Voghera",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31084.png"
+  },
+  {
+    "player_id": 31089,
+    "firstname": "Luca",
+    "lastname": "Valzania",
+    "birth_date": "1996-03-05",
+    "birth_place": "Cesena",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31089.png"
+  },
+  {
+    "player_id": 31092,
+    "firstname": "Daniel",
+    "lastname": "Ciofani",
+    "birth_date": "1985-07-31",
+    "birth_place": "Avezzano",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "191 cm",
+    "weight_kg": "82 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31092.png"
   },
   {
     "player_id": 31094,
@@ -22646,6 +24180,19 @@
     "photo": "https://media.api-sports.io/football/players/31156.png"
   },
   {
+    "player_id": 31170,
+    "firstname": "Michele",
+    "lastname": "Cavion",
+    "birth_date": "1994-12-08",
+    "birth_place": "Schio",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "183 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31170.png"
+  },
+  {
     "player_id": 31173,
     "firstname": "Davide",
     "lastname": "Frattesi",
@@ -22670,6 +24217,19 @@
     "weight_kg": "72",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31182.png"
+  },
+  {
+    "player_id": 31207,
+    "firstname": "Samuele",
+    "lastname": "Damiani",
+    "birth_date": "1998-01-30",
+    "birth_place": "Poggibonsi",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31207.png"
   },
   {
     "player_id": 31219,
@@ -22724,6 +24284,19 @@
     "photo": "https://media.api-sports.io/football/players/31237.png"
   },
   {
+    "player_id": 31258,
+    "firstname": "Petko",
+    "lastname": "Rosenov Hristov",
+    "birth_date": "1999-03-01",
+    "birth_place": "Sofia",
+    "birth_country": "Bulgaria",
+    "nationality": "Bulgaria",
+    "height_cm": "191",
+    "weight_kg": "85",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31258.png"
+  },
+  {
     "player_id": 31273,
     "firstname": "Tommaso",
     "lastname": "Pobega",
@@ -22776,6 +24349,19 @@
     "photo": "https://media.api-sports.io/football/players/31334.png"
   },
   {
+    "player_id": 31339,
+    "firstname": "Luca",
+    "lastname": "Palmiero",
+    "birth_date": "1996-05-01",
+    "birth_place": "Mugnano di Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "177",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31339.png"
+  },
+  {
     "player_id": 31344,
     "firstname": "Jaime",
     "lastname": "Báez Stábile",
@@ -22813,6 +24399,45 @@
     "weight_kg": "83",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31354.png"
+  },
+  {
+    "player_id": 31369,
+    "firstname": "Andrea",
+    "lastname": "Schiavone",
+    "birth_date": "1993-02-25",
+    "birth_place": "Torino",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31369.png"
+  },
+  {
+    "player_id": 31370,
+    "firstname": "Jacopo",
+    "lastname": "Segre",
+    "birth_date": "1997-02-17",
+    "birth_place": "Torino",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31370.png"
+  },
+  {
+    "player_id": 31376,
+    "firstname": "Francesco",
+    "lastname": "Di Mariano",
+    "birth_date": "1996-04-20",
+    "birth_place": "Palermo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "177",
+    "weight_kg": "68",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31376.png"
   },
   {
     "player_id": 31377,
@@ -22919,6 +24544,19 @@
     "photo": "https://media.api-sports.io/football/players/31402.png"
   },
   {
+    "player_id": 31403,
+    "firstname": "Valerio",
+    "lastname": "Verre",
+    "birth_date": "1994-01-11",
+    "birth_place": "Roma",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": "70 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31403.png"
+  },
+  {
     "player_id": 31406,
     "firstname": "Umar",
     "lastname": "Sadiq Mesbah",
@@ -22945,6 +24583,19 @@
     "photo": "https://media.api-sports.io/football/players/31407.png"
   },
   {
+    "player_id": 31415,
+    "firstname": "Pietro",
+    "lastname": "Ceccaroni",
+    "birth_date": "1995-12-21",
+    "birth_place": "Sarzana",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31415.png"
+  },
+  {
     "player_id": 31418,
     "firstname": "Matteo",
     "lastname": "Lovato",
@@ -22956,6 +24607,19 @@
     "weight_kg": "83",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31418.png"
+  },
+  {
+    "player_id": 31421,
+    "firstname": "Luca",
+    "lastname": "Ravanelli",
+    "birth_date": "1997-01-06",
+    "birth_place": "Trento",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "187",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31421.png"
   },
   {
     "player_id": 31436,
@@ -23034,6 +24698,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31477.png"
+  },
+  {
+    "player_id": 31483,
+    "firstname": "Andreaw Rayan Andy",
+    "lastname": "Gravillon",
+    "birth_date": "1998-02-08",
+    "birth_place": "Pointe-à-Pitre",
+    "birth_country": "Guadeloupe",
+    "nationality": "Guadeloupe",
+    "height_cm": "188 cm",
+    "weight_kg": "75 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31483.png"
   },
   {
     "player_id": 31493,
@@ -23166,6 +24843,19 @@
     "photo": "https://media.api-sports.io/football/players/31543.png"
   },
   {
+    "player_id": 31547,
+    "firstname": "Roberto",
+    "lastname": "Pirrello",
+    "birth_date": "1996-05-30",
+    "birth_place": "Alcamo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "191 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31547.png"
+  },
+  {
     "player_id": 31551,
     "firstname": "Przemysław Marek",
     "lastname": "Szymiński",
@@ -23257,6 +24947,19 @@
     "photo": "https://media.api-sports.io/football/players/31601.png"
   },
   {
+    "player_id": 31602,
+    "firstname": "Nicola",
+    "lastname": "Ravaglia",
+    "birth_date": "1988-12-12",
+    "birth_place": "Forlì",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31602.png"
+  },
+  {
     "player_id": 31613,
     "firstname": "Reda",
     "lastname": "Boultam",
@@ -23268,6 +24971,19 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31613.png"
+  },
+  {
+    "player_id": 31614,
+    "firstname": "Michele",
+    "lastname": "Castagnetti",
+    "birth_date": "1989-12-27",
+    "birth_place": "Montecchio Emilia",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180",
+    "weight_kg": "71",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31614.png"
   },
   {
     "player_id": 31615,
@@ -23296,6 +25012,19 @@
     "photo": "https://media.api-sports.io/football/players/31624.png"
   },
   {
+    "player_id": 31629,
+    "firstname": "Luca",
+    "lastname": "Strizzolo",
+    "birth_date": "1992-04-29",
+    "birth_place": "Udine",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188 cm",
+    "weight_kg": "83 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31629.png"
+  },
+  {
     "player_id": 31631,
     "firstname": "Nicola",
     "lastname": "Leali",
@@ -23322,6 +25051,32 @@
     "photo": "https://media.api-sports.io/football/players/31642.png"
   },
   {
+    "player_id": 31664,
+    "firstname": "Alessandro",
+    "lastname": "Micai",
+    "birth_date": "1993-07-24",
+    "birth_place": "Mantova",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186 cm",
+    "weight_kg": "77 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31664.png"
+  },
+  {
+    "player_id": 31667,
+    "firstname": "Djavan Lorenzo",
+    "lastname": "Anderson",
+    "birth_date": "1995-04-21",
+    "birth_place": "Amsterdam",
+    "birth_country": "Netherlands",
+    "nationality": "Suriname",
+    "height_cm": "174 cm",
+    "weight_kg": "70 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31667.png"
+  },
+  {
     "player_id": 31672,
     "firstname": "Valerio",
     "lastname": "Mantovani",
@@ -23346,6 +25101,19 @@
     "weight_kg": "70",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31678.png"
+  },
+  {
+    "player_id": 31680,
+    "firstname": "Francesco",
+    "lastname": "Di Tacchio",
+    "birth_date": "1990-04-20",
+    "birth_place": "Trani",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186 cm",
+    "weight_kg": "81 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31680.png"
   },
   {
     "player_id": 31685,
@@ -23413,6 +25181,19 @@
     "photo": "https://media.api-sports.io/football/players/31719.png"
   },
   {
+    "player_id": 31724,
+    "firstname": "Riccardo",
+    "lastname": "Fiamozzi",
+    "birth_date": "1993-05-18",
+    "birth_place": "Trento",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178 cm",
+    "weight_kg": "76 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31724.png"
+  },
+  {
     "player_id": 31730,
     "firstname": "Lorenzo",
     "lastname": "Venuti",
@@ -23452,6 +25233,19 @@
     "photo": "https://media.api-sports.io/football/players/31737.png"
   },
   {
+    "player_id": 31743,
+    "firstname": "Andrea",
+    "lastname": "La Mantia",
+    "birth_date": "1991-05-06",
+    "birth_place": "Marino",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190 cm",
+    "weight_kg": "81 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31743.png"
+  },
+  {
     "player_id": 31751,
     "firstname": "Giorgio",
     "lastname": "Altare",
@@ -23476,6 +25270,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/31775.png"
+  },
+  {
+    "player_id": 31853,
+    "firstname": "Manuel",
+    "lastname": "De Luca",
+    "birth_date": "1998-07-17",
+    "birth_place": "Bolzano",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "192",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/31853.png"
   },
   {
     "player_id": 31871,
@@ -23894,6 +25701,19 @@
     "photo": "https://media.api-sports.io/football/players/36980.png"
   },
   {
+    "player_id": 36987,
+    "firstname": "Sam Adrianus Martinus",
+    "lastname": "Lammers",
+    "birth_date": "1997-04-30",
+    "birth_place": "Tilburg",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "189",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/36987.png"
+  },
+  {
     "player_id": 37026,
     "firstname": "Andrija",
     "lastname": "Novaković",
@@ -24011,6 +25831,19 @@
     "photo": "https://media.api-sports.io/football/players/37145.png"
   },
   {
+    "player_id": 37157,
+    "firstname": "Tonny Emílio",
+    "lastname": "Trindade de Vilhena",
+    "birth_date": "1995-01-03",
+    "birth_place": "Maassluis",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "175",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/37157.png"
+  },
+  {
     "player_id": 37161,
     "firstname": "Luis Fernando",
     "lastname": "Sinisterra Lucumí",
@@ -24022,6 +25855,19 @@
     "weight_kg": "60",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/37161.png"
+  },
+  {
+    "player_id": 37186,
+    "firstname": "Cyriel",
+    "lastname": "Kolawole Dessers",
+    "birth_date": "1994-12-08",
+    "birth_place": "Leuven",
+    "birth_country": "Belgium",
+    "nationality": "Nigeria",
+    "height_cm": "185",
+    "weight_kg": "84",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/37186.png"
   },
   {
     "player_id": 37246,
@@ -24204,6 +26050,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/38114.png"
+  },
+  {
+    "player_id": 38120,
+    "firstname": "Deyovaisio Evan",
+    "lastname": "Zeefuik",
+    "birth_date": "1998-03-11",
+    "birth_place": "Amsterdam",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "178",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/38120.png"
   },
   {
     "player_id": 38123,
@@ -24414,6 +26273,19 @@
     "photo": "https://media.api-sports.io/football/players/39279.png"
   },
   {
+    "player_id": 39285,
+    "firstname": "Kristoffer",
+    "lastname": "Askildsen",
+    "birth_date": "2001-01-09",
+    "birth_place": null,
+    "birth_country": "Norway",
+    "nationality": "Norway",
+    "height_cm": "190",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/39285.png"
+  },
+  {
     "player_id": 39286,
     "firstname": "Emil",
     "lastname": "Bohinen",
@@ -24464,6 +26336,19 @@
     "weight_kg": "83",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/40165.png"
+  },
+  {
+    "player_id": 40231,
+    "firstname": "Przemysław",
+    "lastname": "Wiśniewski",
+    "birth_date": "1998-07-27",
+    "birth_place": "Zabrze",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": "195",
+    "weight_kg": "88",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/40231.png"
   },
   {
     "player_id": 40271,
@@ -24555,6 +26440,19 @@
     "weight_kg": "61 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/40434.png"
+  },
+  {
+    "player_id": 40446,
+    "firstname": "Lukáš",
+    "lastname": "Haraslín",
+    "birth_date": "1996-05-26",
+    "birth_place": "Bratislava",
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "182",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/40446.png"
   },
   {
     "player_id": 40529,
@@ -25036,6 +26934,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/43246.png"
+  },
+  {
+    "player_id": 44354,
+    "firstname": "Sebastian",
+    "lastname": "Giovinco",
+    "birth_date": "1987-01-26",
+    "birth_place": "Torino",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "163 cm",
+    "weight_kg": "61 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/44354.png"
   },
   {
     "player_id": 44594,
@@ -26910,6 +28821,19 @@
     "photo": "https://media.api-sports.io/football/players/47209.png"
   },
   {
+    "player_id": 47217,
+    "firstname": "Salvador",
+    "lastname": "Ferrer Canals",
+    "birth_date": "1998-01-21",
+    "birth_place": "Martorell",
+    "birth_country": "Spain",
+    "nationality": "Spain",
+    "height_cm": "184 cm",
+    "weight_kg": "73 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/47217.png"
+  },
+  {
     "player_id": 47229,
     "firstname": "Rafael",
     "lastname": "Jiménez Jarque",
@@ -28587,6 +30511,19 @@
     "photo": "https://media.api-sports.io/football/players/47499.png"
   },
   {
+    "player_id": 47500,
+    "firstname": "Daniele",
+    "lastname": "Verde",
+    "birth_date": "1996-06-20",
+    "birth_place": "Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "168",
+    "weight_kg": "64",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/47500.png"
+  },
+  {
     "player_id": 47505,
     "firstname": "Bernardo José",
     "lastname": "Espinosa Zúñiga",
@@ -29159,6 +31096,19 @@
     "photo": "https://media.api-sports.io/football/players/48119.png"
   },
   {
+    "player_id": 48129,
+    "firstname": "Aimar Hazar",
+    "lastname": "Sher",
+    "birth_date": "2002-12-20",
+    "birth_place": "Kirkuk",
+    "birth_country": "Iraq",
+    "nationality": "Sweden",
+    "height_cm": "175",
+    "weight_kg": "65",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/48129.png"
+  },
+  {
     "player_id": 48142,
     "firstname": "Karol",
     "lastname": "Mets",
@@ -29339,6 +31289,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/48481.png"
+  },
+  {
+    "player_id": 48555,
+    "firstname": "Charles",
+    "lastname": "Monginda Pickel",
+    "birth_date": "1997-05-15",
+    "birth_place": "Solothurn",
+    "birth_country": "Switzerland",
+    "nationality": "Switzerland",
+    "height_cm": "187",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/48555.png"
   },
   {
     "player_id": 48574,
@@ -29601,6 +31564,19 @@
     "photo": "https://media.api-sports.io/football/players/50892.png"
   },
   {
+    "player_id": 50922,
+    "firstname": "João Gervásio",
+    "lastname": "Bragança Moutinho",
+    "birth_date": "1998-01-12",
+    "birth_place": "Lisbon",
+    "birth_country": "Portugal",
+    "nationality": "Portugal",
+    "height_cm": "183",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/50922.png"
+  },
+  {
     "player_id": 50999,
     "firstname": "Matthew Charles",
     "lastname": "Turner",
@@ -29822,6 +31798,19 @@
     "photo": "https://media.api-sports.io/football/players/56161.png"
   },
   {
+    "player_id": 56163,
+    "firstname": "Davide",
+    "lastname": "Zappella",
+    "birth_date": "1998-04-29",
+    "birth_place": "Bergamo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56163.png"
+  },
+  {
     "player_id": 56193,
     "firstname": "Alessandro",
     "lastname": "Bellemo",
@@ -29846,6 +31835,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/56207.png"
+  },
+  {
+    "player_id": 56266,
+    "firstname": "Franco",
+    "lastname": "Israel Wibmer",
+    "birth_date": "2000-04-22",
+    "birth_place": "Nueva Helvecia",
+    "birth_country": "Uruguay",
+    "nationality": "Uruguay",
+    "height_cm": "190",
+    "weight_kg": "82",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56266.png"
   },
   {
     "player_id": 56282,
@@ -29913,6 +31915,19 @@
     "photo": "https://media.api-sports.io/football/players/56300.png"
   },
   {
+    "player_id": 56304,
+    "firstname": "Luca",
+    "lastname": "Zanimacchia",
+    "birth_date": "1998-07-19",
+    "birth_place": "Desio",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56304.png"
+  },
+  {
     "player_id": 56396,
     "firstname": "Junior Walter",
     "lastname": "Messias",
@@ -29965,6 +31980,19 @@
     "photo": "https://media.api-sports.io/football/players/56473.png"
   },
   {
+    "player_id": 56558,
+    "firstname": "Salvatore",
+    "lastname": "Esposito",
+    "birth_date": "2000-10-07",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56558.png"
+  },
+  {
     "player_id": 56560,
     "firstname": "Youssef",
     "lastname": "Maleh",
@@ -29989,6 +32017,45 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/56634.png"
+  },
+  {
+    "player_id": 56699,
+    "firstname": "Sedric",
+    "lastname": "Kalombo",
+    "birth_date": "1995-02-08",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178 cm",
+    "weight_kg": "75 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56699.png"
+  },
+  {
+    "player_id": 56753,
+    "firstname": "Mouhamadou Fallou",
+    "lastname": "Mbacke Sarr",
+    "birth_date": "1997-01-05",
+    "birth_place": "Kaolack",
+    "birth_country": "Senegal",
+    "nationality": "Senegal",
+    "height_cm": "190",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56753.png"
+  },
+  {
+    "player_id": 56780,
+    "firstname": "Jacopo",
+    "lastname": "Furlan",
+    "birth_date": "1993-02-22",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "189 cm",
+    "weight_kg": "79 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56780.png"
   },
   {
     "player_id": 56807,
@@ -30043,6 +32110,32 @@
     "photo": "https://media.api-sports.io/football/players/56990.png"
   },
   {
+    "player_id": 56996,
+    "firstname": "Filippo",
+    "lastname": "Delli Carri",
+    "birth_date": "1999-05-03",
+    "birth_place": "Torino",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "189",
+    "weight_kg": "77",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/56996.png"
+  },
+  {
+    "player_id": 57016,
+    "firstname": "Diomandè Yann Cedric",
+    "lastname": "Gondo",
+    "birth_date": "1996-11-25",
+    "birth_place": "Divo",
+    "birth_country": "Côte d'Ivoire",
+    "nationality": "Côte d'Ivoire",
+    "height_cm": "187",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/57016.png"
+  },
+  {
     "player_id": 57053,
     "firstname": "Michele",
     "lastname": "Cerofolini",
@@ -30054,6 +32147,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/57053.png"
+  },
+  {
+    "player_id": 57083,
+    "firstname": "Alessandro",
+    "lastname": "Santopadre",
+    "birth_date": "1998-10-04",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/57083.png"
   },
   {
     "player_id": 57446,
@@ -30134,6 +32240,19 @@
     "photo": "https://media.api-sports.io/football/players/61142.png"
   },
   {
+    "player_id": 61156,
+    "firstname": "David",
+    "lastname": "Strelec",
+    "birth_date": "2001-04-04",
+    "birth_place": "Nové Zámky",
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "185",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/61156.png"
+  },
+  {
     "player_id": 61178,
     "firstname": "Connor Patrick",
     "lastname": "Ronan",
@@ -30145,6 +32264,19 @@
     "weight_kg": "71",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/61178.png"
+  },
+  {
+    "player_id": 61224,
+    "firstname": "Luka",
+    "lastname": "Lochoshvili",
+    "birth_date": "1998-05-29",
+    "birth_place": "Tbilisi",
+    "birth_country": "Georgia",
+    "nationality": "Georgia",
+    "height_cm": "191",
+    "weight_kg": "84",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/61224.png"
   },
   {
     "player_id": 61411,
@@ -30771,6 +32903,19 @@
     "photo": "https://media.api-sports.io/football/players/72388.png"
   },
   {
+    "player_id": 72561,
+    "firstname": "Raimonds",
+    "lastname": "Krollis",
+    "birth_date": "2001-10-28",
+    "birth_place": null,
+    "birth_country": "Latvia",
+    "nationality": "Latvia",
+    "height_cm": "186",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/72561.png"
+  },
+  {
     "player_id": 75414,
     "firstname": "Nicolás Ezequiel",
     "lastname": "Fernández Mercau",
@@ -30979,6 +33124,19 @@
     "photo": "https://media.api-sports.io/football/players/84088.png"
   },
   {
+    "player_id": 85063,
+    "firstname": "William Ludovic",
+    "lastname": "Brandon Bianda",
+    "birth_date": "2000-04-30",
+    "birth_place": "Suresnes",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "187",
+    "weight_kg": "82",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/85063.png"
+  },
+  {
     "player_id": 87858,
     "firstname": "John George",
     "lastname": "McAtee",
@@ -31044,6 +33202,19 @@
     "photo": "https://media.api-sports.io/football/players/89253.png"
   },
   {
+    "player_id": 89489,
+    "firstname": "Andi",
+    "lastname": "Hoti",
+    "birth_date": "2003-03-02",
+    "birth_place": "Uster",
+    "birth_country": "Switzerland",
+    "nationality": "Kosovo",
+    "height_cm": "191",
+    "weight_kg": "83",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/89489.png"
+  },
+  {
     "player_id": 89520,
     "firstname": "Mikael Egill",
     "lastname": "Ellertsson",
@@ -31068,6 +33239,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/89723.png"
+  },
+  {
+    "player_id": 90439,
+    "firstname": "Mattia",
+    "lastname": "El Hilali",
+    "birth_date": "1998-01-20",
+    "birth_place": "Milano",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178 cm",
+    "weight_kg": "74 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/90439.png"
   },
   {
     "player_id": 90494,
@@ -31146,6 +33330,32 @@
     "weight_kg": "86",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/90977.png"
+  },
+  {
+    "player_id": 91300,
+    "firstname": "Gioacchino",
+    "lastname": "Galeotafiore",
+    "birth_date": "2000-02-15",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/91300.png"
+  },
+  {
+    "player_id": 91301,
+    "firstname": "Antonino",
+    "lastname": "Ragusa",
+    "birth_date": "1990-03-27",
+    "birth_place": "Messina",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "183 cm",
+    "weight_kg": "78 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/91301.png"
   },
   {
     "player_id": 91352,
@@ -31263,6 +33473,19 @@
     "weight_kg": "78 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/91502.png"
+  },
+  {
+    "player_id": 91503,
+    "firstname": "Simone",
+    "lastname": "Canestrelli",
+    "birth_date": "2000-09-11",
+    "birth_place": "Montepulciano",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "192",
+    "weight_kg": "85",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/91503.png"
   },
   {
     "player_id": 91745,
@@ -31796,6 +34019,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/112396.png"
+  },
+  {
+    "player_id": 113586,
+    "firstname": "Omobolaji Habeeb",
+    "lastname": "Adekanye",
+    "birth_date": "1999-02-14",
+    "birth_place": "Ibadan",
+    "birth_country": "Nigeria",
+    "nationality": "Netherlands",
+    "height_cm": "175 cm",
+    "weight_kg": "66 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/113586.png"
   },
   {
     "player_id": 115589,
@@ -32446,6 +34682,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/127011.png"
+  },
+  {
+    "player_id": 127025,
+    "firstname": "Giacomo",
+    "lastname": "Quagliata",
+    "birth_date": "2000-02-19",
+    "birth_place": "Palermo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "177 cm",
+    "weight_kg": "63 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/127025.png"
   },
   {
     "player_id": 127035,
@@ -33423,6 +35672,19 @@
     "photo": "https://media.api-sports.io/football/players/134431.png"
   },
   {
+    "player_id": 134432,
+    "firstname": "Edoardo",
+    "lastname": "Vergani",
+    "birth_date": "2001-02-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/134432.png"
+  },
+  {
     "player_id": 134434,
     "firstname": "Hubert Dawid",
     "lastname": "Idasiak",
@@ -33434,6 +35696,19 @@
     "weight_kg": "74 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/134434.png"
+  },
+  {
+    "player_id": 134923,
+    "firstname": "Antonio",
+    "lastname": "Mionić",
+    "birth_date": "2001-05-31",
+    "birth_place": "Pula",
+    "birth_country": "Croatia",
+    "nationality": "Croatia",
+    "height_cm": "175",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/134923.png"
   },
   {
     "player_id": 134926,
@@ -33538,6 +35813,19 @@
     "weight_kg": "71",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/135526.png"
+  },
+  {
+    "player_id": 135749,
+    "firstname": "Félix Alexandre",
+    "lastname": "Andrade Sanches Correia",
+    "birth_date": "2001-01-22",
+    "birth_place": "Lisboa",
+    "birth_country": "Portugal",
+    "nationality": "Portugal",
+    "height_cm": "178",
+    "weight_kg": "64",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/135749.png"
   },
   {
     "player_id": 135775,
@@ -33759,6 +36047,19 @@
     "weight_kg": "90 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/137398.png"
+  },
+  {
+    "player_id": 137419,
+    "firstname": "Nikola",
+    "lastname": "Iliyanov Iliev",
+    "birth_date": "2004-06-06",
+    "birth_place": "Ruse",
+    "birth_country": "Bulgaria",
+    "nationality": "Bulgaria",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/137419.png"
   },
   {
     "player_id": 137607,
@@ -34333,6 +36634,19 @@
     "photo": "https://media.api-sports.io/football/players/138908.png"
   },
   {
+    "player_id": 138915,
+    "firstname": "Rob",
+    "lastname": "Nizet",
+    "birth_date": "2002-04-14",
+    "birth_place": "Banjul",
+    "birth_country": "Belgium",
+    "nationality": "Belgium",
+    "height_cm": "177",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/138915.png"
+  },
+  {
     "player_id": 138929,
     "firstname": "Lewis",
     "lastname": "Brunt",
@@ -34539,6 +36853,19 @@
     "weight_kg": "75 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/144261.png"
+  },
+  {
+    "player_id": 144303,
+    "firstname": "Telasco José",
+    "lastname": "Segovia Pérez",
+    "birth_date": "2003-04-02",
+    "birth_place": "Barquisimeto",
+    "birth_country": "Venezuela",
+    "nationality": "Venezuela",
+    "height_cm": "180",
+    "weight_kg": "65",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/144303.png"
   },
   {
     "player_id": 144709,
@@ -34775,6 +37102,19 @@
     "photo": "https://media.api-sports.io/football/players/145479.png"
   },
   {
+    "player_id": 145953,
+    "firstname": "Emil",
+    "lastname": "Nestved Kornvig",
+    "birth_date": "2000-04-28",
+    "birth_place": null,
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/145953.png"
+  },
+  {
     "player_id": 146044,
     "firstname": "Agon",
     "lastname": "Elezi",
@@ -34864,6 +37204,19 @@
     "weight_kg": "74",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/147859.png"
+  },
+  {
+    "player_id": 148022,
+    "firstname": "Marco",
+    "lastname": "Raina",
+    "birth_date": "2002-05-25",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/148022.png"
   },
   {
     "player_id": 148099,
@@ -35698,6 +38051,19 @@
     "photo": "https://media.api-sports.io/football/players/157997.png"
   },
   {
+    "player_id": 157998,
+    "firstname": "Altin",
+    "lastname": "Kryeziu",
+    "birth_date": "2002-01-03",
+    "birth_place": null,
+    "birth_country": "Kosovo",
+    "nationality": "Kosovo",
+    "height_cm": "183",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/157998.png"
+  },
+  {
     "player_id": 158053,
     "firstname": "Ayman",
     "lastname": "Azhil",
@@ -36021,6 +38387,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/161852.png"
+  },
+  {
+    "player_id": 161857,
+    "firstname": "Tibo",
+    "lastname": "Persyn",
+    "birth_date": "2002-03-13",
+    "birth_place": "Kortrijk",
+    "birth_country": "Belgium",
+    "nationality": "Belgium",
+    "height_cm": "179",
+    "weight_kg": "70",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/161857.png"
   },
   {
     "player_id": 161859,
@@ -36790,6 +39169,19 @@
     "photo": "https://media.api-sports.io/football/players/162175.png"
   },
   {
+    "player_id": 162179,
+    "firstname": "Edoardo",
+    "lastname": "Sottini",
+    "birth_date": "2002-08-18",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/162179.png"
+  },
+  {
     "player_id": 162188,
     "firstname": "Pierre Kazeye Rommel",
     "lastname": "Kalulu Kyatengwa",
@@ -36814,6 +39206,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/162189.png"
+  },
+  {
+    "player_id": 162195,
+    "firstname": "Fabio",
+    "lastname": "Cortinovis",
+    "birth_date": "2002-04-20",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/162195.png"
   },
   {
     "player_id": 162210,
@@ -37388,6 +39793,19 @@
     "photo": "https://media.api-sports.io/football/players/162603.png"
   },
   {
+    "player_id": 162604,
+    "firstname": "Isaac",
+    "lastname": "Karamoko",
+    "birth_date": "2002-05-26",
+    "birth_place": null,
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/162604.png"
+  },
+  {
     "player_id": 162605,
     "firstname": "Javier",
     "lastname": "Domínguez Arribas",
@@ -37687,6 +40105,19 @@
     "photo": "https://media.api-sports.io/football/players/162964.png"
   },
   {
+    "player_id": 162990,
+    "firstname": "Leroy",
+    "lastname": "Abanda Mfomo",
+    "birth_date": "2000-06-07",
+    "birth_place": null,
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "180",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/162990.png"
+  },
+  {
     "player_id": 162992,
     "firstname": "Vicente",
     "lastname": "Esquerdo Santas",
@@ -37893,6 +40324,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/163245.png"
+  },
+  {
+    "player_id": 163338,
+    "firstname": "Suf",
+    "lastname": "Podgoreanu",
+    "birth_date": "2002-01-20",
+    "birth_place": "Hadera",
+    "birth_country": "Israel",
+    "nationality": "Israel",
+    "height_cm": "193 cm",
+    "weight_kg": "80 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/163338.png"
   },
   {
     "player_id": 163447,
@@ -38558,6 +41002,19 @@
     "photo": "https://media.api-sports.io/football/players/179651.png"
   },
   {
+    "player_id": 179839,
+    "firstname": "Denso",
+    "lastname": "Kasius",
+    "birth_date": "2002-10-06",
+    "birth_place": "Delft",
+    "birth_country": "Netherlands",
+    "nationality": "Netherlands",
+    "height_cm": "186",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/179839.png"
+  },
+  {
     "player_id": 179843,
     "firstname": "Lucas",
     "lastname": "Gourna-Douath",
@@ -38662,6 +41119,19 @@
     "photo": "https://media.api-sports.io/football/players/180317.png"
   },
   {
+    "player_id": 180455,
+    "firstname": "Matthew Jimmy David",
+    "lastname": "Garbett",
+    "birth_date": "2002-04-13",
+    "birth_place": "London",
+    "birth_country": "England",
+    "nationality": "New Zealand",
+    "height_cm": "182",
+    "weight_kg": "69",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/180455.png"
+  },
+  {
     "player_id": 180510,
     "firstname": "Mattia",
     "lastname": "Viti",
@@ -38712,6 +41182,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/180582.png"
+  },
+  {
+    "player_id": 180584,
+    "firstname": "Brian Safo",
+    "lastname": "Oddei",
+    "birth_date": "2002-09-18",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/180584.png"
   },
   {
     "player_id": 180586,
@@ -39128,6 +41611,19 @@
     "weight_kg": "84",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/182434.png"
+  },
+  {
+    "player_id": 182467,
+    "firstname": "Emanuele",
+    "lastname": "Zuelli",
+    "birth_date": "2001-11-22",
+    "birth_place": "Merano",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "179",
+    "weight_kg": "67",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/182467.png"
   },
   {
     "player_id": 182496,
@@ -41119,6 +43615,19 @@
     "photo": "https://media.api-sports.io/football/players/199578.png"
   },
   {
+    "player_id": 199707,
+    "firstname": "John",
+    "lastname": "Ryan",
+    "birth_date": "2004-01-21",
+    "birth_place": "Limerick",
+    "birth_country": "Republic of Ireland",
+    "nationality": "Republic of Ireland",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/199707.png"
+  },
+  {
     "player_id": 199824,
     "firstname": "Rubén",
     "lastname": "Sánchez Sáez",
@@ -41169,6 +43678,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/200233.png"
+  },
+  {
+    "player_id": 200811,
+    "firstname": "Luigi",
+    "lastname": "Samele",
+    "birth_date": "2002-04-09",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/200811.png"
   },
   {
     "player_id": 200999,
@@ -41860,6 +44382,19 @@
     "photo": "https://media.api-sports.io/football/players/206260.png"
   },
   {
+    "player_id": 206280,
+    "firstname": "Leandro Mário",
+    "lastname": "Baldé Sanca",
+    "birth_date": "2000-01-04",
+    "birth_place": "Lisboa",
+    "birth_country": "Portugal",
+    "nationality": "Guinea-Bissau",
+    "height_cm": "184",
+    "weight_kg": "74",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/206280.png"
+  },
+  {
     "player_id": 206404,
     "firstname": "Samy Olivier",
     "lastname": "Chouchane",
@@ -42198,6 +44733,19 @@
     "photo": "https://media.api-sports.io/football/players/237076.png"
   },
   {
+    "player_id": 237082,
+    "firstname": "Nicolò",
+    "lastname": "Cudrig",
+    "birth_date": "2002-08-07",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/237082.png"
+  },
+  {
     "player_id": 237103,
     "firstname": "Lázaro Vinícius",
     "lastname": "Marques",
@@ -42432,6 +44980,19 @@
     "photo": "https://media.api-sports.io/football/players/263812.png"
   },
   {
+    "player_id": 263910,
+    "firstname": "Arttu Mikael",
+    "lastname": "Lötjönen",
+    "birth_date": "2004-01-28",
+    "birth_place": null,
+    "birth_country": "Finland",
+    "nationality": "Finland",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/263910.png"
+  },
+  {
     "player_id": 264094,
     "firstname": "Benjamin",
     "lastname": "Tahirović",
@@ -42549,6 +45110,19 @@
     "photo": "https://media.api-sports.io/football/players/264479.png"
   },
   {
+    "player_id": 264513,
+    "firstname": "Martin",
+    "lastname": "Njøten Palumbo",
+    "birth_date": "2002-03-05",
+    "birth_place": null,
+    "birth_country": "Norway",
+    "nationality": "Norway",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/264513.png"
+  },
+  {
     "player_id": 264705,
     "firstname": "Ardon",
     "lastname": "Jashari",
@@ -42599,6 +45173,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/265386.png"
+  },
+  {
+    "player_id": 265422,
+    "firstname": "Leandro",
+    "lastname": "Pratelli",
+    "birth_date": "2002-12-11",
+    "birth_place": "San Miniato",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "195 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/265422.png"
   },
   {
     "player_id": 265508,
@@ -42796,6 +45383,19 @@
     "photo": "https://media.api-sports.io/football/players/268341.png"
   },
   {
+    "player_id": 268373,
+    "firstname": "Tio",
+    "lastname": "Cipot",
+    "birth_date": "2003-04-20",
+    "birth_place": "Murska Sobota",
+    "birth_country": "Slovenia",
+    "nationality": "Slovenia",
+    "height_cm": "184",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/268373.png"
+  },
+  {
     "player_id": 268571,
     "firstname": "El Chadaille",
     "lastname": "Bitshiabu",
@@ -42859,6 +45459,19 @@
     "weight_kg": "81",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/269240.png"
+  },
+  {
+    "player_id": 269370,
+    "firstname": "Dennis",
+    "lastname": "Stojković",
+    "birth_date": "2002-08-03",
+    "birth_place": null,
+    "birth_country": "Serbia",
+    "nationality": "Serbia",
+    "height_cm": "175 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/269370.png"
   },
   {
     "player_id": 269531,
@@ -42937,6 +45550,19 @@
     "weight_kg": "77",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/270510.png"
+  },
+  {
+    "player_id": 270514,
+    "firstname": "Christian",
+    "lastname": "Dimarco",
+    "birth_date": "2002-07-23",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/270514.png"
   },
   {
     "player_id": 270516,
@@ -43210,6 +45836,19 @@
     "weight_kg": "70 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/276995.png"
+  },
+  {
+    "player_id": 277173,
+    "firstname": "Luca",
+    "lastname": "Stanga",
+    "birth_date": "2002-01-23",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/277173.png"
   },
   {
     "player_id": 277175,
@@ -43615,6 +46254,19 @@
     "photo": "https://media.api-sports.io/football/players/278370.png"
   },
   {
+    "player_id": 278453,
+    "firstname": "Albian",
+    "lastname": "Hajdari",
+    "birth_date": "2003-05-18",
+    "birth_place": "Binningen",
+    "birth_country": "Switzerland",
+    "nationality": "Switzerland",
+    "height_cm": "189",
+    "weight_kg": "80",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/278453.png"
+  },
+  {
     "player_id": 278619,
     "firstname": "Luíz Lúcio",
     "lastname": "Reis Júnior",
@@ -43704,6 +46356,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/279760.png"
+  },
+  {
+    "player_id": 279765,
+    "firstname": "Marco",
+    "lastname": "Frigerio",
+    "birth_date": "2001-07-16",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "171 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/279765.png"
   },
   {
     "player_id": 279792,
@@ -44083,6 +46748,19 @@
     "photo": "https://media.api-sports.io/football/players/281096.png"
   },
   {
+    "player_id": 281218,
+    "firstname": "Diego",
+    "lastname": "Zuppel",
+    "birth_date": "2002-10-13",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "192 cm",
+    "weight_kg": "82 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/281218.png"
+  },
+  {
     "player_id": 281340,
     "firstname": "Herculano",
     "lastname": "Bucancil Nabian",
@@ -44146,6 +46824,32 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/281760.png"
+  },
+  {
+    "player_id": 281775,
+    "firstname": "Diego",
+    "lastname": "Stramaccioni",
+    "birth_date": "2001-01-02",
+    "birth_place": "Assisi",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/281775.png"
+  },
+  {
+    "player_id": 281780,
+    "firstname": "Matteo",
+    "lastname": "Angeli",
+    "birth_date": "2002-12-30",
+    "birth_place": "Cuneo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185 cm",
+    "weight_kg": "80 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/281780.png"
   },
   {
     "player_id": 281826,
@@ -44369,6 +47073,19 @@
     "photo": "https://media.api-sports.io/football/players/282903.png"
   },
   {
+    "player_id": 282914,
+    "firstname": "Elia",
+    "lastname": "Tantalocchi",
+    "birth_date": "2004-06-30",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/282914.png"
+  },
+  {
     "player_id": 283008,
     "firstname": "Antonio Pio",
     "lastname": "Iervolino",
@@ -44523,6 +47240,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/283753.png"
+  },
+  {
+    "player_id": 284042,
+    "firstname": "Filippo",
+    "lastname": "D'Andrea",
+    "birth_date": "1998-09-25",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "180 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/284042.png"
   },
   {
     "player_id": 284057,
@@ -46293,6 +49023,19 @@
     "photo": "https://media.api-sports.io/football/players/286458.png"
   },
   {
+    "player_id": 286472,
+    "firstname": "Samuele",
+    "lastname": "Vitale",
+    "birth_date": "2002-08-20",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/286472.png"
+  },
+  {
     "player_id": 286473,
     "firstname": "Franco Ezequiel",
     "lastname": "Carboni",
@@ -46642,6 +49385,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/287079.png"
+  },
+  {
+    "player_id": 287081,
+    "firstname": "Luigi",
+    "lastname": "Caccavo",
+    "birth_date": "2004-02-03",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/287081.png"
   },
   {
     "player_id": 287109,
@@ -47151,6 +49907,19 @@
     "photo": "https://media.api-sports.io/football/players/288800.png"
   },
   {
+    "player_id": 289292,
+    "firstname": "Tommaso Pantaleo",
+    "lastname": "Milanese",
+    "birth_date": "2002-07-31",
+    "birth_place": "Galatina",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "173 cm",
+    "weight_kg": "61 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/289292.png"
+  },
+  {
     "player_id": 289444,
     "firstname": "Lautaro Emanuel",
     "lastname": "Blanco",
@@ -47201,6 +49970,19 @@
     "weight_kg": "87",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/289513.png"
+  },
+  {
+    "player_id": 289515,
+    "firstname": "Botond",
+    "lastname": "Bartha",
+    "birth_date": "2003-02-13",
+    "birth_place": null,
+    "birth_country": "Hungary",
+    "nationality": "Hungary",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/289515.png"
   },
   {
     "player_id": 289536,
@@ -47320,6 +50102,19 @@
     "photo": "https://media.api-sports.io/football/players/290106.png"
   },
   {
+    "player_id": 290181,
+    "firstname": "Filippo",
+    "lastname": "Tripi",
+    "birth_date": "2002-01-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/290181.png"
+  },
+  {
     "player_id": 290213,
     "firstname": "Hugo Thierry",
     "lastname": "Siquet",
@@ -47385,6 +50180,19 @@
     "photo": "https://media.api-sports.io/football/players/290536.png"
   },
   {
+    "player_id": 290557,
+    "firstname": "Federico",
+    "lastname": "Caia",
+    "birth_date": "2003-04-21",
+    "birth_place": "Livorno",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/290557.png"
+  },
+  {
     "player_id": 290686,
     "firstname": "Rafael",
     "lastname": "Romero",
@@ -47396,6 +50204,19 @@
     "weight_kg": "75",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/290686.png"
+  },
+  {
+    "player_id": 290692,
+    "firstname": "Mattia",
+    "lastname": "Pagliuca",
+    "birth_date": "2002-04-25",
+    "birth_place": "Bologna",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/290692.png"
   },
   {
     "player_id": 290740,
@@ -47606,6 +50427,19 @@
     "photo": "https://media.api-sports.io/football/players/292219.png"
   },
   {
+    "player_id": 292343,
+    "firstname": "Valerio",
+    "lastname": "Biagini",
+    "birth_date": "2003-10-20",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/292343.png"
+  },
+  {
     "player_id": 292350,
     "firstname": "Will Jonathan",
     "lastname": "Swan",
@@ -47630,6 +50464,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/292385.png"
+  },
+  {
+    "player_id": 292519,
+    "firstname": "Gioele",
+    "lastname": "Zacchi",
+    "birth_date": "2003-07-10",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/292519.png"
   },
   {
     "player_id": 292822,
@@ -47840,6 +50687,19 @@
     "photo": "https://media.api-sports.io/football/players/295383.png"
   },
   {
+    "player_id": 295770,
+    "firstname": "Matteo",
+    "lastname": "Carnelos",
+    "birth_date": "2003-02-22",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/295770.png"
+  },
+  {
     "player_id": 295793,
     "firstname": "Marc",
     "lastname": "Pubill Pagès",
@@ -47970,6 +50830,19 @@
     "photo": "https://media.api-sports.io/football/players/297155.png"
   },
   {
+    "player_id": 297157,
+    "firstname": "Zsombor",
+    "lastname": "Senkó",
+    "birth_date": "2003-01-04",
+    "birth_place": null,
+    "birth_country": "Hungary",
+    "nationality": "Hungary",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/297157.png"
+  },
+  {
     "player_id": 297187,
     "firstname": "Leo",
     "lastname": "Fuhr Hjelde",
@@ -48020,6 +50893,19 @@
     "weight_kg": "80",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/297311.png"
+  },
+  {
+    "player_id": 297324,
+    "firstname": "Enrico Salvatore",
+    "lastname": "Di Gesù",
+    "birth_date": "2002-03-26",
+    "birth_place": "Santo Stefano Quisquina",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "179 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/297324.png"
   },
   {
     "player_id": 297579,
@@ -48345,6 +51231,19 @@
     "weight_kg": "67",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/301295.png"
+  },
+  {
+    "player_id": 301520,
+    "firstname": "Sabino",
+    "lastname": "Signorile",
+    "birth_date": "2002-02-23",
+    "birth_place": "Bari",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/301520.png"
   },
   {
     "player_id": 301714,
@@ -49842,6 +52741,19 @@
     "photo": "https://media.api-sports.io/football/players/313636.png"
   },
   {
+    "player_id": 313638,
+    "firstname": "Julius",
+    "lastname": "Eskelund Beck",
+    "birth_date": "2005-04-27",
+    "birth_place": "Haderslev",
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": "178",
+    "weight_kg": "61",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/313638.png"
+  },
+  {
     "player_id": 313651,
     "firstname": "Hugo",
     "lastname": "Sotelo Gómez",
@@ -49998,6 +52910,32 @@
     "photo": "https://media.api-sports.io/football/players/315237.png"
   },
   {
+    "player_id": 315249,
+    "firstname": "Nicolò",
+    "lastname": "Bertola",
+    "birth_date": "2003-03-23",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/315249.png"
+  },
+  {
+    "player_id": 315250,
+    "firstname": "Niccolò",
+    "lastname": "Pietra",
+    "birth_date": "2003-09-28",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "189 cm",
+    "weight_kg": "85 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/315250.png"
+  },
+  {
     "player_id": 315586,
     "firstname": "Lander",
     "lastname": "Pinillos Wilson",
@@ -50061,6 +52999,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/315767.png"
+  },
+  {
+    "player_id": 316045,
+    "firstname": "Lado",
+    "lastname": "Akhalaia",
+    "birth_date": "2002-07-01",
+    "birth_place": null,
+    "birth_country": "Romania",
+    "nationality": "Moldova",
+    "height_cm": "189",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/316045.png"
   },
   {
     "player_id": 316149,
@@ -50362,6 +53313,32 @@
     "photo": "https://media.api-sports.io/football/players/322630.png"
   },
   {
+    "player_id": 322632,
+    "firstname": "Alex",
+    "lastname": "Sposito",
+    "birth_date": "2001-06-06",
+    "birth_place": "Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "193 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/322632.png"
+  },
+  {
+    "player_id": 322859,
+    "firstname": "Sebastiano",
+    "lastname": "Desplanches",
+    "birth_date": "2003-03-11",
+    "birth_place": "Novara",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/322859.png"
+  },
+  {
     "player_id": 322957,
     "firstname": "Samuele",
     "lastname": "Spalluto",
@@ -50479,6 +53456,19 @@
     "photo": "https://media.api-sports.io/football/players/324034.png"
   },
   {
+    "player_id": 324322,
+    "firstname": "Joshua",
+    "lastname": "Tenkorang",
+    "birth_date": "2000-05-26",
+    "birth_place": "Novara",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "184 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/324322.png"
+  },
+  {
     "player_id": 324750,
     "firstname": "Carlos",
     "lastname": "Martín Domínguez",
@@ -50529,6 +53519,45 @@
     "weight_kg": "79 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/325140.png"
+  },
+  {
+    "player_id": 325142,
+    "firstname": "Valerio",
+    "lastname": "Boffelli",
+    "birth_date": "2004-09-04",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "182 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/325142.png"
+  },
+  {
+    "player_id": 325143,
+    "firstname": "Giovanni",
+    "lastname": "Robotti",
+    "birth_date": "2002-01-30",
+    "birth_place": "Varese",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/325143.png"
+  },
+  {
+    "player_id": 325385,
+    "firstname": "Antonis",
+    "lastname": "Siatounis",
+    "birth_date": "2002-08-26",
+    "birth_place": "Ilion",
+    "birth_country": "Greece",
+    "nationality": "Greece",
+    "height_cm": "186 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/325385.png"
   },
   {
     "player_id": 325388,
@@ -50724,6 +53753,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/327552.png"
+  },
+  {
+    "player_id": 327572,
+    "firstname": "Petar",
+    "lastname": "Zovko",
+    "birth_date": "2002-03-25",
+    "birth_place": null,
+    "birth_country": "Bosnia and Herzegovina",
+    "nationality": "Bosnia and Herzegovina",
+    "height_cm": "192",
+    "weight_kg": "85",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/327572.png"
   },
   {
     "player_id": 327602,
@@ -50971,6 +54013,32 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/327769.png"
+  },
+  {
+    "player_id": 327771,
+    "firstname": "Dorian Jerzy",
+    "lastname": "Ciężkowski",
+    "birth_date": "2001-03-22",
+    "birth_place": "Kraków",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": "191 cm",
+    "weight_kg": "80 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/327771.png"
+  },
+  {
+    "player_id": 327773,
+    "firstname": "Davide",
+    "lastname": "Peschieri",
+    "birth_date": "2004-03-18",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/327773.png"
   },
   {
     "player_id": 327774,
@@ -51467,6 +54535,19 @@
     "photo": "https://media.api-sports.io/football/players/328617.png"
   },
   {
+    "player_id": 328711,
+    "firstname": "Leonardo",
+    "lastname": "Dos Reis Muñiz",
+    "birth_date": "2003-01-23",
+    "birth_place": "Barcelona",
+    "birth_country": "Spain",
+    "nationality": "Spain",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/328711.png"
+  },
+  {
     "player_id": 328808,
     "firstname": "Malcolm",
     "lastname": "Perewari Ebiowei",
@@ -51582,6 +54663,32 @@
     "weight_kg": "63",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/329369.png"
+  },
+  {
+    "player_id": 329401,
+    "firstname": "Gerard",
+    "lastname": "Yepes Laut",
+    "birth_date": "2002-08-25",
+    "birth_place": "Barcelona",
+    "birth_country": "Spain",
+    "nationality": "Spain",
+    "height_cm": "170",
+    "weight_kg": "66",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/329401.png"
+  },
+  {
+    "player_id": 329406,
+    "firstname": "Simone",
+    "lastname": "Ianesi",
+    "birth_date": "2002-02-13",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/329406.png"
   },
   {
     "player_id": 329472,
@@ -51725,6 +54832,19 @@
     "weight_kg": "71",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/330238.png"
+  },
+  {
+    "player_id": 330357,
+    "firstname": "Jacopo",
+    "lastname": "Fedrizzi",
+    "birth_date": "2003-03-18",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/330357.png"
   },
   {
     "player_id": 330361,
@@ -51896,6 +55016,19 @@
     "photo": "https://media.api-sports.io/football/players/330636.png"
   },
   {
+    "player_id": 330720,
+    "firstname": "Alberto",
+    "lastname": "Dima",
+    "birth_date": "2004-01-22",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/330720.png"
+  },
+  {
     "player_id": 330982,
     "firstname": "Jimmy Jay",
     "lastname": "Morgan",
@@ -51959,6 +55092,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/331009.png"
+  },
+  {
+    "player_id": 331040,
+    "firstname": "Christian",
+    "lastname": "Acella",
+    "birth_date": "2002-07-07",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/331040.png"
   },
   {
     "player_id": 331046,
@@ -52546,6 +55692,19 @@
     "photo": "https://media.api-sports.io/football/players/335057.png"
   },
   {
+    "player_id": 335060,
+    "firstname": "Kévin",
+    "lastname": "Mercier",
+    "birth_date": "2004-02-28",
+    "birth_place": null,
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/335060.png"
+  },
+  {
     "player_id": 335064,
     "firstname": "Nathan",
     "lastname": "Buayi-Kiala",
@@ -52624,6 +55783,19 @@
     "photo": "https://media.api-sports.io/football/players/335102.png"
   },
   {
+    "player_id": 335115,
+    "firstname": "Alessandro",
+    "lastname": "Citi",
+    "birth_date": "2003-01-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/335115.png"
+  },
+  {
     "player_id": 335116,
     "firstname": "Kristian",
     "lastname": "Šekularac",
@@ -52648,6 +55820,19 @@
     "weight_kg": "68",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/335117.png"
+  },
+  {
+    "player_id": 335213,
+    "firstname": "Matteo",
+    "lastname": "Martini",
+    "birth_date": "2002-05-14",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/335213.png"
   },
   {
     "player_id": 335230,
@@ -52858,6 +56043,19 @@
     "photo": "https://media.api-sports.io/football/players/336560.png"
   },
   {
+    "player_id": 336562,
+    "firstname": "Daouda",
+    "lastname": "Weidmann",
+    "birth_date": "2003-05-04",
+    "birth_place": "Paris",
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "180",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/336562.png"
+  },
+  {
     "player_id": 336564,
     "firstname": "Wilson Serge Eric",
     "lastname": "Odobert",
@@ -53012,6 +56210,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/336610.png"
+  },
+  {
+    "player_id": 336629,
+    "firstname": "Mattia Ronald",
+    "lastname": "Sangalli",
+    "birth_date": "2002-02-27",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/336629.png"
   },
   {
     "player_id": 336632,
@@ -53183,6 +56394,32 @@
     "photo": "https://media.api-sports.io/football/players/336688.png"
   },
   {
+    "player_id": 336689,
+    "firstname": "Youns Gabriele",
+    "lastname": "El Hilali",
+    "birth_date": "2003-06-08",
+    "birth_place": "Milan",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/336689.png"
+  },
+  {
+    "player_id": 336703,
+    "firstname": "William",
+    "lastname": "Rovida",
+    "birth_date": "2003-03-14",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/336703.png"
+  },
+  {
     "player_id": 336704,
     "firstname": "Alessandro",
     "lastname": "Fontanarosa",
@@ -53220,6 +56457,19 @@
     "weight_kg": "80 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/336707.png"
+  },
+  {
+    "player_id": 336708,
+    "firstname": "Andrea",
+    "lastname": "Pelamatti",
+    "birth_date": "2004-10-09",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Russia",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/336708.png"
   },
   {
     "player_id": 336711,
@@ -54028,6 +57278,19 @@
     "photo": "https://media.api-sports.io/football/players/340919.png"
   },
   {
+    "player_id": 340975,
+    "firstname": "Dennis",
+    "lastname": "Deloriè",
+    "birth_date": "2004-11-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/340975.png"
+  },
+  {
     "player_id": 341250,
     "firstname": "Benjamin Bediako",
     "lastname": "Boakye",
@@ -54132,6 +57395,32 @@
     "photo": "https://media.api-sports.io/football/players/341700.png"
   },
   {
+    "player_id": 341821,
+    "firstname": "Jordan",
+    "lastname": "Boli",
+    "birth_date": "2002-06-06",
+    "birth_place": null,
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341821.png"
+  },
+  {
+    "player_id": 341822,
+    "firstname": "Silas Sinan Erhen Thorup",
+    "lastname": "Andersen",
+    "birth_date": "2004-06-13",
+    "birth_place": null,
+    "birth_country": "Denmark",
+    "nationality": "Denmark",
+    "height_cm": "190",
+    "weight_kg": "76",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341822.png"
+  },
+  {
     "player_id": 341823,
     "firstname": "Alessandro",
     "lastname": "Silvestro",
@@ -54143,6 +57432,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/341823.png"
+  },
+  {
+    "player_id": 341832,
+    "firstname": "Daniele",
+    "lastname": "Montevago",
+    "birth_date": "2003-03-18",
+    "birth_place": "Palermo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "176 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341832.png"
   },
   {
     "player_id": 341833,
@@ -54182,6 +57484,19 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/341839.png"
+  },
+  {
+    "player_id": 341840,
+    "firstname": "Flavio",
+    "lastname": "Paoletti",
+    "birth_date": "2003-01-16",
+    "birth_place": "San Benedetto",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "182",
+    "weight_kg": "72",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341840.png"
   },
   {
     "player_id": 341910,
@@ -54249,6 +57564,32 @@
     "photo": "https://media.api-sports.io/football/players/341917.png"
   },
   {
+    "player_id": 341918,
+    "firstname": "Emin",
+    "lastname": "Hasić",
+    "birth_date": "2003-02-08",
+    "birth_place": null,
+    "birth_country": "Sweden",
+    "nationality": "Sweden",
+    "height_cm": "191",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341918.png"
+  },
+  {
+    "player_id": 341924,
+    "firstname": "Benedetto",
+    "lastname": "Barba",
+    "birth_date": "2003-01-27",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341924.png"
+  },
+  {
     "player_id": 341974,
     "firstname": "Tommaso",
     "lastname": "Corazza",
@@ -54299,6 +57640,32 @@
     "weight_kg": "58",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/341987.png"
+  },
+  {
+    "player_id": 341989,
+    "firstname": "Cristian",
+    "lastname": "Aucelli",
+    "birth_date": "2002-06-14",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341989.png"
+  },
+  {
+    "player_id": 341991,
+    "firstname": "Asan",
+    "lastname": "Mata",
+    "birth_date": "2003-08-18",
+    "birth_place": null,
+    "birth_country": "Albania",
+    "nationality": "Albania",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/341991.png"
   },
   {
     "player_id": 341994,
@@ -54377,6 +57744,19 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342005.png"
+  },
+  {
+    "player_id": 342011,
+    "firstname": "Michele",
+    "lastname": "Besaggio",
+    "birth_date": "2002-04-28",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "181",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342011.png"
   },
   {
     "player_id": 342013,
@@ -54509,6 +57889,19 @@
     "photo": "https://media.api-sports.io/football/players/342037.png"
   },
   {
+    "player_id": 342038,
+    "firstname": "Felix Ohene",
+    "lastname": "Afena-Gyan",
+    "birth_date": "2003-01-19",
+    "birth_place": null,
+    "birth_country": "Ghana",
+    "nationality": "Ghana",
+    "height_cm": "175",
+    "weight_kg": "62",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342038.png"
+  },
+  {
     "player_id": 342042,
     "firstname": "Luigi",
     "lastname": "Cherubini",
@@ -54533,6 +57926,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342043.png"
+  },
+  {
+    "player_id": 342044,
+    "firstname": "Mattia",
+    "lastname": "Motolese",
+    "birth_date": "2004-04-13",
+    "birth_place": "Taranto",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "188 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342044.png"
   },
   {
     "player_id": 342050,
@@ -54613,6 +58019,32 @@
     "photo": "https://media.api-sports.io/football/players/342059.png"
   },
   {
+    "player_id": 342060,
+    "firstname": "Alberto",
+    "lastname": "Milan",
+    "birth_date": "2003-04-04",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342060.png"
+  },
+  {
+    "player_id": 342061,
+    "firstname": "Andrei",
+    "lastname": "Anton",
+    "birth_date": "2003-08-23",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342061.png"
+  },
+  {
     "player_id": 342063,
     "firstname": "Diego",
     "lastname": "Coppola",
@@ -54624,6 +58056,32 @@
     "weight_kg": "78",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342063.png"
+  },
+  {
+    "player_id": 342064,
+    "firstname": "Mattia",
+    "lastname": "Florio",
+    "birth_date": "2003-09-05",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342064.png"
+  },
+  {
+    "player_id": 342065,
+    "firstname": "Davide",
+    "lastname": "Bragantini",
+    "birth_date": "2003-08-17",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "172",
+    "weight_kg": "67",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342065.png"
   },
   {
     "player_id": 342067,
@@ -54650,6 +58108,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342071.png"
+  },
+  {
+    "player_id": 342072,
+    "firstname": "Maissa Codou",
+    "lastname": "Ndiaye",
+    "birth_date": "2002-01-28",
+    "birth_place": null,
+    "birth_country": "Senegal",
+    "nationality": "Senegal",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342072.png"
   },
   {
     "player_id": 342074,
@@ -54728,6 +58199,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342191.png"
+  },
+  {
+    "player_id": 342222,
+    "firstname": "Mate",
+    "lastname": "Ivković",
+    "birth_date": "2006-01-04",
+    "birth_place": "Split",
+    "birth_country": "Croatia",
+    "nationality": "Croatia",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342222.png"
   },
   {
     "player_id": 342230,
@@ -54910,6 +58394,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/342981.png"
+  },
+  {
+    "player_id": 342990,
+    "firstname": "Gian Marco",
+    "lastname": "Fantoni",
+    "birth_date": "2004-01-24",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/342990.png"
   },
   {
     "player_id": 342995,
@@ -55146,6 +58643,19 @@
     "photo": "https://media.api-sports.io/football/players/343538.png"
   },
   {
+    "player_id": 343540,
+    "firstname": "Kevin",
+    "lastname": "Bruno",
+    "birth_date": "2005-04-26",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/343540.png"
+  },
+  {
     "player_id": 343562,
     "firstname": "Luca",
     "lastname": "Lipani",
@@ -55302,6 +58812,19 @@
     "photo": "https://media.api-sports.io/football/players/344335.png"
   },
   {
+    "player_id": 344336,
+    "firstname": "Davide",
+    "lastname": "Franzini",
+    "birth_date": "2005-02-08",
+    "birth_place": "Thiene",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/344336.png"
+  },
+  {
     "player_id": 344707,
     "firstname": "Callum",
     "lastname": "Marshall",
@@ -55391,6 +58914,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/345467.png"
+  },
+  {
+    "player_id": 345474,
+    "firstname": "Lorenzo",
+    "lastname": "Malagrida",
+    "birth_date": "2003-10-24",
+    "birth_place": "Pietra Ligure",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "174 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/345474.png"
   },
   {
     "player_id": 345475,
@@ -55560,6 +59096,19 @@
     "weight_kg": "74",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/347316.png"
+  },
+  {
+    "player_id": 347390,
+    "firstname": "Giacomo",
+    "lastname": "Moretti",
+    "birth_date": "2003-01-07",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/347390.png"
   },
   {
     "player_id": 347395,
@@ -55742,6 +59291,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/348468.png"
+  },
+  {
+    "player_id": 348532,
+    "firstname": "Costantino",
+    "lastname": "Favasuli",
+    "birth_date": "2004-04-26",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/348532.png"
   },
   {
     "player_id": 348533,
@@ -55952,6 +59514,32 @@
     "photo": "https://media.api-sports.io/football/players/349397.png"
   },
   {
+    "player_id": 349459,
+    "firstname": "Lorenzo",
+    "lastname": "Cannavale",
+    "birth_date": "2002-01-29",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/349459.png"
+  },
+  {
+    "player_id": 349460,
+    "firstname": "Alessandro",
+    "lastname": "Russo",
+    "birth_date": "2003-09-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/349460.png"
+  },
+  {
     "player_id": 349503,
     "firstname": "Denis",
     "lastname": "Cazzadori",
@@ -56069,6 +59657,58 @@
     "photo": "https://media.api-sports.io/football/players/350590.png"
   },
   {
+    "player_id": 350609,
+    "firstname": "Lorenzo",
+    "lastname": "Codutti",
+    "birth_date": "2003-06-27",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "183 cm",
+    "weight_kg": "72 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/350609.png"
+  },
+  {
+    "player_id": 350610,
+    "firstname": "Nicolò",
+    "lastname": "Cocetta",
+    "birth_date": "2003-12-19",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/350610.png"
+  },
+  {
+    "player_id": 350611,
+    "firstname": "Riccardo",
+    "lastname": "Castagnaviz",
+    "birth_date": "2003-01-29",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/350611.png"
+  },
+  {
+    "player_id": 350612,
+    "firstname": "Mattia",
+    "lastname": "Damiani",
+    "birth_date": "2003-02-25",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/350612.png"
+  },
+  {
     "player_id": 350625,
     "firstname": "Jayden",
     "lastname": "Meghoma",
@@ -56160,6 +59800,32 @@
     "photo": "https://media.api-sports.io/football/players/351235.png"
   },
   {
+    "player_id": 351268,
+    "firstname": "Tommaso",
+    "lastname": "De Lorenzo",
+    "birth_date": "2004-01-12",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/351268.png"
+  },
+  {
+    "player_id": 351269,
+    "firstname": "Riccardo",
+    "lastname": "Pinzi",
+    "birth_date": "2003-08-17",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/351269.png"
+  },
+  {
     "player_id": 351324,
     "firstname": "Eldin",
     "lastname": "Lolic",
@@ -56223,6 +59889,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/352210.png"
+  },
+  {
+    "player_id": 352228,
+    "firstname": "Angelo",
+    "lastname": "Guida",
+    "birth_date": "2002-08-24",
+    "birth_place": "Caserta",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/352228.png"
   },
   {
     "player_id": 352375,
@@ -56327,6 +60006,19 @@
     "weight_kg": "79 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/353417.png"
+  },
+  {
+    "player_id": 353419,
+    "firstname": "Lorenzo",
+    "lastname": "Villa",
+    "birth_date": "2003-07-26",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/353419.png"
   },
   {
     "player_id": 353444,
@@ -56446,6 +60138,19 @@
     "photo": "https://media.api-sports.io/football/players/354142.png"
   },
   {
+    "player_id": 354531,
+    "firstname": "Claudio",
+    "lastname": "Cassano",
+    "birth_date": "2003-07-22",
+    "birth_place": "Trani",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "172 cm",
+    "weight_kg": "59 kg",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/354531.png"
+  },
+  {
     "player_id": 354550,
     "firstname": "Bruno",
     "lastname": "Iribarne Alemán",
@@ -56524,6 +60229,19 @@
     "photo": "https://media.api-sports.io/football/players/355023.png"
   },
   {
+    "player_id": 355088,
+    "firstname": "Raed",
+    "lastname": "Jaziri",
+    "birth_date": "2003-04-13",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/355088.png"
+  },
+  {
     "player_id": 355327,
     "firstname": "José Luis",
     "lastname": "Català Vázquez",
@@ -56561,6 +60279,19 @@
     "weight_kg": "73",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/356041.png"
+  },
+  {
+    "player_id": 356061,
+    "firstname": "Jan",
+    "lastname": "Żuberek",
+    "birth_date": "2004-03-13",
+    "birth_place": "Białystok",
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/356061.png"
   },
   {
     "player_id": 356237,
@@ -56992,6 +60723,19 @@
     "photo": "https://media.api-sports.io/football/players/361399.png"
   },
   {
+    "player_id": 361478,
+    "firstname": "Jakub",
+    "lastname": "Vinarčík",
+    "birth_date": "2005-07-11",
+    "birth_place": null,
+    "birth_country": "Slovakia",
+    "nationality": "Slovakia",
+    "height_cm": "202",
+    "weight_kg": "75",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/361478.png"
+  },
+  {
     "player_id": 361497,
     "firstname": "Dean Donny",
     "lastname": "Huijsen",
@@ -57120,6 +60864,19 @@
     "weight_kg": "74",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/362619.png"
+  },
+  {
+    "player_id": 362756,
+    "firstname": "Elia",
+    "lastname": "Boseggia",
+    "birth_date": "2004-02-06",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/362756.png"
   },
   {
     "player_id": 362884,
@@ -57276,6 +61033,19 @@
     "weight_kg": "\n    ",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/364416.png"
+  },
+  {
+    "player_id": 364512,
+    "firstname": "Federico",
+    "lastname": "Agazzi",
+    "birth_date": "2004-04-18",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/364512.png"
   },
   {
     "player_id": 364600,
@@ -57616,6 +61386,19 @@
     "photo": "https://media.api-sports.io/football/players/368260.png"
   },
   {
+    "player_id": 368659,
+    "firstname": "Mihailo",
+    "lastname": "Ivanović",
+    "birth_date": "2004-11-29",
+    "birth_place": "Novi Sad",
+    "birth_country": "Serbia",
+    "nationality": "Serbia",
+    "height_cm": "191",
+    "weight_kg": "79",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/368659.png"
+  },
+  {
     "player_id": 369481,
     "firstname": "Luis Eduardo",
     "lastname": "Quintero Hernández",
@@ -57954,6 +61737,19 @@
     "photo": "https://media.api-sports.io/football/players/378284.png"
   },
   {
+    "player_id": 378847,
+    "firstname": "Leonardo",
+    "lastname": "Dido",
+    "birth_date": "2004-01-05",
+    "birth_place": "La Spezia",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/378847.png"
+  },
+  {
     "player_id": 378868,
     "firstname": "Callum",
     "lastname": "McFarlane",
@@ -58095,6 +61891,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/380234.png"
+  },
+  {
+    "player_id": 380428,
+    "firstname": "Andrea",
+    "lastname": "Sorrentino",
+    "birth_date": "2004-10-21",
+    "birth_place": "Napoli",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/380428.png"
   },
   {
     "player_id": 380492,
@@ -58812,6 +62621,19 @@
     "photo": "https://media.api-sports.io/football/players/383020.png"
   },
   {
+    "player_id": 383021,
+    "firstname": "Samuel",
+    "lastname": "Ntanda-Lukisa",
+    "birth_date": "2005-06-30",
+    "birth_place": null,
+    "birth_country": "Belgium",
+    "nationality": "Belgium",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/383021.png"
+  },
+  {
     "player_id": 383036,
     "firstname": "Nicolo",
     "lastname": "Calabrese",
@@ -58825,6 +62647,19 @@
     "photo": "https://media.api-sports.io/football/players/383036.png"
   },
   {
+    "player_id": 383254,
+    "firstname": "Diego",
+    "lastname": "Russo",
+    "birth_date": "2005-04-20",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/383254.png"
+  },
+  {
     "player_id": 383257,
     "firstname": "David",
     "lastname": "Pejičić",
@@ -58836,6 +62671,19 @@
     "weight_kg": "66",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/383257.png"
+  },
+  {
+    "player_id": 383265,
+    "firstname": "Matteo",
+    "lastname": "Bassi",
+    "birth_date": "2004-01-08",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/383265.png"
   },
   {
     "player_id": 383267,
@@ -59018,6 +62866,32 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/384423.png"
+  },
+  {
+    "player_id": 384495,
+    "firstname": "Alberto",
+    "lastname": "Centis",
+    "birth_date": "2004-02-13",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/384495.png"
+  },
+  {
+    "player_id": 384496,
+    "firstname": "Adrian",
+    "lastname": "Cannavaro",
+    "birth_date": "2004-05-10",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/384496.png"
   },
   {
     "player_id": 384585,
@@ -59434,6 +63308,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/386867.png"
+  },
+  {
+    "player_id": 386868,
+    "firstname": "Nicolò",
+    "lastname": "Biral",
+    "birth_date": "2004-01-01",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/386868.png"
   },
   {
     "player_id": 386869,
@@ -60177,6 +64064,19 @@
     "photo": "https://media.api-sports.io/football/players/393195.png"
   },
   {
+    "player_id": 393200,
+    "firstname": "Stefano",
+    "lastname": "Di Pentima",
+    "birth_date": "2004-09-21",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "181 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/393200.png"
+  },
+  {
     "player_id": 393311,
     "firstname": "Reginald",
     "lastname": "Rose",
@@ -60188,6 +64088,19 @@
     "weight_kg": null,
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/393311.png"
+  },
+  {
+    "player_id": 393946,
+    "firstname": "Bartłomiej",
+    "lastname": "Maliszewski",
+    "birth_date": "2004-02-12",
+    "birth_place": null,
+    "birth_country": "Poland",
+    "nationality": "Poland",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/393946.png"
   },
   {
     "player_id": 393947,
@@ -60240,6 +64153,19 @@
     "weight_kg": "73",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/394183.png"
+  },
+  {
+    "player_id": 394436,
+    "firstname": "Sheriff",
+    "lastname": "Kassama",
+    "birth_date": "2004-09-16",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "186",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/394436.png"
   },
   {
     "player_id": 394437,
@@ -61204,6 +65130,19 @@
     "photo": "https://media.api-sports.io/football/players/403633.png"
   },
   {
+    "player_id": 403634,
+    "firstname": "Brian",
+    "lastname": "Silva",
+    "birth_date": "2003-06-02",
+    "birth_place": null,
+    "birth_country": "France",
+    "nationality": "France",
+    "height_cm": "189 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/403634.png"
+  },
+  {
     "player_id": 403635,
     "firstname": "Michele",
     "lastname": "Casali",
@@ -61425,6 +65364,32 @@
     "photo": "https://media.api-sports.io/football/players/405681.png"
   },
   {
+    "player_id": 405695,
+    "firstname": "Paolo",
+    "lastname": "Gardoni",
+    "birth_date": "2004-10-07",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/405695.png"
+  },
+  {
+    "player_id": 405696,
+    "firstname": "Luca",
+    "lastname": "Borghesan",
+    "birth_date": "2004-01-05",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/405696.png"
+  },
+  {
     "player_id": 405719,
     "firstname": "Nzubechi Sixtus",
     "lastname": "Ogbuehi",
@@ -61477,6 +65442,32 @@
     "photo": "https://media.api-sports.io/football/players/406046.png"
   },
   {
+    "player_id": 406049,
+    "firstname": "Simone",
+    "lastname": "Giorgeschi",
+    "birth_date": "2004-06-28",
+    "birth_place": "Genoa",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "190",
+    "weight_kg": "78",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/406049.png"
+  },
+  {
+    "player_id": 406050,
+    "firstname": "Leonardo",
+    "lastname": "Pedicillo",
+    "birth_date": "2003-01-20",
+    "birth_place": "Catanzaro",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/406050.png"
+  },
+  {
     "player_id": 406098,
     "firstname": "William Stephen",
     "lastname": "Murdock",
@@ -61501,6 +65492,19 @@
     "weight_kg": "68 kg",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/406123.png"
+  },
+  {
+    "player_id": 406160,
+    "firstname": "Pietro",
+    "lastname": "Candelari",
+    "birth_date": "2005-01-21",
+    "birth_place": "Ancona",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "178",
+    "weight_kg": "73",
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/406160.png"
   },
   {
     "player_id": 406244,
@@ -62179,6 +66183,32 @@
     "photo": "https://media.api-sports.io/football/players/413662.png"
   },
   {
+    "player_id": 414147,
+    "firstname": "Alberto",
+    "lastname": "Basso Ricci",
+    "birth_date": "2004-06-29",
+    "birth_place": null,
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/414147.png"
+  },
+  {
+    "player_id": 414152,
+    "firstname": "Manuel",
+    "lastname": "Ravasio",
+    "birth_date": "2005-07-07",
+    "birth_place": "Bergamo",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": "185 cm",
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/414152.png"
+  },
+  {
     "player_id": 414359,
     "firstname": "Vitor",
     "lastname": "de Oliveira Nunes dos Reis",
@@ -62268,6 +66298,19 @@
     "weight_kg": "95",
     "injured": false,
     "photo": "https://media.api-sports.io/football/players/415723.png"
+  },
+  {
+    "player_id": 416232,
+    "firstname": "Federico",
+    "lastname": "Zorzi",
+    "birth_date": "2004-03-06",
+    "birth_place": "Genova",
+    "birth_country": "Italy",
+    "nationality": "Italy",
+    "height_cm": null,
+    "weight_kg": null,
+    "injured": false,
+    "photo": "https://media.api-sports.io/football/players/416232.png"
   },
   {
     "player_id": 416268,

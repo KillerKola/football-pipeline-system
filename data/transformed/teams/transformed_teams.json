@@ -450,6 +450,15 @@
     "venue_city": "Roma"
   },
   {
+    "team_id": 498,
+    "team_name": "Sampdoria",
+    "country": "Italy",
+    "founded": 1946,
+    "logo": "https://media.api-sports.io/football/teams/498.png",
+    "venue": "Stadio Comunale Luigi Ferraris",
+    "venue_city": "Genova"
+  },
+  {
     "team_id": 499,
     "team_name": "Atalanta",
     "country": "Italy",
@@ -531,6 +540,15 @@
     "venue_city": "Salerno"
   },
   {
+    "team_id": 515,
+    "team_name": "Spezia",
+    "country": "Italy",
+    "founded": 1906,
+    "logo": "https://media.api-sports.io/football/teams/515.png",
+    "venue": "Stadio Alberto Picco",
+    "venue_city": "La Spezia"
+  },
+  {
     "team_id": 517,
     "team_name": "Venezia",
     "country": "Italy",
@@ -538,6 +556,15 @@
     "logo": "https://media.api-sports.io/football/teams/517.png",
     "venue": "Stadio Pierluigi Penzo",
     "venue_city": "Venezia"
+  },
+  {
+    "team_id": 520,
+    "team_name": "Cremonese",
+    "country": "Italy",
+    "founded": 1903,
+    "logo": "https://media.api-sports.io/football/teams/520.png",
+    "venue": "Stadio Giovanni Zini",
+    "venue_city": "Cremona"
   },
   {
     "team_id": 523,
