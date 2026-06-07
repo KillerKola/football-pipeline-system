@@ -8,10 +8,10 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 load_dotenv()
 
 DB_HOST = os.getenv("DB_HOST", "localhost")
-DB_PORT = os.getenv("DB_PORT", "5432")
+DB_PORT = os.getenv("DB_PORT", "5544")
 DB_NAME = os.getenv("DB_NAME", "football_pipeline")
 DB_USER = os.getenv("DB_USER", "postgres")
-DB_PASSWORD = os.getenv("DB_PASSWORD", "")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "postgres")
 
 SQL_DIR = Path("sql")
 SCHEMA_FILE = SQL_DIR / "schema.sql"
