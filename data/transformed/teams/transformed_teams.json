@@ -216,15 +216,6 @@
     "venue_city": "München"
   },
   {
-    "team_id": 158,
-    "team_name": "Fortuna Düsseldorf",
-    "country": "Germany",
-    "founded": 1895,
-    "logo": "https://media.api-sports.io/football/teams/158.png",
-    "venue": "Düsseldorf Arena",
-    "venue_city": "Düsseldorf"
-  },
-  {
     "team_id": 160,
     "team_name": "SC Freiburg",
     "country": "Germany",
@@ -351,15 +342,6 @@
     "venue_city": "Heidenheim an der Brenz"
   },
   {
-    "team_id": 181,
-    "team_name": "SV Darmstadt 98",
-    "country": "Germany",
-    "founded": 1898,
-    "logo": "https://media.api-sports.io/football/teams/181.png",
-    "venue": "Merck-Stadion am Böllenfalltor",
-    "venue_city": "Darmstadt"
-  },
-  {
     "team_id": 182,
     "team_name": "Union Berlin",
     "country": "Germany",
@@ -385,15 +367,6 @@
     "logo": "https://media.api-sports.io/football/teams/191.png",
     "venue": "Holstein-Stadion",
     "venue_city": "Kiel"
-  },
-  {
-    "team_id": 192,
-    "team_name": "1. FC Köln",
-    "country": "Germany",
-    "founded": 1948,
-    "logo": "https://media.api-sports.io/football/teams/192.png",
-    "venue": "RheinEnergieSTADION",
-    "venue_city": "Köln"
   },
   {
     "team_id": 487,
