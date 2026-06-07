@@ -67,7 +67,7 @@ Setup guide:
      'python main.py fetch createdb load'
    - you can also run this if you want to use only the data already in the files
      'python main.py createdb load'
-8) Open metabase via docker or go to http://localhost:3001
+8) Open metabase via docker or go to http://localhost:3002
 9) Login with
    -email: improjektr@gmail.com
    -password: xQt6UMU)2#90)j
