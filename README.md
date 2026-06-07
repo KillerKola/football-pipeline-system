@@ -71,7 +71,7 @@ Setup guide:
 9) Login with
    -email: improjektr@gmail.com
    -password: xQt6UMU)2#90)j
-10) In metabase click the icon in the top right corner, open "Admin", go to "Databases" and edit the current connection: Host: "postgres", password: "postgres"
+10) That's it! You should be good to go. If you want to access metabase with an admin account to change the existing dashboards, please contact the owner of the repository
 
     -note: prefect automatically refreshes the seasons listed in your .env file every day at 3 AM which requires your system to be running. You can also open the prefect container and run it manually or change the running time in the .yml file
 
