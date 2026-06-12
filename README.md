@@ -60,7 +60,7 @@ requirements: Docker & Python
 1) clone the repository
 2) Create the .env file by copying the .env.example
 3) (Necessary only if you want to add more data) Make an API-football account and copy your API key into the .env file
-4) Start PostgreSQL, Metabase and Prefect in docker (install docker first and run the following command in the project root)
+4) Start PostgreSQL, Metabase and Prefect in docker (install and open docker first and run the following command in the project root)
    'docker compose -f docker/docker-compose.yml up -d'
 6) Run the docker containers if they aren't already running and then run the pipeline:
    - 'pip install -r requirements.txt'
