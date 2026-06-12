@@ -56,6 +56,7 @@ Planned system architecture:
 
 
 Setup guide:
+requirements: Docker & Python
 1) clone the repository
 2) Create the .env file by copying the .env.example
 3) (Necessary only if you want to add more data) Make an API-football account and copy your API key into the .env file
